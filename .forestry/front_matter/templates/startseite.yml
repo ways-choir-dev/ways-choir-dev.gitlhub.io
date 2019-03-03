@@ -1,0 +1,26 @@
+---
+label: Startseite
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: forestry_title
+  label: Title (for forestry-overview)
+  description: Titel der in Übersichten von forestry angezeigt wird, NICHT auf der
+    Website
+  config:
+    required: true
+- type: text
+  name: page_header
+  label: Page Header
+  description: Überschrift der Seite, z.B. Name der Company, der Organisation, der
+    Person, ...
+  config:
+    required: true
+- type: text
+- type: file
+  name: welcome_img
+  label: Startseiten-Bild
+  description: Dieses Bild wird auf der Startseite ganz oben angezeigt
+  config:
+    maxSize: '5'
