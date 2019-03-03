@@ -24,3 +24,5 @@ fields:
   description: Dieses Bild wird auf der Startseite ganz oben angezeigt
   config:
     maxSize: '5'
+pages:
+- content/_index.de.md
