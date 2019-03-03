@@ -4,7 +4,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: forestry_title
+  name: title
   label: Title (for forestry-overview)
   description: Titel der in Übersichten von forestry angezeigt wird, NICHT auf der
     Website
@@ -26,3 +26,4 @@ fields:
     maxSize: '5'
 pages:
 - content/_index.de.md
+- content/_index.en.md

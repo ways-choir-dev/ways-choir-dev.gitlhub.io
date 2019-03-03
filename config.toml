@@ -1,5 +1,21 @@
-baseurl = "https://ways-website-2.0.gitlab.io"
+baseurl = "https://ways-choir.gitlab.io/ways-website-2.0.gitlab.io/"
 # baseurl = "http://www.ways-choir.eu/"
 title = "WAYS - WithAllYourSenses"
 theme = "twenty"
 languageCode = "de-de"
+
+[languages]
+[languages.de]
+weight = 1
+languageName = "Deutsch"
+
+[languages.en]
+weight = 2
+languageName = "English"
+
+[params]
+[params.imagesConfig]
+    cloudinaryURL = "https://res.cloudinary.com/ways-choir/image/upload"
+    lightboxImageDownloadSize = "w_2000"
+
+
