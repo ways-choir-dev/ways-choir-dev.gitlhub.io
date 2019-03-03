@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://ways-website-2.0.gitlab.io"
+# baseurl = "http://www.ways-choir.eu/"
+title = "WAYS - WithAllYourSenses"
+theme = "twenty"
+languageCode = "de-de"
