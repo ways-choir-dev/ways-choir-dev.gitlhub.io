@@ -12,12 +12,15 @@ fields:
     required: true
 - type: text
   name: page_header
-  label: Page Header
+  label: Name der Seite
   description: Überschrift der Seite, z.B. Name der Company, der Organisation, der
     Person, ...
   config:
     required: true
 - type: text
+  name: page_sub_header
+  label: Unter-Überschrift
+  description: 2. Überschrift, wird auf der Startseite etwas kleiner unter dem Seitennamen angezeigt
 - type: file
   name: welcome_img
   label: Startseiten-Bild
