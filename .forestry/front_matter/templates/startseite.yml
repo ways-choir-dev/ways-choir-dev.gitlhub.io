@@ -20,7 +20,8 @@ fields:
 - type: text
   name: page_sub_header
   label: Unter-Überschrift
-  description: 2. Überschrift, wird auf der Startseite etwas kleiner unter dem Seitennamen angezeigt
+  description: 2. Überschrift, wird auf der Startseite etwas kleiner unter dem Seitennamen
+    angezeigt
 - type: file
   name: welcome_img
   label: Startseiten-Bild
@@ -28,5 +29,5 @@ fields:
   config:
     maxSize: '5'
 pages:
-- content/_index.de.md
 - content/_index.en.md
+- content/_index.de.md
