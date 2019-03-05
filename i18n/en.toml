@@ -1,2 +1,4 @@
 [tell_me_more]
-    other = "Erzähl mir mehr!"
+    other = "Tell me more"
+[startpage_link]
+    other = "Welcome"
