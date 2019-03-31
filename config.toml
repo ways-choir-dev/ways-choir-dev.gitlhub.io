@@ -1,4 +1,4 @@
-baseurl = "https://ways-choir.gitlab.io/ways-website-2.0.gitlab.io/"
+baseurl = "https://ways-choir-dev.gitlab.io"
 # baseurl = "http://www.ways-choir.eu/"
 title = "WAYS - WithAllYourSenses"
 theme = "twenty"
