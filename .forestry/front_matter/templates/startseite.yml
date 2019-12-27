@@ -28,5 +28,5 @@ fields:
   config:
     maxSize: '5'
 pages:
-- content/_index.en.md
 - content/_index.de.md
+- content/_index.en.md
