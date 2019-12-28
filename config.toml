@@ -55,5 +55,6 @@ languageName = "English"
 [params.imagesConfig]
     cloudinaryURL = "https://res.cloudinary.com/ways-choir/image/upload"
     lightboxImageDownloadSize = "w_2000"
+    logoImageDownloadSize = "w_1000"
 
 

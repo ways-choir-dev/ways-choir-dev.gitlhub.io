@@ -1,5 +1,8 @@
 <header id="header" class="alt">
-    <h1 id="logo"><a href="index.html">{{.Site.Title}}</a></h1>
+    <h1 id="logo">
+      <a href="index.html" title="{{.Site.Title}}">
+        <img id="logo-img" src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.logoImageDownloadSize }}/{{.Params.logo}}">
+      </a></h1>
     <nav id="nav">
         <ul>
             <li class="current"><a href="index.html">{{ i18n "startpage_link" }}</a></li>

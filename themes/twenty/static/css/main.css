@@ -2195,7 +2195,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #d0c0bc;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2290,7 +2290,7 @@ input, select, textarea {
 		cursor: default;
 		font-size: 0.8em;
 		left: 0;
-		padding: 1em 1.5em;
+		padding: 1.8em 1.5em;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -2506,12 +2506,12 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-position: bottom left, bottom right, top left, top center;
-		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, auto, cover;
+		background-position: bottom center, top left, top center;
+		background-repeat: no-repeat, repeat, no-repeat;
+		background-size: contain, auto, cover;
 		color: #fff;
 		cursor: default;
-		padding: 30% 0;
+		padding: 85vh 0 0;
 		text-align: center;
 	}
 
@@ -2528,7 +2528,7 @@ input, select, textarea {
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
-			padding: 3em;
+			padding: 1em 3em 3em;
 			text-align: center;
 		}
 
@@ -2571,10 +2571,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
-		background-position: top left, top right, bottom left, bottom right;
-		background-repeat: no-repeat;
-		background-size: 25em;
+    background-color: #e74011;
 		padding: 7em 0;
 	}
 
@@ -2605,7 +2602,7 @@ input, select, textarea {
 		background-color: #645862;
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, auto, cover;
+		background-size: contain, auto, cover;
 		color: #fff;
 		padding: 5em;
 		text-align: center;
@@ -2786,8 +2783,8 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				background-size: 15em, 15em, auto, cover;
-			}
+        background-size: contain, auto, cover;
+      }
 
 		/* Main */
 
@@ -3237,8 +3234,8 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				background-size: 10em, 10em, auto, cover;
-				padding: 6em 0;
+        background-size: contain, auto, cover;
+        padding: 30% 0;
 			}
 
 				#banner .inner {
@@ -3312,3 +3309,20 @@ input, select, textarea {
 			}
 
 	}
+
+#logo-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.reveal img#logo-img {
+  height: 100px;
+  width: auto;
+}
+
+.alt img#logo-img {
+  width: 60%;
+  height: auto;
+}
+

@@ -22,6 +22,12 @@ fields:
   description: 2. Überschrift, wird auf der Startseite etwas kleiner unter dem Seitennamen
     angezeigt
 - type: file
+  name: logo
+  label: Logo der Seite
+  description: Dieses Bild wird als Logo oben links auf der Startseite angezeigt
+  config:
+    maxSize: '5'
+- type: file
   name: welcome_img
   label: Startseiten-Bild
   description: Dieses Bild wird auf der Startseite ganz oben angezeigt

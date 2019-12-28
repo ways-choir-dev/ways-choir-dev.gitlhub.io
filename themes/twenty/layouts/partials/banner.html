@@ -1,7 +1,6 @@
 <section id="banner"
-   style='background-image: url("css/images/light-bl.svg"), url("css/images/light-br.svg"), url("css/images/overlay.png"), url("{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.lightboxImageDownloadSize }}/{{ .Params.welcome_img }}");'
+   style='background-image: url("{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.lightboxImageDownloadSize }}/bogen_orange_flach.png"), url("css/images/overlay.png"), url("{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.lightboxImageDownloadSize }}/{{ .Params.welcome_img }}");'
 >
-
   <!--
                 ".inner" is set up as an inline-block so it automatically expands
                 in both directions to fit whatever's inside it. This means it won't
@@ -9,17 +8,20 @@
                 appropriate (<br />).
             -->
   <div class="inner">
+    {{ if .Params.page_header }}
     <header>
       <h2>{{ .Params.page_header }}</h2>
     </header>
+    {{ end }}
     {{ if .Params.page_sub_header }}
     <p>{{ .Params.page_sub_header}}</p>
     {{ end }}
-    <footer>
-      <ul class="buttons stacked">
-        <li><a href="#main" class="button fit scrolly">{{ i18n "tell_me_more" }}</a></li>
-      </ul>
-    </footer>
+    <div id="header-bottom">
+
+    </div>
+    <ul class="buttons stacked">
+      <li><a href="#main" class="button fit scrolly">{{ i18n "tell_me_more" }}</a></li>
+    </ul>
 
   </div>
 
