@@ -1,18 +1,18 @@
 +++
 forestry_title = "WAYS Startseite"
-page_header = ""
+logo = ""
+page_header = "WAYS - WithAllYourSenses"
 page_sub_header = ""
 title = "WAYS - WithAllYourSenses"
-welcome_img = "/v1577482567/ways_filter_IC_sw_blass.jpg"
-logo = "/v1577487364/logo_bg_white.png"
+welcome_img = "https://res.cloudinary.com/ways-choir/image/upload/v1577482567/ways_filter_IC_sw_blass.jpg"
 
 +++
-# WAYS - With All Your Senses
+# WAYS - WithAllYourSenses
 
-Manche nennen es Gospel, andere nennen es Soul, Rhythm & Blues oder auch Popmusik.
+Manche nennen es Gospel, andere nennen es Soul, Rhythm&Blues oder auch Popmusik.
 
 Wir wollen viele Wege in der Musik gehen.
 
-Wir wollen „Songs mit Bedeutung” singen, begeistern, mitreißen.
+Wir wollen "Songs mit Bedeutung" singen, mitreißen, begeistern!
 
-Mit all deinen Sinnen.
+Mit all deinen Sinnen...
