@@ -3,7 +3,7 @@ forestry_title = "WAYS Startseite"
 page_header = ""
 page_sub_header = ""
 title = "WAYS - WithAllYourSenses"
-welcome_img = "/v1577482567/ways_filter_IC_sw_blass.jpg"
+welcome_img = "/v1577994225/ways_filter_IC.jpg"
 logo = "/v1577487364/logo_bg_white.png"
 
 +++
