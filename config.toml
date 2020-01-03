@@ -52,6 +52,22 @@ languageName = "English"
     identifier = "menu_about_the_choir"
 
 [params]
+    logo = "/v1577487364/logo_bg_white.png"
+    email = "info@ways-choir.eu"
+    address = """<p><strong>WAYS - WithAllYourSenses</strong>
+        <br><strong>Proben:</strong> immer Montags von 18:45 - 21:45 Uhr
+        <br>in der Pro Seniore Residenz Kurfürstendamm
+        <br>Kurfürstendamm 100
+        <br>10709 Berlin (Bezirk Wilmersdorf)
+      </p>
+      <p>
+        Kontakt: +49 178-2440085 (Marion)
+        <br>oder info@ways-choir.eu
+      </p>
+      """
+    latitude = "52.4984045"
+    longitude = "13.297099600000024"
+
 [params.imagesConfig]
     cloudinaryURL = "https://res.cloudinary.com/ways-choir/image/upload"
     lightboxImageDownloadSize = "w_2000"

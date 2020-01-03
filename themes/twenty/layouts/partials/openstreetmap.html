@@ -1,0 +1,12 @@
+{{ if isset .Site.Params "latitude" }}
+    {{ if isset .Site.Params "longitude" }}
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+        src="https://www.openstreetmap.org/export/embed.html?bbox=13.2807%2C52.4956%2C13.3217%2C52.5044&amp;layer=mapnik&amp;marker=52.49827%2C13.29648"
+        style="border: 1px solid black">
+</iframe><br/>
+<small><a href="https://www.openstreetmap.org/?mlat=52.49827&amp;mlon=13.29648#map=19/52.49827/13.29648">
+    Größere Karte anzeigen</a></small>
+
+    {{ end }}
+{{ end }}
