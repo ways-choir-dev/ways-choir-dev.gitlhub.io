@@ -2,3 +2,13 @@
     other = "Tell me more"
 [startpage_link]
     other = "Welcome"
+[contactForm]
+    other = "Contact form"
+[contactName]
+    other = "Your Name"
+[contactMail]
+    other = "Your Email"
+[contactMessage]
+    other = "Your Message"
+[contactSend]
+    other = "Send Message"

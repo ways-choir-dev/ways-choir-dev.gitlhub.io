@@ -2,3 +2,13 @@
     other = "Erzähl mir mehr!"
 [startpage_link]
     other = "Startseite"
+[contactForm]
+    other = "Kontakt Formular"
+[contactName]
+    other = "Ihr Name"
+[contactMail]
+    other = "Ihre Email Adresse"
+[contactMessage]
+    other = "Ihre Nachricht an uns"
+[contactSend]
+    other = "Nachricht Senden"
