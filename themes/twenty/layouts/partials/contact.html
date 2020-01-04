@@ -45,16 +45,29 @@
 
         <div class="col-md-4">
 
-            {{ if isset .Site.Params "address" }}
+          {{ with .Site.Params.contact }}
             <section>
 
-              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+              <h3 class="text-uppercase"> {{ i18n "rehersalTitle" }}</h3>
+              <p>
+                {{ i18n "every" }} {{ i18n .rehersal.weekday }} {{ i18n "from" }} {{ .rehersal.start | safeHTML }} {{ i18n "to" }} {{ .rehersal.end | safeHTML }} {{ i18n "oclock" }}
+              </p>
 
-                {{ .Site.Params.address | safeHTML }}
+              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+              <p>
+                <strong>{{ .name | safeHTML }}</strong>
+                {{ .address | safeHTML }}
+              </p>
+
+              <h3 class="text-uppercase"> {{ i18n "contactTitle" }}</h3>
+              <p>
+              {{ i18n "phone" }}: +49 178-2440085 (Marion)<br>
+              {{ i18n "email" }}: info@ways-choir.eu
+              </p>
 
             </section>
 
-            {{ end }}
+          {{ end }}
 
         </div>
 

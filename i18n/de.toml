@@ -1,14 +1,110 @@
 [tell_me_more]
     other = "Erzähl mir mehr!"
+
 [startpage_link]
     other = "Startseite"
+
 [contactForm]
     other = "Kontakt Formular"
+
 [contactName]
     other = "Ihr Name"
+
 [contactMail]
     other = "Ihre Email Adresse"
+
 [contactMessage]
     other = "Ihre Nachricht an uns"
+
 [contactSend]
     other = "Nachricht Senden"
+
+[contactTitle]
+    other = "Kontakt"
+
+[contactAddrTitle]
+    other = "Adresse"
+
+[rehersalTitle]
+    other = "Proben"
+
+[rehersal]
+    other = "Proben"
+
+[every]
+    other = "immer"
+
+[from]
+    other = "von"
+
+[to]
+    other = "-"
+
+[oclock]
+    other = "Uhr"
+
+[phone]
+    other = "Telefon"
+
+[email]
+    other = "E-Mail"
+
+[January]
+  other = "Januar"
+
+[February]
+  other = "Februar"
+
+[March]
+  other = "März"
+
+[April]
+  other = "April"
+
+[May]
+  other = "Mai"
+
+[June]
+  other = "Juni"
+
+[July]
+  other = "Juli"
+
+[August]
+  other = "August"
+
+[September]
+  other = "September"
+
+[October]
+  other = "Oktober"
+
+[November]
+  other = "November"
+
+[December]
+  other = "Dezember"
+
+[Monday]
+  other = "Monatg"
+
+[Tuesday]
+  other = "Dienstag"
+
+[Wednesday]
+  other = "Mittwoch"
+
+[Thursday]
+  other = "Donnerstag"
+
+[Friday]
+  other = "Freitag"
+
+[Saturday]
+  other = "Samstag"
+
+[Sunday]
+  other = "Sonntag"
+
+[X]
+    other = "Y"
