@@ -13,6 +13,9 @@
 [contactMail]
     other = "Your Email"
 
+[subjectMail]
+    other = "Subject"
+
 [contactMessage]
     other = "Your Message"
 

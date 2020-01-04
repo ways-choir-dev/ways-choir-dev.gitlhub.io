@@ -13,6 +13,9 @@
 [contactMail]
     other = "Ihre Email Adresse"
 
+[subjectMail]
+    other = "Betreff"
+
 [contactMessage]
     other = "Ihre Nachricht an uns"
 
