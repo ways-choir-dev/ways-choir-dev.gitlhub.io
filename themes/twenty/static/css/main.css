@@ -3357,3 +3357,13 @@ input, select, textarea {
 .event-location-name {
   margin-block-end: 0.5em;
 }
+
+.reminder {
+  width: 80%;
+  display: block;
+  margin: auto;
+  border: #e74011 solid 1px;
+  background-color: rgba(230, 230, 230, 0.5);
+  padding: 2em;
+  margin-bottom: 7em;
+}

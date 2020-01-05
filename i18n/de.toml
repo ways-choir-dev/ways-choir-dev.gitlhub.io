@@ -118,5 +118,8 @@
 [concertDetailsGoTo]
   other = "Zu den Konzert-Details"
 
+[currentlyNoConcerts]
+    other = "Zurzeit sind leider keine Konzerte geplant"
+
 [X]
     other = "Y"

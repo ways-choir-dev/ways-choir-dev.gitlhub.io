@@ -22,27 +22,38 @@
 
           <div class="col-md-12">
 
+            {{ $events := where (.Data.Pages.ByParam "event.date").Reverse "Section" .Section }}
+
+            {{ $scratch := newScratch }}
+            {{ $scratch.Set "border" -1 }}
+            {{ range $index, $element := $events }}
+              {{ if ge (time .Params.event.date).Unix now.Unix }}
+                {{ $scratch.Set "border" $index }}
+              {{ end }}
+            {{ end }}
+
+            {{ $border := add ($scratch.Get "border") 1 }}
+            {{ $border }}
+            {{ $v1 := first $border $events }}
+            {{ $v2 := $events | complement $v1 }}
+
             <section class="wrapper style4 special blog-listing-big">
-
               <h1>{{ .Title }}</h1>
-              <h2>{{ i18n "ConcertsComingSoon" }}</h2>
-              {{ $paginator := .Paginate (where (.Data.Pages.ByParam "event.date").Reverse "Section" .Section) }}
-              {{ range $paginator.Pages }}
-                {{ if ge (time .Params.event.date).Unix now.Unix }}
+              {{ if eq (len $v1) 0 }}
 
-                  {{ partial "concert-listview-with-image.html" . }}
-
+                <div class="reminder">
+                  <h1>{{ i18n "currentlyNoConcerts" }}</h1>
+                </div>
+              {{ else }}
+                <h2>{{ i18n "ConcertsComingSoon" }}</h2>
+                {{ range $v1 }}
+                    {{ partial "concert-listview-with-image.html" . }}
                 {{ end }}
               {{ end }}
 
               <h2>{{ i18n "ConcertsArchive" }}</h2>
-              {{ $paginator := .Paginate (where (.Data.Pages.ByParam "event.date").Reverse "Section" .Section) }}
-              {{ range $paginator.Pages }}
-                {{ if lt (time .Params.event.date).Unix now.Unix }}
-
-                  {{ partial "concert-listview-with-image.html" . }}
-
-                {{ end }}
+              {{ range $v2 }}
+              {{ partial "concert-listview-with-image.html" . }}
               {{ end }}
             </section>
 
