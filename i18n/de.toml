@@ -121,5 +121,8 @@
 [currentlyNoConcerts]
     other = "Zurzeit sind leider keine Konzerte geplant"
 
+[biggerMap]
+    other = "Größere Karte anzeigen"
+
 [X]
     other = "Y"

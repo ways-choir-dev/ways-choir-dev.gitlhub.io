@@ -3376,3 +3376,13 @@ input, select, textarea {
   margin-top: 4em;
   margin-bottom: 4em;
 }
+
+#open-streetmap-link {
+  color: #ffffff;
+  margin-top: 2em;
+}
+
+#open-streetmap-link a {
+  color: #ffffff;
+}
+

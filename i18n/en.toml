@@ -121,5 +121,8 @@
 [currentlyNoConcerts]
     other = "Currently no Concerts are planned"
 
+[biggerMap]
+    other = "switch to bigger map.."
+
 [X]
     other = "Y"
