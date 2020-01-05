@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<!--
+	Twenty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang='{{ $.Site.LanguageCode | default "en" }}'>
+{{ block "head" . }}{{ partial "head.html" . }}{{end}}
+
+<body class="contact is-preload">
+<div id="page-wrapper">
+
+  {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+
+  <article id="main">
+
+    <div id="content">
+
+      <div class="banner-img">
+        <img src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.lightboxImageDownloadSize }}/{{ .Params.banner }}" class="img-responsive" alt="">
+      </div>
+
+      <div class="container">
+
+        <div class="row">
+
+          <!-- *** LEFT COLUMN *** -->
+
+          <div class="col-md-9" id="blog-post">
+            <div class="row">
+              <div class="col-md-12">
+                <h1>{{ .Params.title }}</h1>
+                {{ with .Params.description  }}
+                <h2>{{ . }}</h2>
+                {{ end }}
+              </div>
+            </div>
+
+            <div id="post-content">
+              {{ .Content }}
+            </div>
+
+            {{ with .Params.event }}
+            <div id="event-details">
+              <p class="event-date">
+                {{ partial "date.html" .date }}, Beginn: {{ dateFormat $.Site.Params.time_format .date }} Uhr
+              </p>
+              {{ with .location.name}}
+              <p class="event-location-name">
+                {{ . }}
+              </p>
+              {{ end }}
+              <p class="event-location-address">
+                {{ .location.street }}<br>
+                {{ .location.city }}
+              </p>
+            </div>
+            {{ end }}
+
+            <!-- /#post-content -->
+            {{ if .Site.DisqusShortname }}
+            <div id="comments">
+              {{ template "_internal/disqus.html" . }}
+            </div>
+            {{ end }}
+
+          </div>
+          <!-- /#blog-post -->
+
+          <!-- *** LEFT COLUMN END *** -->
+
+          <!-- *** RIGHT COLUMN *** -->
+
+          <div class="col-md-3">
+
+            <!-- *** MENUS AND WIDGETS *** -->
+
+            {{ partial "sidebar.html" . }}
+
+            <!-- *** MENUS AND FILTERS END *** -->
+
+          </div>
+          <!-- /.col-md-3 -->
+
+          <!-- *** RIGHT COLUMN END *** -->
+        </div>
+        <!-- /.row -->
+
+      </div>
+      <!-- /.container -->
+
+    </div>
+
+  </article>
+
+  {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+  {{ block "scripts" . }}{{ partial "scripts.html" . }}{{ end }}
+</div>
+
+</body>
+</html>

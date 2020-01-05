@@ -32,6 +32,12 @@ languageName = "English"
     parent = "menu_about"
     identifier = "menu_about_the_choir"
 
+[[languages.de.menu.main]]
+    url    = "/events/"
+    name   = "Konzerte"
+    weight = 50
+    parent = "menu_about"
+    identifier = "menu_about_concerts"
 
 [[languages.en.menu.main]]
     url = "/contact"
@@ -51,9 +57,21 @@ languageName = "English"
     parent = "menu_about"
     identifier = "menu_about_the_choir"
 
+[[languages.en.menu.main]]
+    url    = "/events/"
+    name   = "Concerts"
+    weight = 50
+    parent = "menu_about"
+    identifier = "menu_about_concerts"
+
+
 [params]
     logo = "/v1577487364/logo_bg_white.png"
     email = "info@ways-choir.eu"
+    # Format dates with Go's time formatting
+    date_format = "2. January, 2006"
+    time_format = "15:04"
+
     latitude = "52.4984045"
     longitude = "13.297099600000024"
 
@@ -90,5 +108,7 @@ languageName = "English"
     cloudinaryURL = "https://res.cloudinary.com/ways-choir/image/upload"
     lightboxImageDownloadSize = "w_2000"
     logoImageDownloadSize = "w_1000"
+    listImageDefaultFile = "/images/ways-plakat-default.png"
+    listImageDownloadSize = "w_240"
 
 

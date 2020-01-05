@@ -109,6 +109,14 @@
 [Sunday]
   other = "Sunday"
 
+[ConcertsComingSoon]
+  other = "Coming soon"
+
+[ConcertsArchive]
+  other = "Concert archive"
+
+[concertDetailsGoTo]
+  other = "Concert Details"
 
 [X]
     other = "Y"

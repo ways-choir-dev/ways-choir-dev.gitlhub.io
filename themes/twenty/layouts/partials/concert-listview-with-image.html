@@ -1,0 +1,37 @@
+<section class="post">
+  <div class="row">
+    <div class="col-4 col-12-mobile col-12-narrow">
+      <div class="list-img">
+        <a href="{{ .Permalink }}">
+          {{ if .Params.listimg }}
+          <img src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.listImageDownloadSize }}/{{ .Params.listimg }}" class="img-responsive" alt="">
+          {{ else }}
+          <img src="{{ .Site.BaseURL}}{{$.Site.Params.listImageDefaultFile}}" class="img-responsive" alt="">
+          {{ end }}
+        </a>
+      </div>
+    </div>
+    <div class="col-8 col-12-mobile col-12-narrow list-concent">
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <div class="clearfix">
+        <p class="date-comments">
+          <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i>{{ partial "date.html" .Params.event.date }}</a>
+        </p>
+      </div>
+      </p>
+      {{ with .Params.event.location }}
+        {{ with .name}}
+        <p class="event-location-name">
+          <strong>{{ . }}</strong>
+        </p>
+        {{ end }}
+        <p class="event-location-address">
+          {{ .street }}<br>
+          {{ .city }}
+        </p>
+      {{ end }}
+      <p class="intro">{{ .Summary }}</p>
+      <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
+    </div>
+  </div>
+</section>

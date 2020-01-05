@@ -184,10 +184,12 @@ input, select, textarea {
 /* Container */
 
 	.container {
+    background-color: #ffffff !important;
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
-	}
+    margin-top: 7em;
+  }
 
 		.container.medium {
 			width: 1050px;
@@ -2577,7 +2579,7 @@ input, select, textarea {
 
 	#main {
     background-color: #e74011;
-		padding: 7em 0;
+		padding: 2.8em 0;
 	}
 
 		#main > :last-child {
@@ -3331,3 +3333,27 @@ input, select, textarea {
   height: auto;
 }
 
+.list-img {
+  width: 240px;
+  height: 360px;
+  display:block;
+  margin:auto;
+}
+.banner-img {
+  width: 100%;
+}
+
+.list-img img.img-responsive,
+.banner-img img.img-responsive
+{
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.list-concent {
+  color: #7c8081;
+}
+
+.event-location-name {
+  margin-block-end: 0.5em;
+}
