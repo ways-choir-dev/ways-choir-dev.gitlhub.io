@@ -3365,5 +3365,14 @@ input, select, textarea {
   border: #e74011 solid 1px;
   background-color: rgba(230, 230, 230, 0.5);
   padding: 2em;
-  margin-bottom: 7em;
+}
+
+.horintal-line {
+  width: 90%;
+  height: 4px;
+  border-bottom: darkgrey 1px solid;
+  display: block;
+  margin: auto;
+  margin-top: 4em;
+  margin-bottom: 4em;
 }
