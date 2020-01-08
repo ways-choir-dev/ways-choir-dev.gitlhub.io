@@ -26,7 +26,7 @@ languageName = "English"
     identifier = "menu_about"
 
 [[languages.de.menu.main]]
-    url    = "/about/the-choir/"
+    url    = "/about/the_choir/"
     name   = "Der Chor"
     weight = 100
     parent = "menu_about"
@@ -51,7 +51,7 @@ languageName = "English"
     identifier = "menu_about"
 
 [[languages.en.menu.main]]
-    url    = "/about/the-choir/"
+    url    = "/about/the_choir/"
     name   = "the choir"
     weight = 100
     parent = "menu_about"

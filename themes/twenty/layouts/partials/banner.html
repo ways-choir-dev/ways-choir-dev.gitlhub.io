@@ -16,7 +16,7 @@
     </header>
     {{ end }}
     {{ if .Params.page_sub_header }}
-    <p>{{ .Params.page_sub_header}}</p>
+    <p>{{ .Params.page_sub_header | safeHTML }}</p>
     {{ end }}
     <div id="header-bottom">
 

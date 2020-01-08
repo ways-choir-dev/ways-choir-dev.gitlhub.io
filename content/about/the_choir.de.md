@@ -1,11 +1,9 @@
 +++
-forestry_title = "WAYS Startseite"
-page_header = "WAYS"
-page_sub_header = "with-all-your-senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
+forestry_title = "About the Choir"
+page_header = ""
+page_sub_header = ""
 title = "WAYS - WithAllYourSenses"
-welcome_img = "/v1577994225/ways_filter_IC.jpg"
-info_sidebar = "Winner of SingBerlin2018"
-
+type = "page"
 +++
 # WAYS - WithAllYourSenses
 

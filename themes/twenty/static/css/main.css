@@ -107,7 +107,6 @@ input, select, textarea {
 	}
 
   section {
-    color: #ffffff;
   }
 
 	a {
@@ -2199,6 +2198,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			padding: 0;
+      color: #7c8081 !important;
 		}
 
 		.wrapper.style2 {
@@ -2207,7 +2207,7 @@ input, select, textarea {
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: #fff;
+			color: #7c8081 !important;
 		}
 
 			.wrapper.style2 input[type="button"]:hover,
@@ -2518,7 +2518,7 @@ input, select, textarea {
 		background-size: contain, auto, cover;
 		color: #fff;
 		cursor: default;
-		padding: 85vh 0 0;
+		padding: 55vh 0 0;
 		text-align: center;
 	}
 
@@ -2535,7 +2535,7 @@ input, select, textarea {
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
-			padding: 1em 3em 3em;
+			padding: 3em;
 			text-align: center;
 		}
 
@@ -2895,6 +2895,7 @@ input, select, textarea {
 
 			#banner {
 				margin: 0;
+        padding: 25vh 0;
 			}
 
 		/* Wrapper */
