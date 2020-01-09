@@ -33,15 +33,15 @@ sections:
 - type: directory
   path: content
   label: Uncategorised Pages ( nicht kathogorisierbare Seiten, Deutsch)
-  create: all
-  match: "**/*.de.md"
+  create: documents
+  match: "*.de.md"
   exclude: _index.de.md
   new_doc_ext: de.md
 - type: directory
   path: content
   label: Uncategorised Pages (English)
-  create: all
-  match: "**/*.en.md"
+  create: documents
+  match: "*.en.md"
   exclude: _index.en.md
   new_doc_ext: en.md
 upload_dir: ''
