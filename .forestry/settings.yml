@@ -6,14 +6,23 @@ webhook_url:
 sections:
 - type: directory
   path: content/events
-  label: Events
+  label: Events (Konzert, Deutsch)
   create: all
-  match: "**/*"
+  match: "**/*.de.md"
+  new_doc_ext: de.md
+- type: directory
+  path: content/events
+  label: Events (English)
+  create: all
+  match: "**/*.en.md"
+  new_doc_ext: de.md
 - type: directory
   path: content
-  label: Pages
+  label: Uncategorised Pages (English)
   create: all
-  match: "*"
+  match: "**/*.en.md"
+  exclude: _index.en.md
+  new_doc_ext: en.md
 upload_dir: ''
 public_path: https://res.cloudinary.com/ways-choir/image/upload
 front_matter_path: ''
