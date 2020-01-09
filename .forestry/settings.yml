@@ -2,8 +2,13 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
+- type: directory
+  path: content/events
+  label: Events
+  create: all
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
@@ -12,7 +17,7 @@ sections:
 upload_dir: ''
 public_path: https://res.cloudinary.com/ways-choir/image/upload
 front_matter_path: ''
-use_front_matter_path:
+use_front_matter_path: 
 file_template: ":filename:"
 instant_preview: false
 build:
