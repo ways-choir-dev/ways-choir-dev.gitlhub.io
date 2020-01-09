@@ -33,6 +33,3 @@ fields:
     maxSize: 250
   label: Logo der Seite
   description: Dieses Bild wird als Logo oben links auf der Startseite angezeigt
-pages:
-- content/_index.de.md
-- content/_index.en.md

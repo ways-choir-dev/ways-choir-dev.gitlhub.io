@@ -5,6 +5,20 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: Startseite (Deutsch)
+  create: all
+  match: _index.de.md
+  templates:
+  - startseite
+- type: directory
+  path: content
+  label: Startpage (English)
+  create: all
+  match: _index.en.md
+  templates:
+  - startseite
+- type: directory
   path: content/events
   label: Events (Konzert, Deutsch)
   create: all
@@ -15,6 +29,13 @@ sections:
   label: Events (English)
   create: all
   match: "**/*.en.md"
+  new_doc_ext: de.md
+- type: directory
+  path: content
+  label: Uncategorised Pages ( nicht kathogorisierbare Seiten, Deutsch)
+  create: all
+  match: "**/*.de.md"
+  exclude: _index.de.md
   new_doc_ext: de.md
 - type: directory
   path: content
