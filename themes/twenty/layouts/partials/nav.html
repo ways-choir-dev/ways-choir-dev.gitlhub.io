@@ -26,5 +26,6 @@
     <li><a href="{{ .URL | absLangURL }}">{{ .Name}}</a></li>
     {{ end }}
     {{ end }}
+    <li>{{ partial "language-buttons.html" . }}</li>
   </ul>
 </nav>
