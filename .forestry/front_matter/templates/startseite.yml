@@ -36,5 +36,5 @@ fields:
   label: Inhalt der About-Sidebar
   description: Inhalt der Sidebar im Bereich über den Chor auf der Startseite
 pages:
-  - content/_index.de.md
-  - content/_index.en.md
+- content/_index.de.md
+- content/_index.en.md

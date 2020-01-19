@@ -42,11 +42,11 @@ fields:
   name: tags
   description: Suchworte nach denen dieses Konzert später gesucht werden kann
 pages:
-  - content/contact.de.md
-  - content/contact.en.md
-  - content/impressum.de.md
-  - content/impressum.en.md
-  - content/datenschutzerklaerung.de.md
-  - content/datenschutzerklaerung.en.md
-  - content/about/the_choir.de.md
-  - content/about/the_choir.en.md
+- content/contact.de.md
+- content/contact.en.md
+- content/impressum.de.md
+- content/impressum.en.md
+- content/datenschutzerklaerung.de.md
+- content/datenschutzerklaerung.en.md
+- content/about/the_choir.de.md
+- content/about/the_choir.en.md

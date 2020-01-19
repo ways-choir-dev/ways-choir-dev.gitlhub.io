@@ -93,19 +93,19 @@ fields:
     required: true
   default: events
 pages:
-  - content/events/20171202-studio-wiesenburg.de.md
-  - content/events/20171202-studio-wiesenburg.en.md
-  - content/events/20180412-total-choral.de.md
-  - content/events/20180412-total-choral.en.md
-  - content/events/20190321-total-choral.de.md
-  - content/events/20190321-total-choral.en.md
-  - content/events/celebration-5-years-of-ways.de.md
-  - content/events/celebration-5-years-of-ways.en.md
-  - content/events/cross-over-meets-ways.de.md
-  - content/events/cross-over-meets-ways.en.md
-  - content/events/sing-berlin-2018.de.md
-  - content/events/sing-berlin-2018.en.md
-  - content/events/ways-meets-inspired.de.md
-  - content/events/ways-meets-inspired.en.md
-  - content/events/ways-meets-klangwerk.de.md
-  - content/events/ways-meets-klangwerk.en.md
+- content/events/20171202-studio-wiesenburg.de.md
+- content/events/20171202-studio-wiesenburg.en.md
+- content/events/20180412-total-choral.de.md
+- content/events/20180412-total-choral.en.md
+- content/events/20190321-total-choral.de.md
+- content/events/20190321-total-choral.en.md
+- content/events/celebration-5-years-of-ways.de.md
+- content/events/celebration-5-years-of-ways.en.md
+- content/events/cross-over-meets-ways.de.md
+- content/events/cross-over-meets-ways.en.md
+- content/events/sing-berlin-2018.de.md
+- content/events/sing-berlin-2018.en.md
+- content/events/ways-meets-inspired.de.md
+- content/events/ways-meets-inspired.en.md
+- content/events/ways-meets-klangwerk.de.md
+- content/events/ways-meets-klangwerk.en.md
