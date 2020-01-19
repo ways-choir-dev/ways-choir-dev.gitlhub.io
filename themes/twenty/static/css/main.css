@@ -3326,9 +3326,6 @@ input, select, textarea {
   position: absolute;
   top: 0;
   left: 0;
-}
-
-.reveal img#logo-img {
   height: 100px;
   width: auto;
 }

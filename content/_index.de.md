@@ -1,8 +1,9 @@
 +++
 forestry_title = "WAYS Startpage"
-page_header = ""
-page_sub_header = ""
+page_header = "WAYS"
+page_sub_header = "with-all-your-senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
 title = "WAYS - WithAllYourSenses"
+sidebar_content = "![](https://res.cloudinary.com/ways-choir/image/upload/v1578645829/SingBerlinLogo.png)\nWAYS @ Sing Berlin! 2018\nGewinner in der Kathegorie „Modern – Jazz/Pop/Gospel”"
 welcome_img = "/v1577994225/ways_filter_IC.jpg"
 
 +++
@@ -15,3 +16,5 @@ Wir wollen viele Wege in der Musik gehen.
 Wir wollen "Songs mit Bedeutung" singen, mitreißen, begeistern!
 
 Mit all deinen Sinnen...
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)

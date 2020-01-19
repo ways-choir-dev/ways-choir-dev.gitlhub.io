@@ -1,9 +1,9 @@
-<header id="header" class="reveal">
+<header id="header">
   {{ if isset .Site.Params "logo" }}
   <h1 id="logo">
-      <a href="{{ "/" | absLangURL }}" title="{{.Site.Title}}">
-        <img id="logo-img" src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.logoImageDownloadSize }}/{{ .Site.Params.logo}}">
-      </a></h1>
+    <a href="{{ "/" | absLangURL }}" title="{{.Site.Title}}">
+    <img id="logo-img" src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.logoImageDownloadSize }}/{{ .Site.Params.logo}}">
+    </a></h1>
   {{ end }}
 
   {{ partial "nav.html" .}}

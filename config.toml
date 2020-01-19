@@ -3,6 +3,9 @@ baseurl = "https://ways-choir-dev.gitlab.io"
 title = "WAYS - WithAllYourSenses"
 theme = "twenty"
 languageCode = "de-de"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "de"
+
 
 [languages]
 [languages.de]
