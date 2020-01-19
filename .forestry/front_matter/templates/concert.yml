@@ -15,3 +15,98 @@ fields:
     required: true
   label: Überschrift der Website
   description: Name des Konzerts, erscheint als Überschrift auf der Website
+- type: datetime
+  name: publish_date
+  label: Publish Datum
+  description: Ab diesem Datum wird der Eintrag auf der Website angezeigt -> um Entwürfe erstellen zu können
+  config:
+    date_format: YYYY-MM-DD
+    time_format: HH:mm:ss ZZ
+- type: field_group
+  fields:
+  - type: datetime
+    name: date
+    label: Veranstaltungsdatum
+    description: Datum und Uhrzeit zu der das Konzert stattfindet
+    config:
+      date_format: YYYY-MM-DD
+      time_format: HH:mm
+      required: true
+  - type: field_group
+    fields:
+    - type: text
+      name: name
+      label: Name
+      description: Name des Veranstaltungsortes
+    - type: text
+      name: street
+      label: Straße und Hausnummer
+      description: Straße und Hausnummer des Veranstaltungsortes
+      config:
+        required: false
+    - type: text
+      label: Ort
+      name: city
+      description: PLZ und Ort des Veranstaltungsortes
+    description: Adresse des Veranstaltungsortes
+    label: Veranstaltungsort
+    name: location
+  label: Veranstaltungsdetails
+  name: event
+  description: Details zur Veranstaltung
+- type: tag_list
+  label: Suchworte
+  name: tags
+  description: Suchworte nach denen dieses Konzert später gesucht werden kann
+- type: file
+  name: banner
+  label: Bannerbild
+  config:
+    maxSize: '5'
+  description: Das Bild wird im Banner in der Einzelseitenansicht des Konzertes angezeigt
+- type: file
+  name: listimg
+  label: Listenbild
+  description: Das Bild wird in Listenansichten für das Konzert angezeigt
+  config:
+    maxSize: '1'
+- type: text
+  name: layout
+  description: Template mit dem festgelegt wird, wie ein Konzert dargestellt wird
+  hidden: true
+  config:
+    required: true
+  label: Layout
+  default: concert
+- type: tag_list
+  name: categories
+  label: Kategorien
+  description: Die Kategorie muss concert sein
+  hidden: true
+  default:
+  - concerts
+- type: text
+  name: type
+  label: Type
+  description: Type, bestimmt die Darstellung
+  hidden: true
+  config:
+    required: true
+  default: events
+pages:
+- content/events/20171202-studio-wiesenburg.de.md
+- content/events/20171202-studio-wiesenburg.en.md
+- content/events/20180412-total-choral.de.md
+- content/events/20180412-total-choral.en.md
+- content/events/20190321-total-choral.de.md
+- content/events/20190321-total-choral.en.md
+- content/events/celebration-5-years-of-ways.de.md
+- content/events/celebration-5-years-of-ways.en.md
+- content/events/cross-over-meets-ways.de.md
+- content/events/cross-over-meets-ways.en.md
+- content/events/sing-berlin-2018.de.md
+- content/events/sing-berlin-2018.en.md
+- content/events/ways-meets-inspired.de.md
+- content/events/ways-meets-inspired.en.md
+- content/events/ways-meets-klangwerk.de.md
+- content/events/ways-meets-klangwerk.en.md

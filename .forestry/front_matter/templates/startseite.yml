@@ -1,0 +1,40 @@
+---
+label: Startseite
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title (for forestry-overview)
+    description: Titel der in Übersichten von forestry angezeigt wird, NICHT auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
+  config:
+    required: true
+- type: text
+  name: page_title
+  label: Überschrift der Website
+  description: Name des Chores, erscheint als Überschrift auf der Website
+  config:
+    required: true
+- type: text
+  name: page_sub_title
+  label: Unter-Überschrift
+  description: 2. Überschrift, wird auf der Startseite etwas kleiner unter dem Seitennamen
+    angezeigt
+- type: file
+  name: welcome_img
+  label: Startseiten-Bild
+  description: Dieses Bild wird auf der Startseite ganz oben angezeigt
+  config:
+    maxSize: '5'
+- name: sidebar_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Inhalt der About-Sidebar
+  description: Inhalt der Sidebar im Bereich über den Chor auf der Startseite
+pages:
+- content/_index.de.md
+- content/_index.en.md
