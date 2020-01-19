@@ -18,7 +18,8 @@ fields:
 - type: datetime
   name: publish_date
   label: Publish Datum
-  description: Ab diesem Datum wird der Eintrag auf der Website angezeigt -> um Entwürfe erstellen zu können
+  description: Ab diesem Datum wird der Eintrag auf der Website angezeigt -> um Entwürfe
+    erstellen zu können
   config:
     date_format: YYYY-MM-DD
     time_format: HH:mm:ss ZZ

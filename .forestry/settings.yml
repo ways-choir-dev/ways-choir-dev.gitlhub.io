@@ -24,12 +24,16 @@ sections:
   create: all
   match: "**/*.de.md"
   new_doc_ext: de.md
+  templates:
+  - concert
 - type: directory
   path: content/events
   label: Events (English)
   create: all
   match: "**/*.en.md"
   new_doc_ext: de.md
+  templates:
+  - concert
 - type: directory
   path: content
   label: Uncategorised Pages ( nicht kathogorisierbare Seiten, Deutsch)

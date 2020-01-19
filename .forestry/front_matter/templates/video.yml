@@ -5,7 +5,8 @@ fields:
 - type: text
   name: title
   label: Title (for forestry-overview)
-  description: Titel des Videos, wird in Übersichten von forestry angezeigt, NICHT auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
+  description: Titel des Videos, wird in Übersichten von forestry angezeigt, NICHT
+    auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
   config:
     required: true
 - type: text
@@ -33,5 +34,5 @@ fields:
     source:
       type: simple
     options:
-      - Vimeo
-      - YouTube
+    - Vimeo
+    - YouTube
