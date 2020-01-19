@@ -1,6 +1,7 @@
 +++
 banner = "/v1578226741/Chor-Siegerbild2.jpg"
 categories = ["concerts"]
+type = "event"
 date = "2018-10-24T18:34:22+02:00"
 listimg = "/v1578226742/SingBerlin-Pokal.jpg"
 publish_date = ""
@@ -13,7 +14,6 @@ date = "2018-07-06T20:00:00+02:00"
 city = "10247 Berlin-Friedrichshain"
 name = "Händel-Gymnasium Berlin Friedrichshain"
 street = "Frankfurter Allee 6a"
-type = "events"
 
 +++
 ## The Winner is....

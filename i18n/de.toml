@@ -1,6 +1,15 @@
 [tell_me_more]
     other = "Erzähl mir mehr!"
 
+[FindOutMore]
+    other = "Mehr über den Chor lesen"
+
+[NextConcerts]
+  other = "Die nächsten Konzerte von"
+
+[ToConcertOverview]
+  other = "Zur Konzert-Übersicht"
+
 [startpage_link]
     other = "Startseite"
 

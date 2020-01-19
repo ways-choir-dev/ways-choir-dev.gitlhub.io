@@ -1,6 +1,15 @@
 [tell_me_more]
     other = "Tell me more"
 
+[FindOutMore]
+    other = "Find Out More"
+
+[NextConcerts]
+  other = "Next Concert of"
+
+[ToConcertOverview]
+  other = "To Concert Overview"
+
 [startpage_link]
     other = "Welcome"
 

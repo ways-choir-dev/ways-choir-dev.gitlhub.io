@@ -1,6 +1,7 @@
 +++
 banner = ""
 categories = ["concerts"]
+type = "event"
 date = "2018-04-21T14:23:19+02:00"
 listimg = "/v1578226673/WAYS_Konzert_20171202.jpg"
 publish_date = ""
@@ -13,7 +14,6 @@ date = "2017-12-02T20:00:00+01:00"
 city = "14827 Wiesenburg"
 name = "Mal's Scheune - Studio Wiesenburg"
 street = "Zum Winkelteich 4"
-type = "events"
 
 +++
 WAYS wieder in Mal's Scheune - Studio Wiesenburg!

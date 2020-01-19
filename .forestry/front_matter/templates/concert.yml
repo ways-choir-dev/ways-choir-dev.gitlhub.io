@@ -92,7 +92,7 @@ fields:
   hidden: true
   config:
     required: true
-  default: events
+  default: event
 pages:
 - content/events/20171202-studio-wiesenburg.de.md
 - content/events/20171202-studio-wiesenburg.en.md

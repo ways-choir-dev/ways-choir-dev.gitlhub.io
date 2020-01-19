@@ -3,7 +3,7 @@ title: 20180412-total-choral
 page_title: WAYS at Total Choral Pop/Jazz-Chor-Festival
 publish_date: 2018-02-26 10:29:30 +0000
 event:
-  date: 2018-04-12 20:00:00 +0000
+  date: 2018-04-12T20:00:00+01:00
   location:
     name: Cafe Theater Schalotte
     street: Behaimstraße 22
@@ -15,7 +15,7 @@ categories:
 - concerts
 listimg: "/v1578226658/Plakat_WAYS_TotalChoral_2018-04-12.png"
 banner: "/v1578226658/banner-total-choral.jpg"
-type: events
+type: event
 
 ---
 WAYS - With All Your Senses - with Gunars Kalnins 

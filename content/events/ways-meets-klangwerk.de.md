@@ -1,6 +1,7 @@
 +++
 banner = "/v1578226715/banner-ways-meets-kw.png"
 categories = ["concerts"]
+type = "event"
 date = "2018-04-01T16:06:53Z"
 listimg = "/v1578226666/plakat-ways-meets-kw.jpg"
 publish_date = "2018-03-31T22:00:00+00:00"
@@ -13,7 +14,6 @@ date = "2018-06-02T20:00:00+02:00"
 city = "12045 Berlin"
 name = "MARTIN-LUTHER-Kirche, NEUKÖLLN"
 street = "Fuldastraßee 48-50"
-type = "events"
 
 +++
 Zwei Berliner Chöre treffen aufeinander, um in einem gemeinsamen Konzert die heiligen Hallen der Martin Luther Kirche in Neukölln zu füllen:  

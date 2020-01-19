@@ -1,6 +1,7 @@
 +++
 banner = "/v1578226760/WAYS_meets_inspired_Banner.png"
 categories = ["concerts"]
+type = "event"
 listimg = "/v1578226761/WAYS_meets_inspired_Vorschau.png"
 publish_date = 2019-10-23T22:00:00Z
 tags = []
@@ -12,7 +13,6 @@ date = "2019-11-30T19:00:00+01:00"
 city = "10589 Berlin"
 name = "Gustav-Adolf-Kirche in Charlottenburg"
 street = "Herschelstraße 14"
-type = "events"
 
 +++
 ## GEMEINSCHAFTSKONZERT mit Groove-Faktor
