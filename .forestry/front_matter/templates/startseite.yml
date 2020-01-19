@@ -5,7 +5,7 @@ fields:
 - type: text
   name: title
   label: Title (for forestry-overview)
-    description: Titel der in Übersichten von forestry angezeigt wird, NICHT auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
+  description: Titel der in Übersichten von forestry angezeigt wird, NICHT auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
   config:
     required: true
 - type: text
