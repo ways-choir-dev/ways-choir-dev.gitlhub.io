@@ -1,4 +1,17 @@
 ---
 label: Concert
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title (for forestry-overview)
+  description: Titel der in Übersichten von forestry angezeigt wird, NICHT auf der
+    Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
+- name: page_title
+  type: text
+  config:
+    required: true
+  label: Überschrift der Website
+  description: Name des Konzerts, erscheint als Überschrift auf der Website
