@@ -5,7 +5,8 @@ date = "2018-06-19T09:27:14+02:00"
 listimg = "/v1578226728/Sommerkonzert_CO_WAYS_2018_k.jpg"
 publish_date = "2018-06-18T00:00:00+02:00"
 tags = []
-title = "CROSS OVER meets WAYS"
+title = "cross-over-meets-ways.de"
+page_title = "CROSS OVER meets WAYS"
 [event]
 date = "2018-06-24T16:00:00+02:00"
 [event.location]

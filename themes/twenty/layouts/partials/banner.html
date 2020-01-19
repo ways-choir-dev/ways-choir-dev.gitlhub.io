@@ -10,13 +10,13 @@
                 appropriate (<br />).
             -->
   <div class="inner">
-    {{ if .Params.page_header }}
+    {{ if .Params.page_title }}
     <header>
-      <h2>{{ .Params.page_header }}</h2>
+      <h2>{{ .Params.page_title }}</h2>
     </header>
     {{ end }}
-    {{ if .Params.page_sub_header }}
-    <p>{{ .Params.page_sub_header | safeHTML }}</p>
+    {{ if .Params.page_sub_title }}
+    <p>{{ .Params.page_sub_title | safeHTML }}</p>
     {{ end }}
     <div id="header-bottom">
 

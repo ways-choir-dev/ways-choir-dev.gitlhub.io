@@ -1,0 +1,40 @@
+---
+label: Video
+hide_body: false
+description: VimeoID oder YouTubeID eines Videos von diesem Produkt. Wir in der
+    Produktbeschreibung bei den anderen Produktfotos aufgelistet und kann per Klick
+    gestartet werden
+fields:
+  - type: text
+    name: title
+    label: Title (for forestry-overview)
+    description: Titel des Videos, wird in Übersichten von forestry angezeigt, NICHT auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
+    config:
+      required: true
+  - type: text
+    name: page_title
+    label: Überschrift des Videos
+    description: Name des Videos, erscheint als Überschrift auf der Website
+    config:
+      required: true
+  - type: text
+    name: description
+    label: Kurze Beschreibung
+    description: Kurze Beschreibung dieses Videos; wird ggf. unterhalb des Videos angezeigt
+  - type: tag_list
+    label: Suchworte
+    name: tags
+    description: Suchworte nach denen dieses Video später gesucht werden kann
+  - type: text
+    name: id
+    label: VimeoID oder YouTubeID des Videos
+  - type: select
+    label: Video Provider
+    name: video_provider
+    description: Bitte den Video-Provider auswählen, bei dem das Video liegt
+    config:
+      source:
+        type: simple
+      options:
+        - Vimeo
+        - YouTube

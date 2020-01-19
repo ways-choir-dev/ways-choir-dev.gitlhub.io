@@ -5,7 +5,8 @@ date = "2018-04-01T16:06:53Z"
 listimg = "/v1578226666/plakat-ways-meets-kw.jpg"
 publish_date = "2018-03-31T22:00:00+00:00"
 tags = []
-title = "WAYS meets Klangwerk"
+title = "ways-meets-klangwerk"
+page_title = "WAYS meets Klangwerk"
 [event]
 date = "2018-06-02T20:00:00+02:00"
 [event.location]

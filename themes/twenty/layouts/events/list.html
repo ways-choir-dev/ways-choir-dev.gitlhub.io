@@ -38,7 +38,7 @@
             {{ $v2 := $events | complement $v1 }}
 
             <section class="wrapper style4 special blog-listing-big">
-              <h1>{{ .Title }}</h1>
+              <h1>{{ .Params.page_title }}</h1>
               {{ if eq (len $v1) 0 }}
 
                 <div class="reminder">

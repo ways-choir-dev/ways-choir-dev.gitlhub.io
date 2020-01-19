@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="col-8 col-12-mobile col-12-narrow list-concent">
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <h2><a href="{{ .Permalink }}">{{ .Params.page_title }}</a></h2>
       <div class="clearfix">
         <p class="date-comments">
           <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i>{{ partial "date.html" .Params.event.date }}</a>

@@ -1,7 +1,7 @@
 +++
 forestry_title = "About the Choir"
-page_header = ""
-page_sub_header = ""
+page_title = ""
+page_sub_title = ""
 title = "WAYS - WithAllYourSenses"
 type = "page"
 +++

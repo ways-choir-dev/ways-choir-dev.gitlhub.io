@@ -1,5 +1,6 @@
 ---
-title: WAYS beim Total Choral Pop/Jazz-Chor-Festival
+title: 20190321-total-choral
+page_title: WAYS beim Total Choral Pop/Jazz-Chor-Festival
 publish_date: 2019-02-26 10:29:30 +0000
 event:
   date: 2019-03-21 20:00:00 +0000

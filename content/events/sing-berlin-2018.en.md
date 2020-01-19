@@ -5,7 +5,8 @@ date = "2018-10-24T18:34:22+02:00"
 listimg = "/v1578226742/SingBerlin-Pokal.jpg"
 publish_date = ""
 tags = []
-title = "Sing Berlin Internationaler Chorwettbewerb 2018"
+title = "sing-berlin-2018"
+page_title = "Sing Berlin Internationaler Chorwettbewerb 2018"
 [event]
 date = "2018-07-06T20:00:00+02:00"
 [event.location]

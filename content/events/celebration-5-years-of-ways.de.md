@@ -5,7 +5,8 @@ date = "2018-10-24T17:23:24+02:00"
 listimg = "/v1578226743/ways-plakat-default.png"
 publish_date = ""
 tags = []
-title = "Celebration 5 Years of WAYS"
+title = "celebration-5-years-of-ways"
+page_title = "Celebration 5 Years of WAYS"
 [event]
 date = "2019-02-23T19:00:00+01:00"
 [event.location]
