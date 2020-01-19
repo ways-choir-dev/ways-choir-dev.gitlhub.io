@@ -1,9 +1,6 @@
 ---
 label: Video
 hide_body: false
-description: VimeoID oder YouTubeID eines Videos von diesem Produkt. Wir in der
-    Produktbeschreibung bei den anderen Produktfotos aufgelistet und kann per Klick
-    gestartet werden
 fields:
 - type: text
   name: title
