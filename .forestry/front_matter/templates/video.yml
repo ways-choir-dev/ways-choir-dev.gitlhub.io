@@ -19,6 +19,18 @@ fields:
   name: description
   label: Kurze Beschreibung
   description: Kurze Beschreibung dieses Videos; wird ggf. unterhalb des Videos angezeigt
+- name: weight
+  type: number
+  default: '100'
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Gewichtung des Videos
+  description: Wie gut und wichtig ist das Video im Vergleich zu allen anderen? Das
+    Video mit der höchsten Gewichtung erscheint als erstes Video in der Übersicht;
+    die drei am höchsten gerichteten Videos werden auf der Startseite angezeigt
 - type: tag_list
   label: Suchworte
   name: tags
