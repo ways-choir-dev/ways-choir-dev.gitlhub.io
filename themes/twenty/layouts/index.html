@@ -31,33 +31,12 @@
 						<section class="wrapper style1 container special">
 							<div class="row">
 
-                <!-- begin of single video section -->
-								<div class="col-4 col-12-narrower">
-									<section>
-										<header>
-											<h3>WAYS 2017</h3>
-										</header>
-                    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-                      <iframe src="https://www.youtube.com/embed/lGYDHfkZ9PU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="It Can Move You, Too - Zusammenschnitt des WAYS-Konzerts, Juli 2017"></iframe>
-                    </div>
-                    <p>Zusammenschnitt vom Konzert im Juli 2018</p>
-									</section>
-								</div>
-                <!-- end of single video section -->
+                {{ $allvideos := where .Site.Pages "Type" "video" }}
+                {{ $videos := first 3 ($allvideos.ByParam "weight").Reverse }}
 
-                <!-- begin of single video section -->
-                <div class="col-4 col-12-narrower">
-                  <section>
-                    <header>
-                      <h3>WAYS 2019</h3>
-                    </header>
-                    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-                      <iframe src="https://player.vimeo.com/video/381526317" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allow="fullscreen" allowfullscreen title="September - WAYS Meets inspired! - Konzert vom 30. November 2019"></iframe>
-                    </div>
-                    <p>September - WAYS Meets inspired! - Konzert vom 30. November 2019</p>
-                  </section>
-                </div>
-                <!-- end of single video section -->
+                {{ range $videos }}
+                {{ partial "video-preview.html" . }}
+                {{ end }}
 
 							</div>
 						</section>

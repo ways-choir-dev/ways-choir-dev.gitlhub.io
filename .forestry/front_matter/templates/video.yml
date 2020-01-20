@@ -24,9 +24,9 @@ fields:
   default: '100'
   required: true
   config:
-    min: 
-    max: 
-    step: 
+    min:
+    max:
+    step:
   label: Gewichtung des Videos
   description: Wie gut und wichtig ist das Video im Vergleich zu allen anderen? Das
     Video mit der höchsten Gewichtung erscheint als erstes Video in der Übersicht;
@@ -36,7 +36,7 @@ fields:
   name: tags
   description: Suchworte nach denen dieses Video später gesucht werden kann
 - type: text
-  name: id
+  name: videoid
   label: VimeoID oder YouTubeID des Videos
 - type: select
   label: Video Provider
