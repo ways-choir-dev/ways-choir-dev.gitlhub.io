@@ -14,3 +14,5 @@ We want to move along several ways in music.
 We want to sing "Songs with a Meening"!
 
 With all your senses..
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)

@@ -7,10 +7,12 @@ type = "page"
 +++
 # WAYS - WithAllYourSenses
 
-Some call it Gospel, others call it Soul, Rhythm&Blues or Popmusic.
+Manche nennen es Gospel, andere nennen es Soul, Rhythm&Blues oder auch Popmusik.
 
-We want to move along several ways in music.
+Wir wollen viele Wege in der Musik gehen.
 
-We want to sing "Songs with a Meening"!
+Wir wollen "Songs mit Bedeutung" singen, mitreißen, begeistern!
 
-With all your senses..
+Mit all deinen Sinnen...
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
