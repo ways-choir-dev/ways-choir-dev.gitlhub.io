@@ -10,8 +10,20 @@
 [ToConcertOverview]
   other = "Zur Konzert-Übersicht"
 
+[continueReading]
+  other = "weiterlesen..."
+
 [startpage_link]
     other = "Startseite"
+
+[impressumGoTo]
+    other = "Impressum"
+
+[datenschutzGoTo]
+    other = "Datenschutzerklärung"
+
+[contactGoTo]
+    other = "Zur Kontakt Seite"
 
 [contactForm]
     other = "Kontakt Formular"

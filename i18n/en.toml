@@ -10,8 +10,20 @@
 [ToConcertOverview]
   other = "To Concert Overview"
 
+[continueReading]
+  other = "continue reading.."
+
 [startpage_link]
     other = "Welcome"
+
+[impressumGoTo]
+    other = "Imprint"
+
+[datenschutzGoTo]
+    other = "Data protection"
+
+[contactGoTo]
+    other = "Go to contact page"
 
 [contactForm]
     other = "Contact form"

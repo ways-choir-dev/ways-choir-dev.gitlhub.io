@@ -1,0 +1,18 @@
+<li>
+  <strong><a href="{{ .Permalink | absLangURL  }}">{{ .Params.page_title }}</a></strong>
+  <span class="date-comments">
+    <a href="{{ .Permalink | absLangURL  }}"><i class="fa fa-calendar-o"></i>{{ partial "date.html" .Params.event.date }}</a>
+  </span>
+  <br>
+  {{ with .Params.event.location }}
+  <span class="event-location-name">
+    {{ with .name}}
+    <strong>{{ . }}</strong>
+    {{ end }}
+    , {{ .street }}, {{ .city }}
+  </span>
+  {{ end }}
+  <br>
+  <span class="intro">{{ .Params.summary }}</span>
+  <span class="read-more"><a href="{{ .Permalink | absLangURL }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a></span>
+</li>

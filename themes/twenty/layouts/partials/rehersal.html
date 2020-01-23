@@ -1,0 +1,4 @@
+<h3 class="text-uppercase"> {{ i18n "rehersalTitle" }}</h3>
+<p>
+  {{ i18n "every" }} {{ i18n .rehersal.weekday }} {{ i18n "from" }} {{ .rehersal.start | safeHTML }} {{ i18n "to" }} {{ .rehersal.end | safeHTML }} {{ i18n "oclock" }}
+</p>

@@ -1,5 +1,6 @@
 +++
 banner = "/v1578226760/WAYS_meets_inspired_Banner.png"
+summary = "Gemeinschaftskonzert mit Groove-Faktor"
 categories = ["concerts"]
 type = "event"
 listimg = "/v1578226761/WAYS_meets_inspired_Vorschau.png"

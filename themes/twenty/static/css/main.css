@@ -1732,7 +1732,15 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	header.major {
+.concert-listing-small {
+  text-align: left !important;
+}
+
+.concert-listing-small a {
+  color: #e74011 !important;
+}
+
+header.major {
 		padding-bottom: 2em;
 	}
 
@@ -1928,7 +1936,16 @@ input, select, textarea {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
+      .icon.circle.fa-envelope {
+        background: #e74011;
+        color: #fff;
+      }
+
+      .icon.circle.fa-envelope:hover {
+        background: #e75a2f;
+      }
+
+      .icon.circle.fa-twitter {
 				background: #70aecd;
 				color: #fff;
 			}
@@ -1937,16 +1954,25 @@ input, select, textarea {
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook {
-				background: #7490c3;
-				color: #fff;
-			}
+      .icon.circle.fa-facebook {
+        background: #7490c3;
+        color: #fff;
+      }
 
-				.icon.circle.fa-facebook:hover {
-					background: #829bc9;
-				}
+      .icon.circle.fa-facebook:hover {
+        background: #829bc9;
+      }
 
-			.icon.circle.fa-google-plus {
+      .icon.circle.fa-instagram {
+        background: #eee;
+        color: #333;
+      }
+
+      .icon.circle.fa-instagram:hover {
+        background: #fff;
+      }
+
+      .icon.circle.fa-google-plus {
 				background: #db6b67;
 				color: #fff;
 			}
@@ -2626,8 +2652,8 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #E8EEF4;
-		color: #7c8081;
+		background: #333333;
+		color: #E8EEF4;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}

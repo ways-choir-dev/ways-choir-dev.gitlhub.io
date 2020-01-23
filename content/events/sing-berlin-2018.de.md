@@ -1,5 +1,6 @@
 +++
 banner = "/v1578226741/Chor-Siegerbild2.jpg"
+summary = "Konzert zum Internationalen Chorwettbewerb SingBerlin 2018"
 categories = ["concerts"]
 type = "event"
 date = "2018-10-24T18:34:22+02:00"

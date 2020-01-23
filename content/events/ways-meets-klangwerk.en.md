@@ -1,5 +1,6 @@
 +++
 banner = "/v1578226715/banner-ways-meets-kw.png"
+summary = "Gemeinschaftskonzert mit dem Berliner Chor Klangwerk 306"
 categories = ["concerts"]
 type = "event"
 date = "2018-04-01T16:06:53Z"

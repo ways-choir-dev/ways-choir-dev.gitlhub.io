@@ -1,5 +1,6 @@
 +++
 banner = ""
+summary = "Gemeinschaftskonzert der beiden Gospel-Chöre"
 categories = ["concerts"]
 type = "event"
 date = "2018-06-19T09:27:14+02:00"

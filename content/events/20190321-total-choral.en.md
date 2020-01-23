@@ -1,5 +1,6 @@
 ---
 title: 20190321-total-choral
+summary: WAYS at TOTAL CHORAL Pop/Jazz-Chor-Festival 2019
 page_title: WAYS at Total Choral Pop/Jazz-Chor-Festival
 publish_date: 2019-02-26 10:29:30 +0000
 event:
@@ -20,4 +21,4 @@ type: event
 ---
 WAYS - With All Your Senses - with Gunars Kalnins 
 
-auch 2019 wieder beim <a href="http://www.totalchoral.de" target="_blank">TOTAL CHORAL Pop/Jazz-Chor-Festival</a>.
+also in 2019 at <a href="http://www.totalchoral.de" target="_blank">TOTAL CHORAL Pop/Jazz-Chor-Festival</a>.

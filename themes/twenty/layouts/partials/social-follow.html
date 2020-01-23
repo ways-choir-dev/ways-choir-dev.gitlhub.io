@@ -1,21 +1,24 @@
 <ul class="icons">
 {{ $icon_size := "32px" }}
 {{ with .Site.Params.facebook }}
-  <li><a href="{{ . }}" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
 {{ end }}
 {{ with .Site.Params.twitter }}
-  <li><a href="{{ . }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
 {{ end }}
 {{ with .Site.Params.instagram }}
-  <li><a href="{{ . }}" class="icon circle fa-instagram"><span class="label">Twitter</span></a></li>
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-instagram"><span class="label">Instagram</span></a></li>
 {{ end }}
-{{ with .Site.Params.youtube }}
-  <li><a href="{{ . }}" class="icon circle fa-youtube"><span class="label">Twitter</span></a></li>
-{{ end }}
+  {{ with .Site.Params.youtube }}
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-youtube"><span class="label">YouTube</span></a></li>
+  {{ end }}
+  {{ with .Site.Params.email }}
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-envelope"><span class="label">EMail</span></a></li>
+  {{ end }}
 {{ with .Site.Params.googleplus }}
-  <li><a href="{{ . }}" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
 {{ end }}
 {{ with .Site.Params.github }}
-  <li><a href="{{ . }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
+  <li><a href="{{ . }}" target="_blank" class="icon circle fa-github"><span class="label">Github</span></a></li>
 {{ end }}
 </ul>

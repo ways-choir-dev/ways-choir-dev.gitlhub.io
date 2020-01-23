@@ -1,5 +1,6 @@
 +++
 banner = ""
+summary = "WAYS wieder in Mal's Scheune - Studio Wiesenburg"
 categories = ["concerts"]
 type = "event"
 date = "2018-04-21T14:23:19+02:00"

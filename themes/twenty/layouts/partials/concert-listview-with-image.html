@@ -20,15 +20,15 @@
       </div>
       </p>
       {{ with .Params.event.location }}
-        {{ with .name}}
-        <p class="event-location-name">
-          <strong>{{ . }}</strong>
-        </p>
-        {{ end }}
-        <p class="event-location-address">
-          {{ .street }}<br>
-          {{ .city }}
-        </p>
+      {{ with .name}}
+      <p class="event-location-name">
+        <strong>{{ . }}</strong>
+      </p>
+      {{ end }}
+      <p class="event-location-address">
+        {{ .street }}<br>
+        {{ .city }}
+      </p>
       {{ end }}
       <p class="intro">{{ .Summary }}</p>
       <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>

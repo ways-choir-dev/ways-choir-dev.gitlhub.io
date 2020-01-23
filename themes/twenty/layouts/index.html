@@ -6,7 +6,7 @@
 					{{ block "specials" . }}{{ partial "specials.html" .specials }}{{ end }}
 					{{ end }}
 
-					<!-- Description Part -->
+					<!-- Short description about the choir -->
 						<section class="container wrapper style2 special-alt">
 							<div class="row gtr-50">
 								<div class="col-8 col-12-narrower">
@@ -27,7 +27,7 @@
 							</div>
 						</section>
 
-					<!-- Two -->
+					<!-- selection of the best three videos -->
 						<section class="wrapper style1 container special">
 							<div class="row">
 
@@ -41,13 +41,8 @@
 							</div>
 						</section>
 
-					<!-- Three -->
+					<!-- list of all concerts planned -->
 						<section class="wrapper style3 container special">
-
-							<header class="major">
-								<h2>{{ i18n "NextConcerts" }} <strong>{{ .Site.Title }}</strong></h2>
-							</header>
-
 
               {{ $allevents := where .Site.Pages "Type" "event" }}
               {{ $events := ($allevents.ByParam "event.date").Reverse }}
@@ -61,27 +56,24 @@
               {{ end }}
 
               {{ $border := add ($scratch.Get "border") 1 }}
-              {{ $border }}
-              {{ $v2 := first $border $events }}
-              {{ $v1 := $events | complement $v2 }}
+              {{ $v1 := first $border $events }}
 
-              <section class="wrapper style4 special blog-listing-big">
-                <h1>{{ .Params.page_title }}</h1>
-                {{ if eq (len $v1) 0 }}
-
-                <div class="reminder">
-                  <h1>{{ i18n "currentlyNoConcerts" }}</h1>
-                </div>
-                {{ else }}
+              <section class="wrapper style4 special concert-listing-small">
+              {{ if eq (len $v1) 0 }}
+                <p>
+                  {{ i18n "currentlyNoConcerts" }}
+                </p>
+              {{ else }}
                 <h2>{{ i18n "ConcertsComingSoon" }}</h2>
                 {{ range $v1 }}
-                {{ partial "concert-listview-with-image.html" . }}
+                <ul>
+                {{ partial "concert-listview.html" . }}
+                </ul>
                 {{ end }}
-                {{ end }}
-
+              {{ end }}
               </section>
 
-							<footer class="major">
+              <footer class="major">
 								<ul class="buttons">
                   <li><a href="{{ "/events/" | absLangURL }}" class="button">{{ i18n "ToConcertOverview" }}</a></li>
 								</ul>
@@ -89,5 +81,24 @@
 
 						</section>
 
-				</article>
+          <!-- Contact data and link to contact page -->
+          <section class="wrapper style5 container special">
+            <div class="row"><h4>{{ i18n "contactTitle" }}</h4></div>
+            {{ with .Site.Params.contact }}
+
+            <div class="row">{{ partial "rehersal.html" . }}</div>
+            <div class="row">{{ partial "address.html" . }}</div>
+
+              {{ end }}
+
+                <footer class="major">
+                  <ul class="buttons">
+                    <li><a href="{{ "/contact/" | absLangURL }}" class="button">{{ i18n "contactGoTo" }}</a></li>
+                  </ul>
+                </footer>
+
+            </div>
+          </section>
+
+        </article>
 	{{ end }}

@@ -1,5 +1,6 @@
 +++
 banner = ""
+summary = "WAYS again in Mal's Scheune - Studio Wiesenburg!"
 categories = ["concerts"]
 type = "event"
 date = "2018-04-21T14:23:19+02:00"
@@ -16,4 +17,4 @@ name = "Mal's Scheune - Studio Wiesenburg"
 street = "Zum Winkelteich 4"
 
 +++
-WAYS wieder in Mal's Scheune - Studio Wiesenburg!
+WAYS again in Mal's Scheune - Studio Wiesenburg!
