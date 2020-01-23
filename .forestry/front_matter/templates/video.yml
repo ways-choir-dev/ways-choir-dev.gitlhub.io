@@ -24,9 +24,9 @@ fields:
   default: '100'
   required: true
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
   label: Gewichtung des Videos
   description: Wie gut und wichtig ist das Video im Vergleich zu allen anderen? Das
     Video mit der höchsten Gewichtung erscheint als erstes Video in der Übersicht;

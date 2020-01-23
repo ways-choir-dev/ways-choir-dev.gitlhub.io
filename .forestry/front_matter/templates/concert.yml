@@ -13,12 +13,8 @@ fields:
   type: text
   config:
     required: true
-  label: Name bzw. Überschrift des Konzerts
+  label: Überschrift der Website
   description: Name des Konzerts, erscheint als Überschrift auf der Website
-- name: summary
-  type: text
-  label: Kurzinfo zum Konzert
-  description: Kurzinfo zum Konzerts, erscheint in Konzert-Übersichten
 - type: datetime
   name: publish_date
   label: Publish Datum

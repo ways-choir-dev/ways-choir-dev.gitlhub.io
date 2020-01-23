@@ -1,109 +1,78 @@
 baseurl = "https://ways-choir-dev.gitlab.io/"
-# baseurl = "http://www.ways-choir.eu/"
-title = "WAYS - WithAllYourSenses"
-theme = "twenty"
-languageCode = "de-de"
-# Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "de"
-
-
-[languages]
+languageCode = "de-de"
+theme = "twenty"
+title = "WAYS - WithAllYourSenses"
 [languages.de]
-weight = 1
 languageName = "Deutsch"
-
+weight = 1
+[[languages.de.menu.main]]
+identifier = "menu_contact"
+name = "Kontakt"
+url = "/contact"
+weight = 1000
+[[languages.de.menu.main]]
+identifier = "menu_about"
+name = "Über uns"
+weight = 300
+[[languages.de.menu.main]]
+identifier = "menu_about_the_choir"
+name = "Der Chor"
+parent = "menu_about"
+url = "/about/the_choir/"
+weight = 100
+[[languages.de.menu.main]]
+identifier = "menu_about_concerts"
+name = "Konzerte"
+parent = "menu_about"
+url = "/events/"
+weight = 50
 [languages.en]
-weight = 2
 languageName = "English"
-
-
-[[languages.de.menu.main]]
-    url = "/contact"
-    name = "Kontakt"
-    weight = 1000
-    identifier = "menu_contact"
-
-[[languages.de.menu.main]]
-    name   = "Über uns"
-    weight = 300
-    identifier = "menu_about"
-
-[[languages.de.menu.main]]
-    url    = "/about/the_choir/"
-    name   = "Der Chor"
-    weight = 100
-    parent = "menu_about"
-    identifier = "menu_about_the_choir"
-
-[[languages.de.menu.main]]
-    url    = "/events/"
-    name   = "Konzerte"
-    weight = 50
-    parent = "menu_about"
-    identifier = "menu_about_concerts"
-
+weight = 2
 [[languages.en.menu.main]]
-    url = "/contact"
-    name = "Contact"
-    weight = 1000
-    identifier = "menu_contact"
-
+identifier = "menu_contact"
+name = "Contact"
+url = "/contact"
+weight = 1000
 [[languages.en.menu.main]]
-    name   = "About us"
-    weight = 300
-    identifier = "menu_about"
-
+identifier = "menu_about"
+name = "About us"
+weight = 300
 [[languages.en.menu.main]]
-    url    = "/about/the_choir/"
-    name   = "the choir"
-    weight = 100
-    parent = "menu_about"
-    identifier = "menu_about_the_choir"
-
+identifier = "menu_about_the_choir"
+name = "the choir"
+parent = "menu_about"
+url = "/about/the_choir/"
+weight = 100
 [[languages.en.menu.main]]
-    url    = "/events/"
-    name   = "Concerts"
-    weight = 50
-    parent = "menu_about"
-    identifier = "menu_about_concerts"
-
-
+identifier = "menu_about_concerts"
+name = "Concerts"
+parent = "menu_about"
+url = "/events/"
+weight = 50
 [params]
-    logo = "/v1577487364/logo_bg_white.png"
-    email = "mailto:info@ways-choir.eu"
-    facebook = "https://www.facebook.com/WaysChoirBerlin/"
-    twitter = "https://twitter.com/WAYS_choir"
-    instagram = "https://www.instagram.com/waysgospelsoulpopchoir/"
-#    youtube = ""
-
-    # Format dates with Go's time formatting
-    date_format = "2. January, 2006"
-    time_format = "15:04"
-
-    latitude = "52.4984045"
-    longitude = "13.297099600000024"
-
+date_format = "2. January, 2006"
+email = "mailto:info@ways-choir.eu"
+facebook = "https://www.facebook.com/WaysChoirBerlin/"
+instagram = "https://www.instagram.com/waysgospelsoulpopchoir/"
+latitude = "52.4984045"
+logo = "/v1577487364/logo_bg_white.png"
+longitude = "13.297099600000024"
+time_format = "15:04"
+twitter = "https://twitter.com/WAYS_choir"
 [params.contact]
-    name = "WAYS - WithAllYourSenses"
-    address = """
-        <br>Pro Seniore Residenz Kurfürstendamm
-        <br>Kurfürstendamm 100
-        <br>10709 Berlin (Restrict Wilmersdorf)
-        """
-    phone = "+49 178-2440085 (Marion)"
-    email = "info@ways-choir.eu"
-
-
+address = "        <br>Pro Seniore Residenz Kurfürstendamm\n        <br>Kurfürstendamm 100\n        <br>10709 Berlin (Restrict Wilmersdorf)\n        "
+email = "info@ways-choir.eu"
+name = "WAYS - WithAllYourSenses"
+phone = "+49 178-2440085 (Marion)"
 [params.contact.rehersal]
-    weekday = "Monday"
-    start = "18:45"
-    end = "21:45"
-
+end = "21:45"
+start = "18:45"
+weekday = "Monday"
 [params.imagesConfig]
-    cloudinaryURL = "https://res.cloudinary.com/ways-choir/image/upload"
-    lightboxImageDownloadSize = "w_2000"
-    logoImageDownloadSize = "w_1000"
-    listImageDefaultFile = "/images/ways-plakat-default.png"
-    listImageDownloadSize = "w_240"
-
-
+cloudinaryURL = "https://res.cloudinary.com/ways-choir/image/upload"
+lightboxImageDownloadSize = "w_2000"
+listImageDefaultFile = "/images/ways-plakat-default.png"
+listImageDownloadSize = "w_240"
+logoImageDownloadSize = "w_1000"
