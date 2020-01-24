@@ -28,9 +28,9 @@
             {{ $scratch := newScratch }}
             {{ $scratch.Set "border" -1 }}
             {{ range $index, $element := $events }}
-              {{ if ge (time .Params.event.date).Unix now.Unix }}
-                {{ $scratch.Set "border" $index }}
-              {{ end }}
+            {{ if ge (time .Params.event.date).Unix now.Unix }}
+            {{ $scratch.Set "border" $index }}
+            {{ end }}
             {{ end }}
 
             {{ $border := add ($scratch.Get "border") 1 }}
@@ -39,21 +39,15 @@
 
             <section class="wrapper style4 special blog-listing-big">
               <h1>{{ .Params.page_title }}</h1>
-              {{ if eq (len $v1) 0 }}
 
-                <div class="reminder">
-                  <h1>{{ i18n "currentlyNoConcerts" }}</h1>
-                </div>
-              {{ else }}
-                <h2>{{ i18n "ConcertsComingSoon" }}</h2>
-                {{ range $v1 }}
-                    {{ partial "concert-listview-with-image.html" . }}
-                {{ end }}
+              <h2>{{ i18n "ConcertsArchive" }}</h2>
+              {{ range $v2 }}
+              {{ partial "concert-listview-with-image.html" . }}
               {{ end }}
 
               <footer class="major">
                 <ul class="buttons">
-                  <li><a href="{{ "/events/archive" | absLangURL }}" class="button">{{ i18n "ToConcertArchive" }}</a></li>
+                  <li><a href="{{ "/events/" | absLangURL }}" class="button">{{ i18n "ToConcertOverview" }}</a></li>
                 </ul>
               </footer>
 

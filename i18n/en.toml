@@ -10,6 +10,9 @@
 [ToConcertOverview]
   other = "To Concert Overview"
 
+[ToConcertArchive]
+  other = "To Concert Archive"
+
 [continueReading]
   other = "continue reading.."
 

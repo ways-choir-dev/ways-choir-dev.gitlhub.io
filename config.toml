@@ -21,12 +21,24 @@ name = "Der Chor"
 parent = "menu_about"
 url = "/about/the_choir/"
 weight = 100
+[[languages.en.menu.main]]
+identifier = "menu_about_choirleader"
+name = "Chorleitung"
+parent = "menu_about"
+url = "/about/choirleader/"
+weight = 120
 [[languages.de.menu.main]]
 identifier = "menu_about_concerts"
 name = "Konzerte"
 parent = "menu_about"
 url = "/events/"
 weight = 50
+[[languages.de.menu.main]]
+identifier = "menu_about_concert_archive"
+name = "Konzert-Archiv"
+parent = "menu_about"
+url = "/events/archive/"
+weight = 55
 [languages.en]
 languageName = "English"
 weight = 2
@@ -46,11 +58,23 @@ parent = "menu_about"
 url = "/about/the_choir/"
 weight = 100
 [[languages.en.menu.main]]
+identifier = "menu_about_choirleader"
+name = "the choir leader"
+parent = "menu_about"
+url = "/about/choirleader/"
+weight = 120
+[[languages.en.menu.main]]
 identifier = "menu_about_concerts"
 name = "Concerts"
 parent = "menu_about"
 url = "/events/"
 weight = 50
+[[languages.de.menu.main]]
+identifier = "menu_about_concert_archive"
+name = "Concert Archive"
+parent = "menu_about"
+url = "/events/archive/"
+weight = 55
 [params]
 date_format = "2. January, 2006"
 email = "mailto:info@ways-choir.eu"
