@@ -21,7 +21,7 @@ name = "Der Chor"
 parent = "menu_about"
 url = "/about/the_choir/"
 weight = 100
-[[languages.en.menu.main]]
+[[languages.de.menu.main]]
 identifier = "menu_about_choirleader"
 name = "Chorleitung"
 parent = "menu_about"
