@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/photos
+  label: Photos (English)
+  create: all
+  match: "**/*.en.md"
+  new_doc_ext: en.md
+  templates:
+  - photoselection
 - type: document
   path: config.toml
   label: Konfiguration der Seite
@@ -37,6 +45,14 @@ sections:
   new_doc_ext: de.md
   templates:
   - concert
+- type: directory
+  path: content/photos
+  label: Photos (Deutsch)
+  create: all
+  match: "**/*.de.md"
+  new_doc_ext: de.md
+  templates:
+  - photoselection
 - type: directory
   path: content/videos
   label: Videos (Deutsch)
