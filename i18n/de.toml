@@ -145,6 +145,9 @@
 [currentlyNoConcerts]
     other = "Zurzeit sind leider keine Konzerte geplant"
 
+[currentlyNoVideos]
+    other = "Zurzeit sind leider keine Videos verfügbar"
+
 [biggerMap]
     other = "Größere Karte anzeigen"
 

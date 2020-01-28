@@ -145,6 +145,9 @@
 [currentlyNoConcerts]
     other = "Currently no Concerts are planned"
 
+[currentlyNoVideos]
+    other = "Currently no Videos available"
+
 [biggerMap]
     other = "switch to bigger map.."
 

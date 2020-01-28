@@ -15,25 +15,33 @@
   <article id="main">
 
     <div id="content">
-      {{ if isset .Params "id" }}
-
-      {{ partial .Params.id . }}
-
-      {{ else }}
 
       <div class="container">
 
         <div class="row">
 
-          <div class="col-md-12">
 
+          {{ $allvideos := where .Site.Pages "Type" "video" }}
+          {{ $videos := ($allvideos.ByParam "event.weight").Reverse }}
+
+          <h1>{{ .Params.page_title }}</h1>
+          {{ if eq (len $videos) 0 }}
+
+          <div class="reminder">
+            <h1>{{ i18n "currentlyNoVideos" }}</h1>
+          </div>
+
+          {{ else }}
+          {{ range $videos }}
+          <div class="col-4 col-12-narrower">
             <section class="wrapper style4 special medium">
 
-                {{ .Content }}
+                  {{ partial "video-preview.html" . }}
 
             </section>
-
           </div>
+          {{ end }}
+          {{ end }}
 
         </div>
         <!-- /.row -->
@@ -41,7 +49,6 @@
       </div>
       <!-- /.container -->
 
-      {{ end }}
     </div>
 
   </article>

@@ -20,13 +20,13 @@ identifier = "menu_about_the_choir"
 name = "Der Chor"
 parent = "menu_about"
 url = "/about/the_choir/"
-weight = 100
+weight = 10
 [[languages.de.menu.main]]
 identifier = "menu_about_choirleader"
 name = "Chorleitung"
 parent = "menu_about"
 url = "/about/choirleader/"
-weight = 120
+weight = 20
 [[languages.de.menu.main]]
 identifier = "menu_about_concerts"
 name = "Konzerte"
@@ -34,11 +34,17 @@ parent = "menu_about"
 url = "/events/"
 weight = 50
 [[languages.de.menu.main]]
+identifier = "menu_about_videos"
+name = "Videos"
+parent = "menu_about"
+url = "/videos/"
+weight = 100
+[[languages.de.menu.main]]
 identifier = "menu_about_concert_archive"
 name = "Konzert-Archiv"
 parent = "menu_about"
 url = "/events/archive/"
-weight = 55
+weight = 150
 [languages.en]
 languageName = "English"
 weight = 2
@@ -56,25 +62,31 @@ identifier = "menu_about_the_choir"
 name = "the choir"
 parent = "menu_about"
 url = "/about/the_choir/"
-weight = 100
+weight = 10
 [[languages.en.menu.main]]
 identifier = "menu_about_choirleader"
 name = "the choir leader"
 parent = "menu_about"
 url = "/about/choirleader/"
-weight = 120
+weight = 20
 [[languages.en.menu.main]]
 identifier = "menu_about_concerts"
 name = "Concerts"
 parent = "menu_about"
 url = "/events/"
 weight = 50
+[[languages.en.menu.main]]
+identifier = "menu_about_videos"
+name = "Videos"
+parent = "menu_about"
+url = "/videos/"
+weight = 100
 [[languages.de.menu.main]]
 identifier = "menu_about_concert_archive"
 name = "Concert Archive"
 parent = "menu_about"
 url = "/events/archive/"
-weight = 55
+weight = 150
 [params]
 date_format = "2. January, 2006"
 email = "mailto:info@ways-choir.eu"
