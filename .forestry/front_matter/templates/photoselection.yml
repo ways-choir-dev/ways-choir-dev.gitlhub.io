@@ -1,0 +1,38 @@
+---
+label: photoselection
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: forestry title, not displayed on website
+- name: collection_title
+  type: text
+  config:
+    required: false
+  label: Collection Title
+  description: Title der Foto-Sammlung
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Kurzzusammenfassung über die Foto-Sammlung, z.B. von welchem Konzert
+    oder Event
+- name: photo_collection
+  type: image_gallery
+  config: {}
+  label: Photo Collection
+  description: Die Sammlung der Fotos
+- name: ref-tag
+  type: text
+  config:
+    required: false
+  label: Tag Referenz
+  description: Hiermit können die Fotos einem Blog-Eintrag oder Event zugeordnet werden
