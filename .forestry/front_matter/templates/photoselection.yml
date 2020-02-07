@@ -11,7 +11,7 @@ fields:
     required: true
 - type: text
   name: page_title
-  label: Überschrift des Videos
+  label: Überschrift der Photokollektion
   description: Name der Fotokollektion, erscheint als Überschrift auf der Website
   config:
     required: true
@@ -23,7 +23,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Summary
+  label: Kurzzusammenfassung der Foto-Kollektion
   description: Kurzzusammenfassung über die Foto-Kollektion, z.B. von welchem Konzert
     oder Event
 - name: photo_collection
