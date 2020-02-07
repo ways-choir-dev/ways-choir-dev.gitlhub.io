@@ -51,6 +51,7 @@ sections:
   label: Photos (English)
   create: all
   match: "**/*.en.md"
+  exclude: _index.en.md
   new_doc_ext: en.md
   templates:
   - photoselection
