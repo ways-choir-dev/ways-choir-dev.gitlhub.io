@@ -4,14 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: content/photos
-  label: Photos (English)
-  create: all
-  match: "**/*.en.md"
-  new_doc_ext: en.md
-  templates:
-  - photoselection
 - type: document
   path: config.toml
   label: Konfiguration der Seite
@@ -50,7 +42,16 @@ sections:
   label: Photos (Deutsch)
   create: all
   match: "**/*.de.md"
+  exclude: _index.de.md
   new_doc_ext: de.md
+  templates:
+  - photoselection
+- type: directory
+  path: content/photos
+  label: Photos (English)
+  create: all
+  match: "**/*.en.md"
+  new_doc_ext: en.md
   templates:
   - photoselection
 - type: directory
@@ -66,6 +67,7 @@ sections:
   label: Videos (English)
   create: all
   match: "**/*.en.md"
+  exclude: _index.en.md
   new_doc_ext: en.md
   templates:
   - video
@@ -102,10 +104,5 @@ build:
   mount_path: "/opt/buildhome/repo"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-  publish_command: hugo -d public
-  publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.62.2
-  output_directory: public
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
 version: 0.62.2

@@ -57,7 +57,6 @@ fields:
   hidden: true
   default: video
 pages:
-- content/photos/2019-11-30-ways-meets-inspired.de.md
 - content/videos/2019-11-30-september-ways-meets-inspired.de.md
 - content/videos/2019-11-30-september-ways-meets-inspired.en.md
 - content/videos/it-can-move-you-too-zusammenschnitt.de.md

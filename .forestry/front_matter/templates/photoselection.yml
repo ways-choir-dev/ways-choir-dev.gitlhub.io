@@ -2,46 +2,46 @@
 label: photoselection
 hide_body: false
 fields:
-  - type: text
-    name: title
-    label: Title (for forestry-overview)
-    description: Titel der Foto-Kollektion, wird in Übersichten von forestry angezeigt, NICHT
-      auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
-    config:
-      required: true
-  - type: text
-    name: page_title
-    label: Überschrift des Videos
-    description: Name der Fotokollektion, erscheint als Überschrift auf der Website
-    config:
-      required: true
-  - name: summary
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Summary
-    description: Kurzzusammenfassung über die Foto-Kollektion, z.B. von welchem Konzert
-      oder Event
-  - name: photo_collection
-    type: image_gallery
-    config: {}
-    label: Photo Collection
-    description: Die Sammlung der Fotos
-  - name: ref-tag
-    type: text
-    config:
-      required: false
-    label: Tag Referenz
-    description: Hiermit können die Fotos einem Blog-Eintrag oder Event zugeordnet werden
-  - name: type
-    type: text
-    config:
-      required: false
-    label: type
-    description: Type photoselection
-    hidden: true
-    default: photoselection
+- type: text
+  name: title
+  label: Title (for forestry-overview)
+  description: Titel der Foto-Kollektion, wird in Übersichten von forestry angezeigt,
+    NICHT auf der Website; MUSS bei der deutschen und englischen Seite gleich sein!!!!!!!
+  config:
+    required: true
+- type: text
+  name: page_title
+  label: Überschrift des Videos
+  description: Name der Fotokollektion, erscheint als Überschrift auf der Website
+  config:
+    required: true
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Kurzzusammenfassung über die Foto-Kollektion, z.B. von welchem Konzert
+    oder Event
+- name: photo_collection
+  type: image_gallery
+  config: {}
+  label: Photo Collection
+  description: Die Sammlung der Fotos
+- name: ref-tag
+  type: text
+  config:
+    required: false
+  label: Tag Referenz
+  description: Hiermit können die Fotos einem Blog-Eintrag oder Event zugeordnet werden
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  description: Type photoselection
+  hidden: true
+  default: photoselection
