@@ -46,4 +46,5 @@ fields:
   hidden: true
   default: photoselection
 pages:
+- content/photos/20180706-sing-berlin.de.md
 - content/photos/20191130-ways-meets-inspired.de.md
