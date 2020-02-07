@@ -45,3 +45,5 @@ fields:
   description: Type photoselection
   hidden: true
   default: photoselection
+pages:
+- content/photos/20191130-ways-meets-inspired.de.md
