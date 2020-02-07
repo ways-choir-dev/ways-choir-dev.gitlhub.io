@@ -1,15 +1,15 @@
 +++
-page_title = "WAYS Meets inspired! - concert at 30th of November, 2019"
+page_title = "WAYS Meets inspired! - Konzert vom 30. November 2019"
 photo_collection = ["https://res.cloudinary.com/ways-choir/image/upload/v1581106455/DSC_5777_kzby64.jpg", "https://res.cloudinary.com/ways-choir/image/upload/v1581106455/DSC_5798_uctxub.jpg", "https://res.cloudinary.com/ways-choir/image/upload/v1581106455/DSC_5805_hmh2e5.jpg", "https://res.cloudinary.com/ways-choir/image/upload/v1581106455/DSC_5770_dgb3cv.jpg"]
 ref-tag = ""
-summary = "Photos from the concert WAYS MEETS inspired! - 30th of November 2019"
+summary = "Fotos vom Konzert WAYS MEETS inspired! vom 30. November 2019"
 title = "20191130 WAYS Meets inspired"
 type = "photoselection"
 
 +++
 #WAYS MEETS inspired!
 
-At the 30th of November, 2019 the gospel choir inspired! has been guest 
-at the concert of WAYS in the Adolf-Gustav church in Berlin-Jungfernheide.
+AM 30. November 2019 war der Gospelchor inspired! 
+Gast beim Konzert von WAYS in der Adolf-Gustav-Kirche in Jungfernheide.
 
-Here are several impressions from the concert
+Hier einige Impressionen von dem Konzert.
