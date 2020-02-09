@@ -2,7 +2,7 @@
 banner = "/v1578226742/WAYS_banner-20180602.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = ""
+listimg = "/v1578226743/ways-plakat-default.png"
 page_title = "WAYS singt Open Air im Körnerpark"
 publish_date = 2020-02-08T23:00:00Z
 tags = []
