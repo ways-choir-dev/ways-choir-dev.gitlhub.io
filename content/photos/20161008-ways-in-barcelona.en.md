@@ -7,6 +7,6 @@ title = "20161008 WAYS in Barcelona"
 type = "photoselection"
 
 +++
-ö 2016 gab es ein Gemeinschaftsprojekt zwischen dem Chor WAYS aus Berlin und dem Chor Black i Blanc aus Barcelona.
+2016 we had a project with the choir Black i Blanc from Barcelona.
 
-Im Juli 2016 war Black i Blanc in Berlin, und im Oktober 2016 war WAYS in Barcelona.
+In July 2016 Black i Blanc came to Berlin and in October 2016 we went to Barcelona.
