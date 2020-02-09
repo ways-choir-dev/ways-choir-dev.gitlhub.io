@@ -7,6 +7,11 @@ title = "WAYS - WithAllYourSenses"
 languageName = "Deutsch"
 weight = 1
 [[languages.de.menu.main]]
+identifier = "menu_about_photos"
+name = "Fotos"
+url = "/photos/"
+weight = "90"
+[[languages.de.menu.main]]
 identifier = "menu_contact"
 name = "Kontakt"
 url = "/contact"
@@ -42,6 +47,12 @@ weight = 100
 [[languages.de.menu.main]]
 identifier = "menu_about_concert_archive"
 name = "Konzert-Archiv"
+parent = "menu_about"
+url = "/events/archive/"
+weight = 150
+[[languages.de.menu.main]]
+identifier = "menu_about_concert_archive"
+name = "Concert Archive"
 parent = "menu_about"
 url = "/events/archive/"
 weight = 150
@@ -81,12 +92,6 @@ name = "Videos"
 parent = "menu_about"
 url = "/videos/"
 weight = 100
-[[languages.de.menu.main]]
-identifier = "menu_about_concert_archive"
-name = "Concert Archive"
-parent = "menu_about"
-url = "/events/archive/"
-weight = 150
 [params]
 date_format = "2. January, 2006"
 email = "mailto:info@ways-choir.eu"
