@@ -7,11 +7,6 @@ title = "WAYS - WithAllYourSenses"
 languageName = "Deutsch"
 weight = 1
 [[languages.de.menu.main]]
-identifier = "menu_about_photos"
-name = "Fotos"
-url = "/photos/"
-weight = "90"
-[[languages.de.menu.main]]
 identifier = "menu_contact"
 name = "Kontakt"
 url = "/contact"
@@ -38,6 +33,12 @@ name = "Konzerte"
 parent = "menu_about"
 url = "/events/"
 weight = 50
+[[languages.de.menu.main]]
+identifier = "menu_about_photos"
+name = "Fotos"
+parent = "menu_about"
+url = "/photos/"
+weight = 90
 [[languages.de.menu.main]]
 identifier = "menu_about_videos"
 name = "Videos"
@@ -86,6 +87,12 @@ name = "Concerts"
 parent = "menu_about"
 url = "/events/"
 weight = 50
+[[languages.en.menu.main]]
+identifier = "menu_about_photos"
+name = "Photos"
+parent = "menu_about"
+url = "/photos/"
+weight = 90
 [[languages.en.menu.main]]
 identifier = "menu_about_videos"
 name = "Videos"
