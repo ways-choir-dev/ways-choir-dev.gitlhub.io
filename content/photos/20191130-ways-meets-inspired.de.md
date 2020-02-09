@@ -1,11 +1,11 @@
 +++
 page_title = "WAYS Meets inspired! - Konzert vom 30. November 2019"
-photo_collection = ["/DSC_5777.jpg", "/DSC_5798.jpg", "/DSC_5805.jpg", "/DSC_5770.jpg"]
+photo_collection = ["/v1581106455/DSC_5777_kzby64.jpg", "/v1581106455/DSC_5805_hmh2e5.jpg", "/v1581106455/DSC_5798_uctxub.jpg", "/v1581106455/DSC_5770_dgb3cv.jpg"]
 ref-tag = ""
 summary = "Fotos vom Konzert WAYS MEETS inspired! vom 30. November 2019"
 title = "20191130 WAYS Meets inspired"
-weight = 1000
 type = "photoselection"
+weight = 1000
 
 +++
 #WAYS MEETS inspired!
