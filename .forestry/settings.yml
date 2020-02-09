@@ -26,6 +26,7 @@ sections:
   label: Events (Konzert, Deutsch)
   create: documents
   match: "**/*.de.md"
+  exclude: _index.de.md,archive.de.md
   new_doc_ext: de.md
   templates:
   - concert
@@ -34,7 +35,8 @@ sections:
   label: Events (English)
   create: documents
   match: "**/*.en.md"
-  new_doc_ext: de.md
+  exclude: _index.en.md,archive.en.md
+  new_doc_ext: en.md
   templates:
   - concert
 - type: directory
