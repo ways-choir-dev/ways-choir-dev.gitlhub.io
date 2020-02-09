@@ -74,7 +74,7 @@ sections:
   - video
 - type: directory
   path: content
-  label: Uncategorised Pages ( nicht kathogorisierbare Seiten, Deutsch)
+  label: Uncategorised Pages ( nicht kategorisierbare Seiten, Deutsch)
   create: documents
   match: "*.de.md"
   exclude: _index.de.md
