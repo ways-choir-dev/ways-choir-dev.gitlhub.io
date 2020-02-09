@@ -1,7 +1,6 @@
 +++
-banner = ""
+banner = "/v1578226742/WAYS_banner-20180602.jpg"
 categories = ["concerts"]
-draft = true
 layout = "concert"
 listimg = ""
 page_title = "WAYS open air im Körnerpark"
