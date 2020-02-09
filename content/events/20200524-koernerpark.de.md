@@ -3,7 +3,7 @@ banner = "/v1578226742/WAYS_banner-20180602.jpg"
 categories = ["concerts"]
 layout = "concert"
 listimg = ""
-page_title = "WAYS open air im Körnerpark"
+page_title = "WAYS singt Open Air im Körnerpark"
 publish_date = 2020-02-08T23:00:00Z
 tags = []
 title = "20200524 Koernerpark"
@@ -16,6 +16,4 @@ name = "Körnerpark"
 street = "Schierker Str. 8"
 
 +++
-# WAYS singt Open Air im Körnerpark
-
 Details stehen noch nicht fest.
