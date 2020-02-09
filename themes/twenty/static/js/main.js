@@ -94,3 +94,32 @@
 		}
 
 })(jQuery);
+
+function showSlide(imgId, imgSubtitleId, thumbClass, anchor_id, elem){
+  if (imgId && thumbClass && elem){
+    var image = document.getElementById(imgId);
+    var subtitle = document.getElementById(imgSubtitleId);
+    var slides = document.getElementsByClassName(thumbClass);
+
+    if (slides.length > 0){
+      // replace big image
+      if (elem.hasChildNodes() && elem.children[0].className.includes("product-img")){
+        // replace image
+        image.setAttribute("src", elem.children[0].getAttribute("src"));
+        // set alt, tooltip and subtitle
+        var imgLabel = elem.children[0].getAttribute("alt");
+        image.setAttribute("alt", imgLabel);
+        subtitle.childNodes[0].nodeValue = imgLabel;
+        // replace lightbox link to open the right image
+        var imgId = "#" + anchor_id;
+        image.onclick = function() { lightbox.start($(imgId))};
+
+      }
+      // highlight selected thumbnail
+      for (i = 0; i < slides.length; i++) {
+        slides[i].className = slides[i].className.replace(" active", "");
+      }
+      elem.className += " active";
+    }
+  }
+}

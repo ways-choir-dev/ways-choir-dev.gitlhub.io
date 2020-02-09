@@ -1,0 +1,40 @@
+{{ $DELIMITER := .DELIMITER }}
+{{ $basePath := .cloudinaryURL }}
+{{ $imageSizeSmall := .imgSizeS }}
+{{ $imageSizeLarge := .imgSizeLB }}
+{{ $imgId := printf "img_%s" .area }}
+{{ $imgSubtitleId := printf "img_%s_sub" .area }}
+{{ $thumbs := printf "thumb_%s" .area }}
+
+<div>
+    {{ if .slides }}
+    <div class="slideView">
+        {{ range first 1 .slides }}
+        {{ $parts := split . $DELIMITER }}
+        {{ $anchorId := printf "#%s_0" $imgId }}
+        {{ $slidePath := printf "%s/%s/%s" $basePath $imageSizeSmall (index $parts 0) }}
+        {{ $slideLabel := index $parts 1 }}
+        <img  id="{{$imgId}}" src="{{ $slidePath }}" style="width:100%" class="product-img" alt="{{$slideLabel}}"
+        onclick="lightbox.start($('{{$anchorId}}'));">
+        <div id="{{$imgSubtitleId}}" class="img-subtitle">{{$slideLabel}}</div>
+        {{ end }}
+    </div>
+
+
+    <div class="scrollmenu">
+        <!-- product details images -->
+        {{ range $index, $details := .slides }}
+        {{ $parts := split . $DELIMITER }}
+        {{ $slidePath := printf "%s/%s/%s" $basePath $imageSizeSmall (index $parts 0) }}
+        {{ $lightboxPath := printf "%s/%s/%s" $basePath $imageSizeLarge (index $parts 0) }}
+        {{ $slideLabel := index $parts 1 }}
+        {{ $anchorId := printf "%s_%d" $imgId $index }}
+        <div class="mySlides scrollitem {{ $thumbs }} {{if eq $index 0}}active{{end}}" onclick="showSlide({{$imgId}}, {{$imgSubtitleId}}, {{$thumbs}}, {{$anchorId}}, this)">
+            <img class="cursor product-img" src="{{ $slidePath }}" alt="{{$slideLabel}}" style="width:100%">
+            <a id="{{$anchorId}}" href="{{$lightboxPath}}" data-lightbox="product-views" data-title="{{$slideLabel}}"></a>
+        </div>
+        {{ end }}
+    </div>
+
+    {{ end }}
+</div>

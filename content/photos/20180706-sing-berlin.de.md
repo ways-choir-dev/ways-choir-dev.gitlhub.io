@@ -1,9 +1,10 @@
 +++
 page_title = "WAYS beim SingBerlin Chorwettbewerb 2018"
-photo_collection = ["/v1581117492/Chorauftritt-7_giowen.jpg", "/v1581117492/Chor-Siegerbild2_kc8al7.jpg", "/v1581117492/Preisverleihung_xkk7nz.jpg", "/v1581117492/Preisverleihung-2_slbs2u.jpg", "/v1581117490/Chorauftritt-13_lwtajb.jpg", "/v1581117489/SingBerlin-Pokal_wctggr.jpg", "/v1581117489/SingBerlin-Urkunde_xzhezm.jpg"]
+photo_collection = ["/DSC_5777.jpg", "/DSC_5805.jpg", "/DSC_5770.jpg", "/DSC_5798.jpg"]
 ref-tag = ""
 summary = 'WAYS gewinnt in der Kategorie “Gospel, Soul und Jazz” beim ersten Chorwettbewerb SingBerlin'
 title = "20180706 Sing Berlin"
+weight = 200
 type = "photoselection"
 
 +++

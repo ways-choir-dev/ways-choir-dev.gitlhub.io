@@ -148,6 +148,12 @@
 [currentlyNoVideos]
     other = "Zurzeit sind leider keine Videos verfügbar"
 
+[currentlyNoPhotoColls]
+    other = "Zurzeit sind leider keine Fotos verfügbar"
+
+[ImageFromConcert]
+    other = "Konzertfoto"
+
 [biggerMap]
     other = "Größere Karte anzeigen"
 

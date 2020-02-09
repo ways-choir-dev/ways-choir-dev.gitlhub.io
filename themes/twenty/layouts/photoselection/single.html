@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<!--
+	Twenty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+<!-- product details images -->
+{{ $DELIMITER := "SLICE_LABEL" }}
+{{ $bucket := "descriptionslides" }}
+
+<!-- product image is dislayed first -->
+{{ if .Params.icon_image }}
+{{ $.Scratch.Add $bucket (slice (printf "%s%s%s" .Params.icon_image $DELIMITER .Params.name)) }}
+{{ end }}
+<!-- product details images -->
+{{ range .Params.additional_views }}
+{{ $.Scratch.Add $bucket (slice (printf "%s%s%s" .image $DELIMITER .detail_info)) }}
+{{ end }}
+
+<html lang='{{ $.Site.LanguageCode | default "de" }}'>
+{{ block "head" . }}{{ partial "head.html" . }}{{end}}
+
+<body class="contact is-preload">
+<div id="page-wrapper">
+
+  {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+
+  <article id="main">
+
+    <div id="content">
+
+      <div class="banner-img">
+        <img src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.lightboxImageDownloadSize }}/{{ .Params.banner }}" class="img-responsive" alt="">
+      </div>
+
+      <div class="container">
+        {{ partial "slides" (dict "area" "PRODUCT_DESCRIPTION" "slides" (.Scratch.Get $bucket) "DELIMITER" $DELIMITER "cloudinaryURL" .Site.Params.imagesConfig.cloudinaryURL "imgSizeS" .Site.Params.imagesConfig.overviewImageDownloadSize "imgSizeLB" .Site.Params.imagesConfig.lightboxImageDownloadSize ) }}
+      </div>
+      <!-- /.container -->
+
+    </div>
+
+  </article>
+
+  {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+  {{ block "scripts" . }}{{ partial "scripts.html" . }}{{ end }}
+</div>
+
+</body>
+</html>

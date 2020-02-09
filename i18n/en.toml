@@ -148,6 +148,12 @@
 [currentlyNoVideos]
     other = "Currently no Videos available"
 
+[currentlyNoPhotoColls]
+    other = "Currently no Photos available"
+
+[ImageFromConcert]
+    other = "Concert Photo"
+
 [biggerMap]
     other = "switch to bigger map.."
 

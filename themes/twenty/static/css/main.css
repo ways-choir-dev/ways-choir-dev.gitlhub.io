@@ -3264,12 +3264,25 @@ header.major {
 					padding: 2.25em 1.5em;
 				}
 
-				.wrapper.style4 {
-					background-size: 10em;
-					padding: 1.5em 1.5em 3em 1.5em;
-				}
+        .wrapper.style4 {
+          background-size: 10em;
+          padding: 1.5em 1.5em 3em 1.5em;
+        }
 
-		/* Banner */
+    .photocoll-text {
+      padding: 1.5em;
+    }
+
+    .photocoll-pics {
+      padding: 0 1.5em 3em 1.5em;
+    }
+
+    a.link-color-black {
+      color: black;
+      cursor: pointer;
+    }
+
+    /* Banner */
 
 			#banner {
         background-size: contain, auto, cover;

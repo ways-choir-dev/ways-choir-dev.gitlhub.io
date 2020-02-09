@@ -31,7 +31,18 @@ fields:
   config: {}
   label: Photo Collection
   description: Die Sammlung der Fotos
-- name: ref-tag
+- name: weight
+  type: number
+  default: '100'
+  required: true
+  config:
+    min:
+    max:
+    step:
+  label: Gewichtung der Foto-Kollektion
+  description: Wie gut und wichtig ist diese Foto-Kollektion im Vergleich zu allen anderen? Die Kollektion
+    mit der höchsten Gewichtung erscheint als erste in der Übersicht
+ - name: ref-tag
   type: text
   config:
     required: false

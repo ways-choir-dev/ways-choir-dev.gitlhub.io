@@ -1,0 +1,25 @@
+<!-- begin of single video section -->
+<div class="row">
+  <div class="col-12 col-12-narrower">
+    <section class="photocoll-text">
+      <header>
+        <h2>{{ .Params.page_title }}</h2>
+      </header>
+      <p>{{ .Content }}</p>
+    </section>
+  </div>
+</div>
+<div class="row">
+  {{ $photos := first 3 .Params.photo_collection }}
+  <div class="col-12 col-12-narrower">
+    <section class="photocoll-pics">
+      <div class="row">
+        {{ range $photos }}
+        {{ partial "image-thumbnail.html" . }}
+        {{ end }}
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- end of photo collection section -->

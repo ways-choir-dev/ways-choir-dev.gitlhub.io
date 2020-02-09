@@ -15,25 +15,27 @@
   <article id="main">
 
     <div id="content">
-      {{ if isset .Params "id" }}
-
-      {{ partial .Params.id . }}
-
-      {{ else }}
 
       <div class="container">
 
         <div class="row">
 
-          <div class="col-md-12">
 
-            <section class="wrapper style4 special medium">
+          {{ $allphotocoll := where .Site.Pages "Type" "photoselection" }}
+          {{ $photocolls := ($allphotocoll.ByParam "weight").Reverse }}
 
-                {{ .Content }}
+          <h1>{{ .Params.page_title }}</h1>
+          {{ if eq (len $photocolls) 0 }}
 
-            </section>
-
+          <div class="reminder">
+            <h1>{{ i18n "currentlyNoPhotoColls" }}</h1>
           </div>
+
+          {{ else }}
+            {{ range $photocolls }}
+              {{ partial "photocolls-preview.html" . }}
+            {{ end }}
+          {{ end }}
 
         </div>
         <!-- /.row -->
@@ -41,7 +43,6 @@
       </div>
       <!-- /.container -->
 
-      {{ end }}
     </div>
 
   </article>
