@@ -8,6 +8,6 @@ type = "photoselection"
 weight = 200
 
 +++
-##The Winner is.....
+The Winner is.....
 
 Vom 4. bis 8.Juli haben wir am Internationaler Chorwettbewerb Sing Berlin teilgenommen und hatten uns in der Kategorie “Gospel, Soul und Jazz” zum ersten Mal einer internationalen Konkurrenz gestellt und - gewonnen!

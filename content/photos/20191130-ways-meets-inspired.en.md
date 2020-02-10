@@ -8,8 +8,6 @@ weight = 1000
 type = "photoselection"
 
 +++
-#WAYS MEETS inspired!
-
 At the 30th of November, 2019 the gospel choir inspired! has been guest 
 at the concert of WAYS in the Adolf-Gustav church in Berlin-Jungfernheide.
 

@@ -8,8 +8,6 @@ type = "photoselection"
 weight = 1000
 
 +++
-#WAYS MEETS inspired!
-
 AM 30. November 2019 war der Gospelchor inspired! 
 Gast beim Konzert von WAYS in der Adolf-Gustav-Kirche in Jungfernheide.
 
