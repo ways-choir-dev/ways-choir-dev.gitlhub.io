@@ -18,27 +18,32 @@
 
       <div class="container">
 
-        <div class="row">
+        <section class="wrapper style4 special medium">
 
+          <header class="special">
+            <span class="icon fa-camera-retro"></span>
+            <h1>{{ .Params.page_title }}</h1>
+          </header>
+          <div class="row">
 
-          {{ $allphotocoll := where .Site.Pages "Type" "photoselection" }}
-          {{ $photocolls := ($allphotocoll.ByParam "weight").Reverse }}
+            {{ $allphotocoll := where .Site.Pages "Type" "photoselection" }}
+            {{ $photocolls := ($allphotocoll.ByParam "weight").Reverse }}
 
-          <h1>{{ .Params.page_title }}</h1>
-          {{ if eq (len $photocolls) 0 }}
+            {{ if eq (len $photocolls) 0 }}
 
-          <div class="reminder">
-            <h1>{{ i18n "currentlyNoPhotoColls" }}</h1>
-          </div>
+            <div class="reminder">
+              <h1>{{ i18n "currentlyNoPhotoColls" }}</h1>
+            </div>
 
-          {{ else }}
+            {{ else }}
             {{ range $photocolls }}
-              {{ partial "photocolls-preview.html" . }}
+            {{ partial "photocolls-preview.html" . }}
             {{ end }}
-          {{ end }}
+            {{ end }}
 
-        </div>
-        <!-- /.row -->
+          </div>
+          <!-- /.row -->
+        </section>
 
       </div>
       <!-- /.container -->
