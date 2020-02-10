@@ -11,11 +11,13 @@
 </div>
 <div class="row">
   {{ $photos := first 3 .Params.photo_collection }}
+  {{ $path := printf "%s/%s" .Site.Params.imagesConfig.cloudinaryURL .Site.Params.imagesConfig.thumbDownloadSize }}
   <div class="col-12 col-12-narrower">
     <section class="photocoll-pics">
       <div class="row">
         {{ range $photos }}
-        {{ partial "image-thumbnail.html" . }}
+        {{ $imgPath := printf "%s/%s" $path . }}
+        {{ partial "image-thumbnail.html" $imgPath }}
         {{ end }}
       </div>
     </section>

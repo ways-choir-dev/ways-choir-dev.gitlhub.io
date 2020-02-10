@@ -6,7 +6,7 @@
           {{ if .Params.listimg }}
           <img src="{{ $.Site.Params.imagesConfig.cloudinaryURL }}/{{ $.Site.Params.imagesConfig.listImageDownloadSize }}/{{ .Params.listimg }}" class="img-responsive" alt="">
           {{ else }}
-          <img src="{{ .Site.BaseURL}}{{$.Site.Params.listImageDefaultFile}}" class="img-responsive" alt="">
+          <img src="{{ $.Site.BaseURL}}{{$.Site.Params.listImageDefaultFile}}" class="img-responsive" alt="">
           {{ end }}
         </a>
       </div>
