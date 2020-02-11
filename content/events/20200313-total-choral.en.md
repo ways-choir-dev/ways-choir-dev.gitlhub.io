@@ -1,9 +1,9 @@
 +++
-banner = ""
+banner = "/v1578226742/WAYS_banner-20180602.jpg"
 categories = ["concerts"]
 draft = true
 layout = "concert"
-listimg = ""
+listimg = "/v1578226743/ways-plakat-default.png"
 page_title = "Total Choral - 13.03.2020"
 publish_date = ""
 tags = []
