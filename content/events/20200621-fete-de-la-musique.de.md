@@ -5,9 +5,9 @@ draft = true
 layout = "concert"
 listimg = "/v1578226743/ways-plakat-default.png"
 page_title = "Fête de la Musique in der Passionskirche"
-publish_date = ""
+publish_date = 2020-03-13T23:00:00Z
 tags = []
-title = "20200621 Fete de la Musique"
+title = "20200621-fete-de-la-musique"
 type = "event"
 [event]
 date = "2020-06-21T16:00:00+02:00"
