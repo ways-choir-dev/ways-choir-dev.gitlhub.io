@@ -16,4 +16,6 @@ name = "Friedenskirche"
 street = "Bismarckstraße 40"
 
 +++
-Details sind noch nicht bekannt
+WAYS in CONCERT: 90 Minuten für unsere Fans und alle, die es werden wollen. 
+
+Unser Pop-Soul-Gospel Repertoire ist weitergewachsen: Gunars hat z.B. „Freedom“ von George Michael für uns arrangiert. Wir lieben die neuen (und alten) Songs und sind gespannt, was ihr meint.
