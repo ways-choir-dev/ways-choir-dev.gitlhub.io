@@ -17,3 +17,6 @@ name = "Passionskirche"
 street = "Marheinekeplatz 1"
 
 +++
+Unsere Premiere bei der Fete de la Musique: Mitmachen im musikalischen Berlin und „Songs with a meaning“ unter die Leute bringen. 
+
+Wir hoffen, ihr kommt auch.
