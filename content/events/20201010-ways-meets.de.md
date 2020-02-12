@@ -10,7 +10,7 @@ tags = []
 title = "20201010-ways-meets-"
 type = "event"
 [event]
-date = "2020-10-10T20:00:00+02:00"
+date = "2020-10-10T19:00:00+02:00"
 [event.location]
 city = "10585 Berlin"
 name = "Cafe Theater Schalotte"
