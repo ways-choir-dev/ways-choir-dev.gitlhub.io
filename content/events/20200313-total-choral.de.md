@@ -16,4 +16,6 @@ name = "Cafe Theater Schalotte"
 street = "Behaimstraße 22"
 
 +++
-Details sind noch nicht bekannt
+45 Minuten WAYS, das heißt Groove und Leichtigkeit mit Tiefgang. Oder auch: 30 Stimmen und ein Pianist mit Lust auf Pop/Soul/Gospel sowie Präzision und Lebendigkeit. 
+
+Arrangements, Leitung und Klavier: Gunars Kalnins.
