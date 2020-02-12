@@ -17,4 +17,6 @@ name = ""
 street = ""
 
 +++
-Details sind noch nicht bekannt
+Am Eröffnungsabend werden wir mit ein oder zwei anderen Chören in einer Kirche in Hannover auftreten. 
+
+Wir freuen uns riesig über die Chance, außerhalb von Berlin unser Repertoire vorzustellen, und sind sehr gespannt auf die anderen Chöre und natürlich die legendäre Gospelkirchentag-Atmosphäre.
