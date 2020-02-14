@@ -23,12 +23,12 @@
           <div class="col-md-12">
 
             {{ $allevents := where .Site.Pages "Type" "event" }}
-            {{ $events := ($allevents.ByParam "event.date").Reverse }}
+            {{ $events := ($allevents.ByParam "event.date") }}
 
             {{ $scratch := newScratch }}
             {{ $scratch.Set "border" -1 }}
             {{ range $index, $element := $events }}
-              {{ if ge (time .Params.event.date).Unix now.Unix }}
+              {{ if le (time .Params.event.date).Unix now.Unix }}
                 {{ $scratch.Set "border" $index }}
               {{ end }}
             {{ end }}
@@ -39,14 +39,14 @@
 
             <section class="wrapper style4 special blog-listing-big">
               <h1>{{ .Params.page_title }}</h1>
-              {{ if eq (len $v1) 0 }}
+              {{ if eq (len $v2) 0 }}
 
                 <div class="reminder">
                   <h1>{{ i18n "currentlyNoConcerts" }}</h1>
                 </div>
               {{ else }}
                 <h2>{{ i18n "ConcertsComingSoon" }}</h2>
-                {{ range $v1 }}
+                {{ range $v2 }}
                     {{ partial "concert-listview-with-image.html" . }}
                 {{ end }}
               {{ end }}

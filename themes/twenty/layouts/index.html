@@ -15,7 +15,7 @@
 
 									<footer>
 										<ul class="buttons">
-											<li><a href="{{ "/about/the_choir/" | absLangURL }}" class="button">{{ i18n "FindOutMore" }}</a></li>
+											<li><a href="{{ "/the_choir/" | absLangURL }}" class="button">{{ i18n "FindOutMore" }}</a></li>
 										</ul>
 									</footer>
 
@@ -28,7 +28,7 @@
 						</section>
 
 					<!-- selection of the best three videos -->
-						<section class="wrapper style1 container special">
+						<section class="wrapper style3 container special">
 							<div class="row">
 
                 {{ $allvideos := where .Site.Pages "Type" "video" }}
@@ -45,33 +45,34 @@
 						<section class="wrapper style3 container special">
 
               {{ $allevents := where .Site.Pages "Type" "event" }}
-              {{ $events := ($allevents.ByParam "event.date").Reverse }}
+              {{ $events := ($allevents.ByParam "event.date") }}
 
               {{ $scratch := newScratch }}
               {{ $scratch.Set "border" -1 }}
               {{ range $index, $element := $events }}
-              {{ if ge (time .Params.event.date).Unix now.Unix }}
+              {{ if le (time .Params.event.date).Unix now.Unix }}
               {{ $scratch.Set "border" $index }}
               {{ end }}
               {{ end }}
 
               {{ $border := add ($scratch.Get "border") 1 }}
               {{ $v1 := first $border $events }}
+              {{ $v2 := $events | complement $v1 }}
 
-              <section class="wrapper style4 special concert-listing-small">
-              {{ if eq (len $v1) 0 }}
+              <div class="concert-listing-small">
+              {{ if eq (len $v2) 0 }}
                 <p>
                   {{ i18n "currentlyNoConcerts" }}
                 </p>
               {{ else }}
                 <h2>{{ i18n "ConcertsComingSoon" }}</h2>
-                {{ range $v1 }}
+                {{ range $v2 }}
                 <ul>
                 {{ partial "concert-listview.html" . }}
                 </ul>
                 {{ end }}
               {{ end }}
-              </section>
+              </div>
 
               <footer class="major">
 								<ul class="buttons">
@@ -83,11 +84,12 @@
 
           <!-- Contact data and link to contact page -->
           <section class="wrapper style5 container special">
-            <div class="row"><h4>{{ i18n "contactTitle" }}</h4></div>
+            <div class="row aln-center"><h4>{{ i18n "contactTitle" }}</h4></div>
             {{ with .Site.Params.contact }}
 
-            <div class="row">{{ partial "rehersal.html" . }}</div>
-            <div class="row">{{ partial "address.html" . }}</div>
+            <div class="row aln-center">{{ partial "rehersal.html" . }}</div>
+            <div class="row aln-center">{{ partial "address.html" . }}</div>
+            <div class="row aln-center">{{ partial "contact-phone-mail.html" . }}</div>
 
               {{ end }}
 

@@ -10,7 +10,7 @@
   </div>
 </div>
 <div class="row">
-  {{ $photos := first 3 .Params.photo_collection }}
+  {{ $photos := first 4 .Params.photo_collection }}
   {{ $path := printf "%s/%s" .Site.Params.imagesConfig.cloudinaryURL .Site.Params.imagesConfig.thumbDownloadSize }}
   <div class="col-12 col-12-narrower">
     <section class="photocoll-pics">

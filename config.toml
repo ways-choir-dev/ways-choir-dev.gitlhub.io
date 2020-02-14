@@ -19,13 +19,13 @@ weight = 300
 identifier = "menu_about_the_choir"
 name = "Der Chor"
 parent = "menu_about"
-url = "/about/the_choir/"
+url = "/the_choir/"
 weight = 10
 [[languages.de.menu.main]]
 identifier = "menu_about_choirleader"
 name = "Chorleitung"
 parent = "menu_about"
-url = "/about/choirleader/"
+url = "/choirleader/"
 weight = 20
 [[languages.de.menu.main]]
 identifier = "menu_about_concerts"
@@ -73,13 +73,13 @@ weight = 300
 identifier = "menu_about_the_choir"
 name = "the choir"
 parent = "menu_about"
-url = "/about/the_choir/"
+url = "/the_choir/"
 weight = 10
 [[languages.en.menu.main]]
 identifier = "menu_about_choirleader"
 name = "the choir leader"
 parent = "menu_about"
-url = "/about/choirleader/"
+url = "/choirleader/"
 weight = 20
 [[languages.en.menu.main]]
 identifier = "menu_about_concerts"
