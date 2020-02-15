@@ -2,6 +2,9 @@
 banner = ""
 date = "2018-04-03T22:10:43+00:00"
 description = ""
+page_title = "Datenschutzerklärung"
+publish_date = ""
+tags = []
 title = "Datenschutzerklärung"
 
 +++
