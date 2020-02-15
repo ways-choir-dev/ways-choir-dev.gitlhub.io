@@ -2,7 +2,10 @@
 banner = ""
 date = "2018-04-03T22:10:43+00:00"
 description = ""
-title = "Datenschutzerklärung"
+page_title = "Data protection"
+publish_date = ""
+tags = []
+title = "Datenschutzerklaerung"
 
 +++
 <h1>Datenschutzerkl&auml;rung</h1> <h2>Kontaktformular</h2> <p>Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und f&uuml;r den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.</p><p>&nbsp;</p>
