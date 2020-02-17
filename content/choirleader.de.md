@@ -17,7 +17,7 @@ Gunars wirkt als Pianist, Sänger, Komponist und Arrangeur. Er hat Solo-Alben au
 
 Chöre sind eine weitere Leidenschaft:
 
-GG-Chor Riga (2004-2009) 
+GG Choir Riga (2004-2009)
 
 BlackiBlanc (Barcelona)
 
@@ -25,10 +25,12 @@ WAYS (Berlin)
 
 und als Pianist hat er
 
-den Berliner Soulchor (2012-2019) begleitet 
+den Berliner Soulchor (2012-2019) begleitet
 
-und Chores Vivace (Barcelona).
+und Cor Vivace (Barcelona).
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1579856175/Gunars_Konntaktbild.jpg)
+
+(c) Foto by Juris Kalnins
 
 [http://www.gunarskalnins.com](http://www.gunarskalnins.com "http://www.gunarskalnins.com")
