@@ -11,8 +11,6 @@ type = "page"
 
 Gunars Kalnins - Chorleiter, Pianist, Sänger, Komponist und Arrangeur
 
-![](https://res.cloudinary.com/ways-choir/image/upload/v1579856175/Gunars_Konntaktbild.jpg)
-
 Gunars, geboren in Riga/Lettland, hat seit 2009 seinen Lebensmittelpunkt im sonnigen Barcelona. Außerdem arbeitet er regelmäßig in und um Berlin. Seine wahre Lieblings-Wahl-Heimat ist aber seit Kindesbeinen die Musik, und die Bühne ist sein Element. Besonders dort, wo sich Gospel, Soul und Pop begegnen, fühlt er sich zuhause.
 
 Gunars wirkt als Pianist, Sänger, Komponist und Arrangeur. Er hat Solo-Alben aufgenommen, war an zahlreichen Platten.-, Musical- und Film-Produktionen beteiligt.
@@ -30,5 +28,7 @@ und als Pianist hat er
 den Berliner Soulchor (2012-2019) begleitet 
 
 und Chores Vivace (Barcelona).
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1579856175/Gunars_Konntaktbild.jpg)
 
 [http://www.gunarskalnins.com](http://www.gunarskalnins.com "http://www.gunarskalnins.com")
