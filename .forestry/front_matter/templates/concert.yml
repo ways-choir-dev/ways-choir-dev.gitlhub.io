@@ -96,6 +96,7 @@ fields:
   default: event
 pages:
 - content/events/20141214-you-are-good.de.md
+- content/events/20141214-you-are-good.en.md
 - content/events/20171202-studio-wiesenburg.de.md
 - content/events/20171202-studio-wiesenburg.en.md
 - content/events/20180412-total-choral.de.md
