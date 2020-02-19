@@ -1,7 +1,6 @@
 +++
 banner = "/v1578226742/WAYS_banner-20180602.jpg"
 categories = ["concerts"]
-draft = true
 layout = "concert"
 listimg = "/v1578226743/ways-plakat-default.png"
 page_title = "Fête de la Musique in Passionskirche"
