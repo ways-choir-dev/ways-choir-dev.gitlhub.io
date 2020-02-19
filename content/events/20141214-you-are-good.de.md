@@ -20,7 +20,7 @@ street = "Händelallee 20"
 
 Weihnachtliches Doppelkonzert mit den Chören Gospelkollektiv und WAYS - With All Your Senses
 
-Mit den Einnahmen der Eintrittsgelder unterstützen die Chöre die denkmalgeschützte Kirche innder Erhaltung des Turmes.
+Mit den Einnahmen der Eintrittsgelder unterstützen die Chöre die denkmalgeschützte Kirche in der Erhaltung des Turmes.
 
 Kartenvorverkauf im Büro der K.-F.-G.-Kirche ab dem 25.11.2014, Tel. 030-3911301
 
