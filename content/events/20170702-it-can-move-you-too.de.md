@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1582185890/04B44D0F-1CAA-4C8C-85F6-83CC188E7A8E_b9efns.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582185890/04B44D0F-1CAA-4C8C-85F6-83CC188E7A8E_b9efns.jpg"
 page_title = "It Can Move You, Too"
 publish_date = ""
 tags = []
