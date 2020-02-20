@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1582185774/A4D09959-C782-47A7-9CD8-568B69C2DC46_xujdot.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582185774/A4D09959-C782-47A7-9CD8-568B69C2DC46_xujdot.jpg"
 page_title = "You Are Good - Benefiz-Konzert"
 publish_date = ""
 tags = []
