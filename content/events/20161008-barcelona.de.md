@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1582185856/0A98B449-18F2-4CCA-88DE-BE1593AF0C63_i0step.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582185856/0A98B449-18F2-4CCA-88DE-BE1593AF0C63_i0step.jpg"
 page_title = "Gospel Solidari in Barcelona/Spanien"
 publish_date = ""
 tags = []
