@@ -1,14 +1,15 @@
 +++
 banner = "/v1578226742/WAYS_banner-20180602.jpg"
-summary = "Konzert zum 5.-jähringen Bestehen von WAYS"
 categories = ["concerts"]
-type = "event"
 date = "2018-10-24T17:23:24+02:00"
-listimg = "/v1578226743/ways-plakat-default.png"
+layout = ""
+listimg = "/v1578226822/celebration-concert.png"
+page_title = "Celebration 5 Years of WAYS"
 publish_date = ""
+summary = "Konzert zum 5.-jähringen Bestehen von WAYS"
 tags = []
 title = "celebration-5-years-of-ways"
-page_title = "Celebration 5 Years of WAYS"
+type = "event"
 [event]
 date = "2019-02-23T19:00:00+01:00"
 [event.location]
