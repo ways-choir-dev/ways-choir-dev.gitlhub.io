@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1582383304/20170702_banner_bv99nr.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582383305/20170702_it-can-move-you-too_erbrzg.jpg"
 page_title = "It Can Move You, Too"
 publish_date = ""
 tags = []
