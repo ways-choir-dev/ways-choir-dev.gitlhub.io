@@ -11,9 +11,9 @@ type = "event"
 [event]
 date = "2015-02-20T19:30:00+01:00"
 [event.location]
-city = "10557 Berlin"
+city = "10789 Berlin"
 name = "Kaiser-Wilhelm-Gedächtnis-Kirche Berlin"
-street = "Händelallee 20"
+street = "Breitscheidplatz"
 
 +++
 Hope Foundation presents: 
