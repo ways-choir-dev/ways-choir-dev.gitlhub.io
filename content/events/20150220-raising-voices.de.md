@@ -1,5 +1,5 @@
 +++
-banner = "/v1582374710/20150220_banner_e2qost.jpg"
+banner = "/v1582396706/20150220_banner_n1dvvf.png"
 categories = ["concerts"]
 layout = "concert"
 listimg = "/v1582374713/20150220_raising-voices_knq52o.png"
