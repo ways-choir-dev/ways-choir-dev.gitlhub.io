@@ -2,7 +2,7 @@
 banner = "/v1582376817/20150905_banner_czatpp.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1582376821/20150905_gospelchortreffen_vlcxp3.png"
+listimg = "/v1582397670/20150905_Gospelchortreffen_vstcnb.jpg"
 page_title = "Gospelchortreffen"
 publish_date = ""
 tags = []
