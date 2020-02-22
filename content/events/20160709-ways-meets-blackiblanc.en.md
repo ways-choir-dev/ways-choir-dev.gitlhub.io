@@ -1,5 +1,5 @@
 +++
-banner = "/v1582381009/20160709_banner_ezs0b9.jpg"
+banner = "/v1582398055/20160709_banner_f5chel.jpg"
 categories = ["concerts"]
 layout = "concert"
 listimg = "/v1582381013/20160709_BiB1_xcjudo.jpg"
@@ -21,3 +21,5 @@ street = "Bernburger Str. 4-5"
 S-Bhn. Anhalter Bahnhof oder Potsdamer Platz
 
 Ticket 10 Euro, erm. 8 Euro
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582398080/20160709_onstage_cw4kb2.jpg)
