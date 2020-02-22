@@ -16,7 +16,7 @@ name = "Sankt-Lukas-Kirche, Stadtmission"
 street = "Bernburger Str. 4-5"
 
 +++
-Die Chöre **WAYS** & **BlackiBlanc** im Doppelkonzert mit gemeinsamem Chorleiter **Gunars Kalnins**
+### Die Chöre **WAYS** & **BlackiBlanc** im Doppelkonzert mit gemeinsamem Chorleiter **Gunars Kalnins**
 
 S-Bhn. Anhalter Bahnhof oder Potsdamer Platz
 
