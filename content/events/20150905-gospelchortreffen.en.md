@@ -11,9 +11,9 @@ type = "event"
 [event]
 date = "2015-09-05T20:00:00+02:00"
 [event.location]
-city = ""
-name = ""
-street = ""
+city = "10789 Berlin"
+name = "Kaiser-Wilhelm-Gedächtnis-Kirche Berlin"
+street = "Breitscheidplatz"
 
 +++
 ## WAYS sings in the open stage gospelconcert at the Gospelchorfestival 2015
