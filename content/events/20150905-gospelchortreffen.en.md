@@ -16,6 +16,6 @@ name = "Kaiser-Wilhelm-Gedächtnis-Kirche Berlin"
 street = "Breitscheidplatz"
 
 +++
-## WAYS sings in the open stage gospelconcert at the Gospelchorfestival 2015
+## WAYS sings in the open stage gospelconcert at the Gospelchoirfestival 2015
 
 Concert starts 8 p.m.
