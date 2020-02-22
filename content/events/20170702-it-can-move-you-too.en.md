@@ -21,3 +21,5 @@ street = "Bernburger Str. 4-5"
 S-Bhn. Anhalter Bahnhof oder Potsdamer Platz
 
 Ticket: 12 Euro, erm. 8 Euro bei Vorlage des Berlinpasses
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582398614/20170702_onstage_thwdhp.jpg)
