@@ -31,3 +31,5 @@ street = "Neukladower Allee 12"
 * Vokalzeit
 
 Beginn: 12 Uhr
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582397490/20150614_onstage_qdo59o.jpg)
