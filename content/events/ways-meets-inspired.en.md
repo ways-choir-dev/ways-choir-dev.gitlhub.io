@@ -1,13 +1,14 @@
 +++
 banner = "/v1578226760/WAYS_meets_inspired_Banner.png"
-summary = "Gemeinschaftskonzert mit Groove-Faktor"
 categories = ["concerts"]
-type = "event"
+layout = ""
 listimg = "/v1578226761/WAYS_meets_inspired_Vorschau.png"
+page_title = "WAYS meets inspired!"
 publish_date = 2019-10-23T22:00:00Z
+summary = "Gemeinschaftskonzert mit Groove-Faktor"
 tags = []
 title = "ways-meets-inspired"
-page_title = "WAYS meets inspired!"
+type = "event"
 [event]
 date = "2019-11-30T19:00:00+01:00"
 [event.location]
@@ -24,4 +25,6 @@ Das steht für Pop, Soul und Modern Gospel vom Feinsten. Am 30. November teilen 
 
 ##### Karten reservieren unter:
 
-##### info@ways-choir.eu 
+##### info@ways-choir.eu
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582400351/20191130_onstage_xfeoie.jpg)
