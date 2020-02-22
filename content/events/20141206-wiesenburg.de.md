@@ -1,8 +1,9 @@
 +++
-banner = "/v1582185691/F1B5431A-6D80-412A-8739-9F9D5DD8AEE0_aadcll.jpg"
+banner = ""
 categories = ["concerts"]
+draft = true
 layout = "concert"
-listimg = "/v1582185691/F1B5431A-6D80-412A-8739-9F9D5DD8AEE0_aadcll.jpg"
+listimg = ""
 page_title = "Mal‘s Scheune - Studio Wiesenburg"
 publish_date = ""
 tags = []
