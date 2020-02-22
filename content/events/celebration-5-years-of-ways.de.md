@@ -25,3 +25,5 @@ Seit nunmehr fünf Jahren treffen wir uns jeden Montag, und feilen an unserem Re
 Es wird einen bunten Querschnitt aus allen Jahren geben, von Aretha Franklin bis Whitney Houston.
 
 ### SAVE THE DATE!!!
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582401114/20190223_onstage_oafp3j.jpg)
