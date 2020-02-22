@@ -1,8 +1,8 @@
 +++
-banner = "/v1582185774/A4D09959-C782-47A7-9CD8-568B69C2DC46_xujdot.jpg"
+banner = "/v1582374185/20141215_banner_ydkmuc.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1582185774/A4D09959-C782-47A7-9CD8-568B69C2DC46_xujdot.jpg"
+listimg = "/v1582374189/20141215_benefiz_hqca5l.png"
 page_title = "You Are Good - Benefiz-Konzert"
 publish_date = ""
 tags = []
