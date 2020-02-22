@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1582374210/20141215_banner_rwjfu8.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582374213/20141215_benefiz_ef3olw.png"
 page_title = "You Are Good - Benefit-Concert"
 publish_date = ""
 tags = []
