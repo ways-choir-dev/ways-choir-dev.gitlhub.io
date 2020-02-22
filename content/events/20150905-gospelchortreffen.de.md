@@ -2,7 +2,7 @@
 banner = "/v1582376804/20150905_banner_sf4tpe.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1582376809/20150905_gospelchortreffen_pgvndj.png"
+listimg = "/v1582397642/20150905_Gospelchortreffen_t4fdj7.jpg"
 page_title = "Gospelchortreffen"
 publish_date = ""
 tags = []
