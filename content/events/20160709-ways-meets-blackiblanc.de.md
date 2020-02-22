@@ -1,8 +1,8 @@
 +++
-banner = "/v1582185820/810CF9A7-1229-421A-91E0-02A54E3B6333_iu5hhw.jpg"
+banner = "/v1582381000/20160709_banner_ew7cdm.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1582185820/810CF9A7-1229-421A-91E0-02A54E3B6333_iu5hhw.jpg"
+listimg = "/v1582381002/20160709_BiB1_zyavrq.jpg"
 page_title = "WAYS meets BlackiBlanc"
 publish_date = ""
 tags = []
