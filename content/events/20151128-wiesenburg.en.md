@@ -19,3 +19,5 @@ street = "Zum Winkelteich 4"
 ## WAYS - GOSPEL, RHYTHM & BLUES, SOUL MIT VIELEN STIMMEN
 
 Tagesmitgliedschaft 7 Euro
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582397752/20151128_onstage_tlqj3m.jpg)

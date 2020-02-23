@@ -1,8 +1,8 @@
 +++
-banner = "/v1582374185/20141215_banner_ydkmuc.jpg"
+banner = "/v1582396420/20141214_banner_mf16zb.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1582374189/20141215_benefiz_hqca5l.png"
+listimg = "/v1582396427/20141214_Benefiz_rewglw.jpg"
 page_title = "You Are Good - Benefiz-Konzert"
 publish_date = ""
 tags = []
@@ -27,3 +27,5 @@ Kartenvorverkauf im Büro der K.-F.-G.-Kirche ab dem 25.11.2014, Tel. 030-391130
 info@gospelkollektiv.de, Leitung: Stefan Zebe
 
 ways.choir@gmail.com, Leitung: Gunars Kalnins
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582396486/20141214_onstage_yo7gfs.jpg)

@@ -1,5 +1,5 @@
 +++
-banner = "/v1578226673/WAYS_Konzert_20171202.jpg"
+banner = "/v1582383611/20171202_banner_cfwzkk.jpg"
 categories = ["concerts"]
 date = "2018-04-21T14:23:19+02:00"
 layout = ""

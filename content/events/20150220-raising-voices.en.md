@@ -1,5 +1,5 @@
 +++
-banner = "/v1582374720/20150220_banner_gwp1ih.jpg"
+banner = "/v1582396731/20150220_banner_gdx3rz.png"
 categories = ["concerts"]
 layout = "concert"
 listimg = "/v1582374724/20150220_raising-voices_wcjutl.png"
@@ -11,9 +11,9 @@ type = "event"
 [event]
 date = "2015-02-20T19:30:00+01:00"
 [event.location]
-city = "10557 Berlin"
+city = "10789 Berlin"
 name = "Kaiser-Wilhelm-Gedächtnis-Kirche Berlin"
-street = "Händelallee 20"
+street = "Breitscheidplatz"
 
 +++
 Hope Foundation presents: 

@@ -19,3 +19,7 @@ street = "Hardenbergstraße 33"
 ## Live-Konzert von Stefan Gwildis feat. WAYS - With All Your Senses
 
 ### Alles dreht sich
+
+WAYS unterstützt Stefan Gwildis bei seinem Live-Auftritt in der Universität der Künste
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582397890/20160223_onstage_yooape.jpg)

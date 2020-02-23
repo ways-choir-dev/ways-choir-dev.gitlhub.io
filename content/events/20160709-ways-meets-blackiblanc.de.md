@@ -1,8 +1,8 @@
 +++
-banner = "/v1582185820/810CF9A7-1229-421A-91E0-02A54E3B6333_iu5hhw.jpg"
+banner = "/v1582398129/20160709_banner_vsuogf.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1582185820/810CF9A7-1229-421A-91E0-02A54E3B6333_iu5hhw.jpg"
+listimg = "/v1582381002/20160709_BiB1_zyavrq.jpg"
 page_title = "WAYS meets BlackiBlanc"
 publish_date = ""
 tags = []
@@ -16,8 +16,10 @@ name = "Sankt-Lukas-Kirche, Stadtmission"
 street = "Bernburger Str. 4-5"
 
 +++
-Die Chöre **WAYS** & **BlackiBlanc** im Doppelkonzert mit gemeinsamem Chorleiter **Gunars Kalnins**
+### Die Chöre **WAYS** & **BlackiBlanc** im Doppelkonzert mit gemeinsamem Chorleiter **Gunars Kalnins**
 
 S-Bhn. Anhalter Bahnhof oder Potsdamer Platz
 
 Ticket 10 Euro, erm. 8 Euro
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582398080/20160709_onstage_cw4kb2.jpg)

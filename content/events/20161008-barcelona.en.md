@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1582398410/20161008_banner_cu0vau.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582398414/20161008_Barcelona_lorir2.jpg"
 page_title = "Gospel Solidari in Barcelona/Spain"
 publish_date = ""
 tags = []
@@ -23,3 +23,5 @@ Director: Gunars Kalnins
 Entrada anticipada fundacio babel 8 Euro + donatiu, guixeta 10 Euro + donatiu
 
 Donatiu: construccio orfenat “La Source du Bonheur“, Senegal
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1581264592/E94520A9-7465-41E2-B1F0-D6EA89BA441A.jpg)

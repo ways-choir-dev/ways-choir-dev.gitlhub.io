@@ -31,3 +31,5 @@ street = "Neukladower Allee 12"
 * Vokalzeit
 
 Concert starts at noon.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1582397490/20150614_onstage_qdo59o.jpg)
