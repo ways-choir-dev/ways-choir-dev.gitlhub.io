@@ -1,8 +1,8 @@
 +++
-banner = "/v1578226742/WAYS_banner-20180602.jpg"
+banner = "/v1582923901/E75017AE-AA2D-416A-B71E-D534305111C9_jdvqql.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582923912/9AAFDC74-B1D7-4A9A-BE33-EDCF6FFB0FD2_x85elh.jpg"
 page_title = "Gospelkirchentag in Hannover"
 publish_date = 2020-05-24T22:00:00Z
 tags = []
