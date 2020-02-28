@@ -16,6 +16,6 @@ name = "Körnerpark"
 street = "Schierker Str. 8"
 
 +++
-Sonntagmittag im Park: „Songs with a meaning“ unter hoffentlich blauen Himmel und mit euch. Gute Laune und jede Menge Gefühl sind garantiert. 
+Sonntagmittag im Park: „Songs with a meaning“ unter hoffentlich blauen Himmel und mit euch. Gute Laune und jede Menge Gefühl sind garantiert.
 
-WAYS mit Gunars Kalnins am Piano.
+Arrangements, Chorleitung und Klavier: Gunars Kalnins.
