@@ -16,3 +16,4 @@ name = "Passionskirche"
 street = "Marheinekeplatz 1"
 
 +++
+Our premiere at the Fête de la Musique: Finally, we get to be part of this magical event in musical Berlin and bring people together with „Songs with a meaning“. We’re hoping you’ll come, too.
