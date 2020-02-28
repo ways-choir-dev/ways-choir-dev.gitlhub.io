@@ -17,4 +17,4 @@ name = "Cafe Theater Schalotte"
 street = "Behaimstraße 22"
 
 +++
-no details known yet
+Our joined concerts concept called „WAYS meets…“ has become a tradition: following concerts with choirs like Gospelkollektiv, BlackiBlanc, Klangwerk 306, CrossOver, and Inspired!, we’re so looking forward to another expressive joined concert. Who with? We’re still in the planning process…
