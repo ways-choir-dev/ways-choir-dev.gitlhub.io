@@ -1,5 +1,5 @@
 +++
-banner = "/v1578226742/WAYS_banner-20180602.jpg"
+banner = "/v1582921861/F0DCAB32-F529-4D3E-A5FA-3C21432D6EA4_l5fvkp.jpg"
 categories = ["concerts"]
 layout = "concert"
 listimg = "/v1578226743/ways-plakat-default.png"
