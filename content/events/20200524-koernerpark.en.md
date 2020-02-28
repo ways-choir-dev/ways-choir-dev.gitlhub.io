@@ -16,4 +16,6 @@ name = "Körnerpark"
 street = "Schierker Str. 8"
 
 +++
-no details yet
+A [sunday afternoon](x-apple-data-detectors://2) in the park: "Songs with a meaning" under a hopefully blue sky and with you. Good spirits and a range of emotions are guaranteed.
+
+Arrangements, direction and piano: Gunars Kalnins.
