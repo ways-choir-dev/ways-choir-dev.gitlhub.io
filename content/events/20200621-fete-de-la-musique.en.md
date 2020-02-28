@@ -1,8 +1,8 @@
 +++
-banner = "/v1578226742/WAYS_banner-20180602.jpg"
+banner = "/v1582922911/45294F28-CD7C-4A01-8B35-202EB9E5CE83_ctisob.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = "/v1578226743/ways-plakat-default.png"
+listimg = "/v1582922928/41F646B3-AF94-408D-86B7-F243A32F86D5_aagtdz.jpg"
 page_title = "Fête de la Musique in Passionskirche"
 publish_date = 2020-03-13T23:00:00Z
 tags = []
