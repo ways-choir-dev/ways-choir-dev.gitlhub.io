@@ -16,4 +16,4 @@ name = "Friedenskirche"
 street = "Bismarckstraße 40"
 
 +++
-no details known yet
+WAYS in CONCERT: 90 minutes for our fans and everyone who wants to become one. Our Pop-Soul/Gospel repertoire has grown: for instance, Gunars has arranged „Freedom“ by George Michael for us. We adore the new (and old) songs and cannot wait to hear what you think.
