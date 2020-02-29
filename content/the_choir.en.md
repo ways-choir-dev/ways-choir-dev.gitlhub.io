@@ -6,7 +6,7 @@ title = "WAYS - WithAllYourSenses"
 type = "page"
 
 +++
-# The Choir WAYS - WithAllYourSenses
+# The Choir WAYS - With All Your Senses
 
 Some love gospel music, others soul while others again prefer pop. In WAYS, we just want to sing and make music that touches your soul, that is full of rhythm and heart and speaks to all your senses. It’s essential for us that the songs we perform deal with important topics, such as courage, hope, freedom, friendship, love, and trust.
 
