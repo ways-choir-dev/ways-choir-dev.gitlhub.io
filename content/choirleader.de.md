@@ -7,27 +7,25 @@ title = "Gunars Kalnins - Chorleiter von WAYS - WithAllYourSenses"
 type = "page"
 
 +++
-# Gunars Kalnins - Chorleiter von WAYS - WithAllYourSenses
+# Gunars Kalnins - Choirdirector of WAYS - With All Your Senses
 
-Gunars Kalnins - Chorleiter, Pianist, Sänger, Komponist und Arrangeur
+Though born in Riga, Latvia, Gunars has made sunny Barcelona in Spain his base since 2009, where he lives and works. In addition, he works in and around Berlin on a regular basis.
 
-Gunars, geboren in Riga/Lettland, hat seit 2009 seinen Lebensmittelpunkt im sonnigen Barcelona. Außerdem arbeitet er regelmäßig in und um Berlin. Seine wahre Lieblings-Wahl-Heimat ist aber seit Kindesbeinen die Musik, und die Bühne ist sein Element. Besonders dort, wo sich Gospel, Soul und Pop begegnen, fühlt er sich zuhause.
+However, since childhood music has been his preferred chosen home and the stage is his element. He especially feels at home anywhere gospel, soul and pop music meet.
 
-Gunars wirkt als Pianist, Sänger, Komponist und Arrangeur. Er hat Solo-Alben aufgenommen, war an zahlreichen Platten.-, Musical- und Film-Produktionen beteiligt.
+Gunars is active as pianist, singer, composer and arranger. He has recorded numerous solo albums and took part in many record, musical and movie productions.
 
-Chöre sind eine weitere Leidenschaft:
+Choirs are but another passion of his:
 
-GG Choir Riga (2004-2009)
+GG Choir (Riga, 2004-2009, director, piano, founder)
 
-BlackiBlanc (Barcelona)
+BlackiBlanc (Barcelona, director, piano, founder)
 
-WAYS (Berlin)
+WAYS (Berlin, director, piano, co-founder)
 
-und als Pianist hat er
+Berliner Soulchor (Berlin, 2012-2019, piano accompaniment)
 
-den Berliner Soulchor (2012-2019) begleitet
-
-und Cor Vivace (Barcelona).
+Cor Vivace (Barcelona, piano accompaniment)
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1579856175/Gunars_Konntaktbild.jpg)
 
