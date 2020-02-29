@@ -9,7 +9,7 @@ tags = []
 title = "20200621-fete-de-la-musique"
 type = "event"
 [event]
-date = "2020-06-21T16:00:00+02:00"
+date = "2020-06-21T18:00:00+02:00"
 [event.location]
 city = "10961 Berlin-Kreuzberg"
 name = "Passionskirche"
