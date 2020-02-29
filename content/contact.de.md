@@ -3,6 +3,9 @@ banner = ""
 date = "2018-04-02T21:59:33+00:00"
 description = ""
 id = "contact"
+page_title = "Kontakt"
+publish_date = ""
+tags = []
 title = "Kontakt"
 type = "page"
 
