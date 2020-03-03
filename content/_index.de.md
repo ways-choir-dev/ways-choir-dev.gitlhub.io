@@ -1,12 +1,12 @@
 +++
-title = "WAYS Startpage"
+page_sub_title = "with all your senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
 page_title = "WAYS"
-page_sub_title = "with-all-your-senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
 sidebar_content = "![](https://res.cloudinary.com/ways-choir/image/upload/v1578645829/SingBerlinLogo.png)\nWAYS @ Sing Berlin! 2018\nGewinner in der Kathegorie „Modern – Jazz/Pop/Gospel”"
+title = "WAYS Startpage"
 welcome_img = "/v1577994225/ways_filter_IC.jpg"
 
 +++
-# WAYS - WithAllYourSenses
+# WAYS - With All Your Senses
 
 Manche nennen es Gospel, andere nennen es Soul, Rhythm&Blues oder auch Popmusik.
 
