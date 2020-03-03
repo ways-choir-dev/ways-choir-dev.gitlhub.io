@@ -9,7 +9,7 @@ type = "page"
 +++
 # GUNARS KALNINS - DIRECTOR OF WAYS - WITH ALL YOUR SENSES
 
-Gunars Kalnins - Chorleiter, Pianist, Sänger, Komponist und Arrangeur ist in Lettland geboren.
+Gunars Kalnins - Chorleiter, Pianist, Sänger, Komponist und Arrangeur - ist in Lettland geboren.
 
 Sein Genre ist eine Kombination von Gospel – Soul – Pop.
 
