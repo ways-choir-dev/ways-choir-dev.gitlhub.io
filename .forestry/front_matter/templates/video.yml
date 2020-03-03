@@ -57,6 +57,7 @@ fields:
   hidden: true
   default: video
 pages:
+- content/videos/2017-07-02-chain-of-fools.en.md
 - content/videos/20171202-wiesenburg.de.md
 - content/videos/20171202-wiesenburg.en.md
 - content/videos/2019-02-23-celebration.de-1.md
