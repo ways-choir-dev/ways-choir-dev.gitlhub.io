@@ -7,25 +7,27 @@ title = "Gunars Kalnins - Chorleiter von WAYS - WithAllYourSenses"
 type = "page"
 
 +++
-# Gunars Kalnins - Choirdirector of WAYS - With All Your Senses
+# GUNARS KALNINS - DIRECTOR OF WAYS - WITHALLYOURSENSES
 
-Though born in Riga, Latvia, Gunars has made sunny Barcelona in Spain his base since 2009, where he lives and works. In addition, he works in and around Berlin on a regular basis.
+Gunars Kalnins - Chorleiter, Pianist, Sänger, Komponist und Arrangeur ist in Lettland geboren.
 
-However, since childhood music has been his preferred chosen home and the stage is his element. He especially feels at home anywhere gospel, soul and pop music meet.
+Sein Genre ist eine Kombination von Gospel – Soul – Pop.
 
-Gunars is active as pianist, singer, composer and arranger. He has recorded numerous solo albums and took part in many record, musical and movie productions.
+Zum jetzigen Zeitpunkt hat er:
 
-Choirs are but another passion of his:
+* 2 Solo-Alben veröffentlicht und arbeitete mit an mehr als
+* 14 Alben ( als Sänger, Kompinist, Produzent )
+* 8 Musicals ( als Schauspieler, Sänger )
+* 3 Musicals ( als Komponist, Arrangeur, Produzent )
+* 4 Soundtracks ( Dokumentation, Animationsfilme )
 
-GG Choir (Riga, 2004-2009, director, piano, founder)
+Seit 2009 lebt und arbeitet er in Barcelona. Hier setzt er seine Arbeit als Sänger und Pianist bis heute fort. Gleichzeitig ist er künstlerischer Leiter des Gospelchores BlackiBlanc (mit denen wir am 9. Juli 2016 ein großes Doppelkonzert in Berlin veranstaltet haben! ), sowie der Pianist des Chores Vivace in Barcelona.
 
-BlackiBlanc (Barcelona, director, piano, founder)
+Durch ein gemeinsames Chorkonzert des Berliner Soulchores mit dem katalanischen “Cor Carlit/Cor Montmelo” in Barcelona im Oktober 2012 , Gunars war der Pianist des Chores in dieser Zeit, wurden die Berliner aufmerksam auf ihn. Er wurde daraufhin nach Berlin eingeladen, um mit dem Berliner Chor probeweise zu arbeiten.
 
-WAYS (Berlin, director, piano, co-founder)
+Von 2013 bis 2019 war er der Pianist des Berliner Soulchores.
 
-Berliner Soulchor (Berlin, 2012-2019, piano accompaniment)
-
-Cor Vivace (Barcelona, piano accompaniment)
+Im Februar 2014 wurde WAYS-WithAllYourSenses gegründet und Gunars übernahm die künstlerische Leitung des ambitionierten Chores.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1579856175/Gunars_Konntaktbild.jpg)
 
