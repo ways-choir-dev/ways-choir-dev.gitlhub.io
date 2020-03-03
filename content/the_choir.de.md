@@ -12,7 +12,7 @@ Die einen lieben Gospel, die anderen stehen auf Soul und wieder andere sagen „
 
 WAYS probt und probiert, wächst und wandelt sich seit 2014. Angefangen haben wir als kleine Gruppe „crazy“ Sangeslustiger mit und ohne Notenkenntnisse. Inzwischen sind wir rund 30 Leutchen, die Spaß an gutem Sound haben, die wollen, dass die Songs beim Publikum zünden, und dafür richtig gerne miteinander üben.
 
-Wir treten gerne auf, in der Regel einmal im Jahr in einem abendfüllenden Konzert alleine und einmal zusammen mit einem anderen Chor: „WAYS meets…“. Dazu kommen meist kleinere Auftritte oder mal ein Wettbewerb.
+Wir treten gerne auf, mal in einem abendfüllenden Konzert alleine und mal zusammen mit einem anderen Chor: „WAYS meets…“. Dazu kommen meist kleinere Auftritte oder mal ein Wettbewerb.
 
 Highlights der vergangenen Jahre waren der Auftritt als begleitender Gastchor in einem Konzert mit dem deutschen Soulsänger Stefan Gwildis (2016) und die Teilnahme am internationalen Chorwettbewerb „Sing Berlin“ (2018), bei dem wir den 1. Preis in der Kategorie Modern Jazz/Pop/Gospel gewannen.
 
