@@ -1,5 +1,5 @@
 +++
-description = "Ausschnitt aus dem Sommerkonzert 2017"
+description = "Ausschnitt aus dem WAYS-Sommerkonzert 2017"
 page_title = "Chain of Fools - Juli 2017"
 tags = []
 title = "2017-07-02-chain-of-fools"
