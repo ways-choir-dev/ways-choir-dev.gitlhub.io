@@ -13,7 +13,7 @@ Some call it Gospel, others call it Soul, Rhythm&Blues or Popmusic.
 
 We want to move along several ways in music.
 
-We want to sing "Songs with a Meening"!
+We want to sing "Songs with a Meaning"!
 
 With all your senses..
 
