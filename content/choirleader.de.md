@@ -7,7 +7,7 @@ title = "Gunars Kalnins - Chorleiter von WAYS - WithAllYourSenses"
 type = "page"
 
 +++
-# GUNARS KALNINS - DIRECTOR OF WAYS - WITHALLYOURSENSES
+# GUNARS KALNINS - DIRECTOR OF WAYS - WITH ALL YOUR SENSES
 
 Gunars Kalnins - Chorleiter, Pianist, Sänger, Komponist und Arrangeur ist in Lettland geboren.
 
@@ -27,7 +27,7 @@ Durch ein gemeinsames Chorkonzert des Berliner Soulchores mit dem katalanischen 
 
 Von 2013 bis 2019 war er der Pianist des Berliner Soulchores.
 
-Im Februar 2014 wurde WAYS-WithAllYourSenses gegründet und Gunars übernahm die künstlerische Leitung des ambitionierten Chores.
+Im Februar 2014 wurde WAYS-With All Your Senses gegründet, und Gunars übernahm die künstlerische Leitung des ambitionierten Chores.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1579856175/Gunars_Konntaktbild.jpg)
 
