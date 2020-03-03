@@ -1,6 +1,5 @@
 +++
 description = "WAYS at the „Sing Berlin“-contest in July 2018"
-draft = true
 page_title = "Bridge Over Troubled Water - 2018"
 tags = []
 title = "2018-07-06-bridge-over-troubled-water"
