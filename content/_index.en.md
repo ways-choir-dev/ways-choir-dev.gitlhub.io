@@ -18,3 +18,7 @@ We want to sing "Songs with a Meaning"!
 With all your senses..
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
+
+You want to sing with us?
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1583475753/E2301961-1BA9-44E6-87D1-82E97FBAE8B6_bo6fj3.jpg)
