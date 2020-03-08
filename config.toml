@@ -1,4 +1,5 @@
-baseurl = "https://ways-choir-dev.gitlab.io/"
+# baseurl = "https://ways-choir-dev.gitlab.io/"
+baseurl = "http://www.ways-choir.eu/"
 defaultContentLanguage = "de"
 languageCode = "de-de"
 theme = "twenty"
