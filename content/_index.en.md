@@ -2,7 +2,7 @@
 forestry_title = "WAYS Startseite"
 page_sub_title = "with all your senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
 page_title = "WAYS"
-sidebar_content = "![](https://res.cloudinary.com/ways-choir/image/upload/v1578645829/SingBerlinLogo.png)\nWAYS @ Sing Berlin! 2018\nWinner of the Category „Modern – Jazz/Pop/Gospel”"
+sidebar_content = "![](https://res.cloudinary.com/ways-choir/image/upload/v1583475753/E2301961-1BA9-44E6-87D1-82E97FBAE8B6_bo6fj3.jpg)\n\n![](https://res.cloudinary.com/ways-choir/image/upload/v1578645829/SingBerlinLogo.png)\nWAYS @ Sing Berlin! 2018\nWinner of the Category „Modern – Jazz/Pop/Gospel”"
 title = "WAYS Startpage"
 welcome_img = "/v1577994225/ways_filter_IC.jpg"
 
@@ -18,7 +18,3 @@ We want to sing "Songs with a Meaning"!
 With all your senses..
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
-
-You want to sing with us?
-
-![](https://res.cloudinary.com/ways-choir/image/upload/v1583475753/E2301961-1BA9-44E6-87D1-82E97FBAE8B6_bo6fj3.jpg)
