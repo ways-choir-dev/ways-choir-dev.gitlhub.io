@@ -15,7 +15,11 @@
       <h2><a href="{{ .Permalink }}">{{ .Params.page_title }}</a></h2>
       <div class="clearfix">
         <p class="date-comments">
-          <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i>{{ partial "date.html" .Params.event.date }}</a>
+          <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i>
+            {{ with .Params.event }}
+              {{ partial "date.html" .date }}, {{ dateFormat $.Site.Params.time_format .date }} {{ i18n "oclock" }}
+            {{ end }}
+          </a>
         </p>
       </div>
       </p>
