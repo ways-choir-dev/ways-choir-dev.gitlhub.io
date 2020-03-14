@@ -29,6 +29,6 @@ We still hope that we will perform the announced concerts.
 
 Until then: you all stay healthy, keep some distance, watch each other and don't forget to sing.
 
-With all your senses!
+With All Your Senses!
 
 Your WAYSies!
