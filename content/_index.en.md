@@ -25,7 +25,7 @@ because of the COVID-19 crisis, "WAYS" is also pausing until further notice with
 
 We will let you know when and where we will meet again, as soon as we know ourselves.
 
-We still hope that we can sing the announced concerts.
+We still hope that we will perform the announced concerts.
 
 Until then: you all stay healthy, keep some distance, watch each other and don't forget to sing.
 
