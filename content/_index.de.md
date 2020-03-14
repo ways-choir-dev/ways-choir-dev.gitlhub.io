@@ -26,6 +26,6 @@ Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, das
 
 Bis dahin: Bleibt gesund, haltet Abstand, achtet aufeinander und vergesst das Singen nicht.
 
-With all your Senses!
+With All Your Senses!
 
 Eure WAYSies!
