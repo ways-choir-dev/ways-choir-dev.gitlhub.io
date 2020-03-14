@@ -18,14 +18,14 @@ Mit all deinen Sinnen...
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
 
-Liebe Freundinnen und Freunde, 
+Liebe Freundinnen und Freunde,
 
-wegen der Corona-Krise pausiert auch „Ways“ bis auf Weiteres mit den gemeinsamen Proben in der Bibliothek „unseres“ Seniorenheims am Kurfürstendamm. Die Gesundheit unserer Gastgeberinnen und Gastgeber ist natürlich wichtiger! 
+wegen der Corona-Krise pausiert auch „Ways“ bis auf Weiteres mit den gemeinsamen Proben in der Bibliothek „unseres“ Seniorenheims am Kurfürstendamm. Die Gesundheit unserer Gastgeberinnen und Gastgeber ist natürlich wichtiger!
 
-Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, dass wir die angekündigten Konzerte singen können. 
+Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, dass wir die angekündigten Konzerte singen können.
 
-Bis dahin: Bleibt gesund, haltet Abstand, achtet aufeinander und vergesst das Singen nicht. 
+Bis dahin: Bleibt gesund, haltet Abstand, achtet aufeinander und vergesst das Singen nicht.
 
-With all your Senses! 
+With all your Senses!
 
-Eure Waysies!
+Eure WAYSies!
