@@ -21,7 +21,7 @@ With all your senses..
 
 Dear friends,
 
-because of the COVID-19 crisis, "Ways" is also pausing until further notice with the rehearsals in the library of "our" retirement home on Kurfürstendamm. The health of our hosts is of course more important!
+because of the COVID-19 crisis, "WAYS" is also pausing until further notice with the rehearsals in the library of "our" retirement home on Kurfürstendamm. The health of our hosts is of course more important!
 
 We will let you know when and where we will meet again, as soon as we know ourselves.
 
