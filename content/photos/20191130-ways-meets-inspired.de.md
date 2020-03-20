@@ -8,6 +8,6 @@ type = "photoselection"
 weight = 1000
 
 +++
-Am 30. November 2019 gaben WAYS und der Gospelchor inspired! ein Gemeinschaftskonzert in der Adolf-Gustav-Kirche in Jungfernheide.
+Am 30. November 2019 gaben WAYS und der Gospelchor inspired! ein Gemeinschaftskonzert in der Gustav-Adolf-Kirche in Jungfernheide.
 
 Hier einige Impressionen von dem Konzert.
