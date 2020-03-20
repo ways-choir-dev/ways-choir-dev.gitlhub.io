@@ -16,7 +16,7 @@ type = "page"
 
 WAYS - With All Your Senses
 
-Gospel-Soul-Pop-Chor
+Gospel-Soul-Pop-Choir
 
 Marion Kloß
 
