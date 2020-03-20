@@ -110,7 +110,7 @@ longitude = "13.297099600000024"
 time_format = "15:04"
 twitter = "https://twitter.com/WAYS_choir"
 [params.contact]
-address = "        <br>Pro Seniore Residenz Kurfürstendamm\n        <br>Kurfürstendamm 100\n        <br>10709 Berlin (District Wilmersdorf)\n        "
+address = "        <br>Pro Seniore Residenz Kurfürstendamm\n        <br>Kurfürstendamm 100\n        <br>10709 Berlin (Wilmersdorf)\n        "
 email = "info@ways-choir.eu"
 name = "WAYS - With All Your Senses"
 phone = "+49 178-2440085 (Marion)"
