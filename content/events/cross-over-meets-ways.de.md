@@ -25,3 +25,5 @@ Sommerkonzert mit zwei Chören:
 Weitere Informationen unter: [www.kulturkreis-hn.de](www.kulturkreis-hn.de "www.kulturkreis-hn.de")
 
 Eintritt frei, um Spenden wird gebeten
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1584739792/B0BE7746-D244-41A8-A4A7-7878CA227EC5_hbqtlw.jpg)
