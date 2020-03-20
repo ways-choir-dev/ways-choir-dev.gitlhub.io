@@ -8,9 +8,9 @@ type = "page"
 +++
 # WAYS - With All Your Senses
 
-Die einen lieben Gospel, die anderen stehen auf Soul und wieder andere sagen „Pop“. Wir bei WAYS wollen singen und Musik machen, die unter die Haut geht, die Rhythmus und Seele hat und alle Sinne anspricht. Wir mögen, dass die Songs, mit denen wir auftreten, von wirklich wichtigen Dingen erzählen: von Mut, Hoffnung, Freiheit, Liebe und Vertrauen zum Beispiel.
+Die einen lieben Gospel, die anderen stehen auf Soul und wieder andere sagen „Pop“. Wir bei WAYS wollen singen und Musik machen, die unter die Haut geht, die Rhythmus und Seele hat und alle Sinne anspricht. Wir mögen, dass die Songs, mit denen wir auftreten, von wirklich wichtigen Dingen erzählen, wie von Mut, Hoffnung, Freiheit, Liebe und Vertrauen.
 
-WAYS probt und probiert, wächst und wandelt sich seit 2014. Angefangen haben wir als kleine Gruppe „crazy“ Sangeslustiger mit und ohne Notenkenntnisse. Inzwischen sind wir rund 30 Leutchen, die Spaß an gutem Sound haben, die wollen, dass die Songs beim Publikum zünden, und dafür voller Freude miteinander üben. Zweimal pro Jahr treffen wir uns für ein ganzes Chor-Wochenende voller Musik.
+WAYS probt und probiert, wächst und wandelt sich seit 2014. Angefangen haben wir als kleine Gruppe „crazy“ Sangeslustiger mit und ohne Notenkenntnissen. Inzwischen sind wir rund 30 Leutchen, die Spaß an gutem Sound haben, die wollen, dass die Songs beim Publikum zünden, und dafür voller Freude miteinander üben. Zweimal pro Jahr treffen wir uns für ein ganzes Chor-Wochenende voller Musik.
 
 Wir treten gerne auf, entweder in abendfüllenden Konzerten alleine oder zusammen mit einem anderen Chor unter dem Motto: „WAYS meets…“. Dazu kommen noch kleinere Auftritte bei Festivals oder auch mal ein Wettbewerb.
 
