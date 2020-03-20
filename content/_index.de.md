@@ -20,7 +20,7 @@ Mit all deinen Sinnen...
 
 Liebe Freundinnen und Freunde,
 
-wegen der Corona-Krise pausiert auch „Ways“ bis auf Weiteres mit den gemeinsamen Proben in der Bibliothek „unseres“ Seniorenheims am Kurfürstendamm. Die Gesundheit unserer Gastgeberinnen und Gastgeber ist natürlich wichtiger!
+wegen der Corona-Krise pausiert auch „WAYS“ bis auf Weiteres mit den gemeinsamen Proben in der Bibliothek „unseres“ Seniorenheims am Kurfürstendamm. Die Gesundheit unserer Gastgeberinnen und Gastgeber ist natürlich wichtiger!
 
 Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, dass wir die angekündigten Konzerte singen können.
 
