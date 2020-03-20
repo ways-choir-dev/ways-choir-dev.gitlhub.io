@@ -2,7 +2,7 @@ baseurl = "https://www.ways-choir.eu/"
 defaultContentLanguage = "de"
 languageCode = "de-de"
 theme = "twenty"
-title = "WAYS - WithAllYourSenses"
+title = "WAYS - With All Your Senses"
 [languages.de]
 languageName = "Deutsch"
 weight = 1
