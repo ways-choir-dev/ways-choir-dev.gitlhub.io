@@ -1,14 +1,15 @@
 +++
 banner = "/v1578226741/Chor-Siegerbild2.jpg"
-summary = "Konzert zum Internationalen Chorwettbewerb SingBerlin 2018"
 categories = ["concerts"]
-type = "event"
 date = "2018-10-24T18:34:22+02:00"
+layout = ""
 listimg = "/v1578226742/SingBerlin-Pokal.jpg"
-publish_date = ""
-tags = []
-title = "sing-berlin-2018"
 page_title = "Sing Berlin Internationaler Chorwettbewerb 2018"
+publish_date = ""
+summary = "Konzert zum Internationalen Chorwettbewerb SingBerlin 2018"
+tags = []
+title = "20180706-sing-berlin-2018"
+type = "event"
 [event]
 date = "2018-07-06T20:00:00+02:00"
 [event.location]
