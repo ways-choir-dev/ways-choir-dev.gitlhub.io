@@ -12,9 +12,12 @@ type = "page"
 +++
 # Contact us!
 
-* Would you like give feedback – praise, critique, or wishes? Then we’d like to hear from you.
-* Do you want to know more about us? We are happy to answer your questions about repertoire, concerts, rehearsals, practice material, costs, size of the choir, free places, etc.
-* You always knew that singing is healthy and a benefit for body and soul? We look forward to committed singers! However, please understand that maybe no new choir members might get accepted in your voice position at the moment. Contact us and coordinate a trial rehearsal with us!
-* You want us to perform at your event and touch you and your guests with all your senses?
+Would you like give feedback – praise, critique, or wishes? Then we’d like to hear from you.
+
+Do you want to know more about us? We are happy to answer your questions about repertoire, concerts, rehearsals, practice material, costs, size of the choir, free places, etc.
+
+You always knew that singing is healthy and a benefit for body and soul? We look forward to committed singers! However, please understand that maybe no new choir members might get accepted in your voice position at the moment. Contact us and coordinate a trial rehearsal with us!
+
+You want us to perform at your event and touch you and your guests with all your senses?
 
 We look forward to your message!
