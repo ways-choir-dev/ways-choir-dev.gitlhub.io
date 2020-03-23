@@ -7,7 +7,7 @@ page_title = "WAYS meets inspired!"
 publish_date = 2019-10-23T22:00:00Z
 summary = "Gemeinschaftskonzert mit Groove-Faktor"
 tags = []
-title = "ways-meets-inspired"
+title = "20191130-ways-meets-inspired"
 type = "event"
 [event]
 date = "2019-11-30T19:00:00+01:00"
