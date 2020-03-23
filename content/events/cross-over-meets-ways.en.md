@@ -8,7 +8,7 @@ page_title = "CROSS OVER meets WAYS"
 publish_date = 2018-06-17T22:00:00Z
 summary = "Gemeinschaftskonzert der beiden Gospel-Chöre"
 tags = []
-title = "cross-over-meets-ways"
+title = "20180624-cross-over-meets-ways"
 type = "event"
 [event]
 date = "2018-06-24T16:00:00+02:00"
