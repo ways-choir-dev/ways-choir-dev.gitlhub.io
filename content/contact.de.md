@@ -10,7 +10,7 @@ title = "Kontakt"
 type = "page"
 
 +++
-# Schreib uns!!
+# Schreib uns!
 
 * Möchtest du Feedback, Kritik oder Wünsche loswerden? Wir sind dankbar für jede Anregung!
 * Du willst mehr über uns wissen? Wir beantworten dir sehr gerne deine Fragen über Repertoire, Konzerte, Probenablauf, Übungsmaterial, Kosten, Größe des Chores, freie Plätze usw.
