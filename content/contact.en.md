@@ -10,14 +10,11 @@ title = "Contact"
 type = "page"
 
 +++
-# Write us a Message!!
+# Contact us!
 
-Are you interested in knowing what happens when WAYS choir meet?
+* Would you like give feedback – praise, critique, or wishes? Then we’d like to hear from you.
+* Do you want to know more about us? We are happy to answer your questions about repertoire, concerts, rehearsals, practice material, costs, size of the choir, free places, etc.
+* You always knew that singing is healthy and a benefit for body and soul? We look forward to committed singers! However, please understand that maybe no new choir members might get accepted in your voice position at the moment. Contact us and coordinate a trial rehearsal with us!
+* You want us to perform at your event and touch you and your guests with all your senses?
 
-Would you like to come to our next concert?
-
-Do you maybe have wishes or suggestions for what we could do differently at our next performance or would you just like to tell us what you liked about a past one?
-
-Maybe you are a dedicated singer and would like to bring gospel, soul and pop music onto the stage full of energy and precision together with us, supported by an amazing musician and choir director named Gunars Kalnins?
-
-We look forward to your message:
+We look forward to your message!
