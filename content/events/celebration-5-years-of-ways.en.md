@@ -8,7 +8,7 @@ page_title = "Celebration 5 Years of WAYS"
 publish_date = ""
 summary = "5th Aniversary Concert of WAYS"
 tags = []
-title = "celebration-5-years-of-ways"
+title = "20190223-celebration-5-years-of-ways"
 type = "event"
 [event]
 date = "2019-02-23T19:00:00+01:00"
