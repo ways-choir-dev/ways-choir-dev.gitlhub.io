@@ -21,5 +21,5 @@ We are happy to answer your questions about repertoire, concerts, rehearsals, pr
 You always knew that singing is healthy and a benefit for body and soul?  
 We’re always on the lookout for dedicated singers. However, please understand that maybe no new choir members might get accepted in your voice position at the moment. Contact us and coordinate a trial rehearsal with us.
 
-You want us to perform at your event and touch you and your guests with all your senses?  
+You want us to perform at your event and touch you and your guests – with all your senses?  
 We’ll gladly discuss possiblities and terms with you. We look forward to your message.
