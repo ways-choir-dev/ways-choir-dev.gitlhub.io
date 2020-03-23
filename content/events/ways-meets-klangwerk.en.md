@@ -8,7 +8,7 @@ page_title = "WAYS meets Klangwerk"
 publish_date = 2018-03-31T22:00:00Z
 summary = "Gemeinschaftskonzert mit dem Berliner Chor Klangwerk 306"
 tags = []
-title = "ways-meets-klangwerk"
+title = "20180602-ways-meets-klangwerk"
 type = "event"
 [event]
 date = "2018-06-02T20:00:00+02:00"
