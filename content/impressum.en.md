@@ -20,7 +20,7 @@ Gospel-Soul-Pop-Choir
 
 Marion Kloß
 
-Fichtestraße, 3
+Fichtestraße 3
 
 16341 Panketal
 
