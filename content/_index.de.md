@@ -22,10 +22,12 @@ Liebe Freundinnen und Freunde,
 
 wegen der Corona-Krise pausiert auch WAYS bis auf Weiteres mit den gemeinsamen Proben in der Bibliothek „unseres“ Seniorenheims am Kurfürstendamm. Die Gesundheit unserer Gastgeberinnen und Gastgeber ist natürlich wichtiger!
 
-Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, dass wir die angekündigten Konzerte singen können.
+Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, dass wir die angekündigten Konzerte singen können. In der Zwischenzeit proben wir weiter unter Einsatz von Video-Meetings, damit wir bald wieder live für euch da sein können - mit neuen Songs.
 
 Bis dahin: Bleibt gesund, haltet Abstand, achtet aufeinander und vergesst das Singen nicht.
 
 With All Your Senses!
 
 Eure WAYSies!
+
+![many single singers rehearsing from home via video meeting software](https://res.cloudinary.com/ways-choir/image/upload/v1587326826/91072E60-4C13-4A22-B783-9826969C8E2C_mftwwj.jpg "Video-Meetings")
