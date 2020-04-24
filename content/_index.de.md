@@ -22,7 +22,9 @@ Liebe Freundinnen und Freunde,
 
 wegen der Corona-Krise pausiert auch WAYS bis auf Weiteres mit den gemeinsamen Proben in der Bibliothek „unseres“ Seniorenheims am Kurfürstendamm. Die Gesundheit unserer Gastgeberinnen und Gastgeber ist natürlich wichtiger!
 
-Wir melden uns, wenn wir wissen, wann und wo es weitergeht. Noch hoffen wir, dass wir die angekündigten Konzerte singen können. In der Zwischenzeit proben wir weiter unter Einsatz von Video-Meetings, damit wir bald wieder live für euch da sein können - mit neuen Songs.
+Wir melden uns, wenn wir wissen, wann und wo es weitergeht. 
+
+In der Zwischenzeit proben wir weiter unter Einsatz von Video-Meetings, damit wir bald wieder live für euch da sein können - mit neuen Songs.
 
 Bis dahin: Bleibt gesund, haltet Abstand, achtet aufeinander und vergesst das Singen nicht.
 
