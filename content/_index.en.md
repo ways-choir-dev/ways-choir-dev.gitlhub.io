@@ -23,7 +23,9 @@ Dear friends,
 
 because of the COVID-19 crisis, WAYS is also pausing until further notice with the rehearsals in the library of "our" retirement home on Kurfürstendamm. The health of our hosts of course is more important!
 
-We will let you know when and where we will meet again, as soon as we know ourselves. We still hope that we will perform the announced concerts. In the meantime, we continue rehearsing using video meetings so that we can be there for you again soon - with new songs.
+We will let you know when and where we will meet again, as soon as we know ourselves. 
+
+In the meantime, we continue rehearsing using video meetings so that we can be there for you again soon - with new songs.
 
 Until then: you all stay healthy, keep some distance, watch each other and don't forget to sing.
 
