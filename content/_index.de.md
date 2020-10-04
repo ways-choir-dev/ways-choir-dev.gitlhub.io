@@ -18,16 +18,16 @@ Mit all deinen Sinnen...
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
 
-### Neuigkeiten
+## Neuigkeiten
 
-##### Oktober 2020
+### Oktober 2020
 
-WAYS läßt sich auch in Corona-Zeiten nicht unterkriegen: wir proben zeitweise wieder mit Chorleiter in voller Besetzung an verschiedenen Orten draussen (volle 3 Stunden) oder drinnen (2 mal 30 Minuten mit Lüftungspause). Und sonntags in kleiner Runde im Park, bei Regen unterm Baum oder im Parkhaus. Hauptsache: der Sound stimmt und wir haben Spaß!  
-Wenn Du Lust hast bei uns mitzumachen: melde Dich einfach telefonisch unter +49 178 2440085 oder über das Kontaktformular.
+WAYS läßt sich auch in Corona-Zeiten nicht unterkriegen: wir proben zeitweise wieder mit Chorleiter in voller Besetzung an verschiedenen Orten draußen (volle 3 Stunden) oder drinnen (2 mal 30 Minuten mit Lüftungspause). Und sonntags in kleiner Runde im Park, bei Regen unterm Baum oder im Parkhaus. Hauptsache der Sound stimmt und wir haben Spaß!  
+Wenn du Lust hast bei uns mitzumachen: melde dich einfach telefonisch unter +49 178 2440085 oder über das Kontaktformular.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1601821704/38ED5EDE-0A52-472C-9A24-22CCF8C4F371_gkznwx.jpg)
 
-##### Mai 2020
+### Mai 2020
 
 Liebe Freundinnen und Freunde,
 
