@@ -20,9 +20,22 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Dezember 2020
+
+Auch im „Winter-Lockdown“ singt WAYS natürlich weiter. Sogar ohne Maske. Zoom macht es möglich, dass wir uns montags mit Gunars zusammenschalten. In drei Stimmgruppen üben wir fleißig an NEUEN Songs. Zwar singt natürlich jeder und jede zuhause für sich allein, und wir können uns untereinander nicht hören, aber wir sehen und hören Gunars am Klavier, können Fragen stellen, und schauen in die vertrauten Gesichter der anderen WAYSies. 
+
+Wir sind schon sehr gespannt, wie es klingen wird, wenn wir dieses Patchwork bei „echten“ Proben zusammensetzen. Bestimmt gibt’s dann noch viel zu tun. Ihr wisst ja, wie detailverliebt wir sind. Und irgendwann, irgendwo stellen wir euch dann unser neues Programm im satten WAYS-Sound vor. Wir vermissen unsere Konzerte und euch!
+
+Das Vorfreuen beginnt jetzt!
+
+Wenn du Lust hast, bei uns mitzumachen: melde dich einfach telefonisch unter +49 178 2440085 oder über das Kontaktformular.
+
+Eure WAYSies
+
 ### Oktober 2020
 
-WAYS läßt sich auch in Corona-Zeiten nicht unterkriegen: wir proben zeitweise wieder mit Chorleiter in voller Besetzung an verschiedenen Orten draußen (volle 3 Stunden) oder drinnen (2 mal 30 Minuten mit Lüftungspause). Und sonntags in kleiner Runde im Park, bei Regen unterm Baum oder im Parkhaus. Hauptsache der Sound stimmt und wir haben Spaß!  
+WAYS läßt sich auch in Corona-Zeiten nicht unterkriegen: wir proben zeitweise wieder mit Chorleiter in voller Besetzung an verschiedenen Orten draußen (volle 3 Stunden) oder drinnen (2 mal 30 Minuten mit Lüftungspause). Und sonntags in kleiner Runde im Park, bei Regen unterm Baum oder im Parkhaus. Hauptsache der Sound stimmt und wir haben Spaß!
+
 Wenn du Lust hast bei uns mitzumachen: melde dich einfach telefonisch unter +49 178 2440085 oder über das Kontaktformular.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1601821704/38ED5EDE-0A52-472C-9A24-22CCF8C4F371_gkznwx.jpg)
