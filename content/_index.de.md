@@ -22,11 +22,11 @@ Mit all deinen Sinnen...
 
 ### Dezember 2020
 
-Auch im „Winter-Lockdown“ singt WAYS natürlich weiter. Sogar ohne Maske. Zoom macht es möglich, dass wir uns montags mit Gunars zusammenschalten. In drei Stimmgruppen üben wir fleißig an NEUEN Songs. Zwar singt natürlich jeder und jede zuhause für sich allein, und wir können uns untereinander nicht hören, aber wir sehen und hören Gunars am Klavier, können Fragen stellen, und schauen in die vertrauten Gesichter der anderen WAYSies. 
+Auch im Winter-Lockdown singt WAYS natürlich weiter. Sogar ohne Maske. Zoom macht es möglich, dass wir uns montags mit Gunars zusammenschalten. In drei Stimmgruppen üben wir fleißig an NEUEN Songs. Zwar singt natürlich jeder und jede zuhause für sich allein, und wir können uns untereinander nicht hören, aber wir sehen und hören Gunars am Klavier, können Fragen stellen, und schauen in die vertrauten Gesichter der anderen WAYSies.
 
 Wir sind schon sehr gespannt, wie es klingen wird, wenn wir dieses Patchwork bei „echten“ Proben zusammensetzen. Bestimmt gibt’s dann noch viel zu tun. Ihr wisst ja, wie detailverliebt wir sind. Und irgendwann, irgendwo stellen wir euch dann unser neues Programm im satten WAYS-Sound vor. Wir vermissen unsere Konzerte und euch!
 
-Das Vorfreuen beginnt jetzt!
+Die Vorfreude beginnt jetzt!
 
 Wenn du Lust hast, bei uns mitzumachen: melde dich einfach telefonisch unter +49 178 2440085 oder über das Kontaktformular.
 
