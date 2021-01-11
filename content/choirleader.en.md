@@ -30,4 +30,4 @@ Cor Vivace (Barcelona, piano accompaniment)
 
 (c) Foto by Juris Kalnins
 
-http://www.gunarskalnins.com
+[http://www.gunarskalnins.com](http://www.gunarskalnins.com "http://www.gunarskalnins.com")

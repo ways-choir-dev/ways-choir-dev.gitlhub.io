@@ -8,9 +8,9 @@ type = "page"
 +++
 # WAYS - With All Your Senses
 
-Die einen lieben Gospel, die anderen stehen auf Soul und wieder andere sagen „Pop“. Wir bei WAYS wollen singen und Musik machen, die unter die Haut geht, die Rhythmus und Seele hat und alle Sinne anspricht. Wir mögen, dass die Songs, mit denen wir auftreten, von wirklich wichtigen Dingen erzählen: von Mut, Hoffnung, Freiheit, Liebe und Vertrauen zum Beispiel.
+Die einen lieben Gospel, die anderen stehen auf Soul und wieder andere sagen „Pop“. Wir bei WAYS wollen singen und Musik machen, die unter die Haut geht, die Rhythmus und Seele hat und alle Sinne anspricht. Wir mögen, dass die Songs, mit denen wir auftreten, von wirklich wichtigen Dingen erzählen, wie von Mut, Hoffnung, Freiheit, Liebe und Vertrauen.
 
-WAYS probt und probiert, wächst und wandelt sich seit 2014. Angefangen haben wir als kleine Gruppe „crazy“ Sangeslustiger mit und ohne Notenkenntnisse. Inzwischen sind wir rund 30 Leutchen, die Spaß an gutem Sound haben, die wollen, dass die Songs beim Publikum zünden, und dafür voller Freude miteinander üben. Zweimal pro Jahr treffen wir uns für ein ganzes Chor-Wochenende voller Musik.
+WAYS probt und probiert, wächst und wandelt sich seit 2014. Angefangen haben wir als kleine Gruppe „crazy“ Sangeslustiger mit und ohne Notenkenntnissen. Inzwischen sind wir rund 30 Leutchen, die Spaß an gutem Sound haben, die wollen, dass die Songs beim Publikum zünden, und dafür voller Freude miteinander üben. Zweimal pro Jahr treffen wir uns für ein ganzes Chor-Wochenende voller Musik.
 
 Wir treten gerne auf, entweder in abendfüllenden Konzerten alleine oder zusammen mit einem anderen Chor unter dem Motto: „WAYS meets…“. Dazu kommen noch kleinere Auftritte bei Festivals oder auch mal ein Wettbewerb.
 
@@ -20,6 +20,6 @@ Ohne unseren künstlerischen Leiter Gunars Kalnins wäre all das nicht denkbar. 
 
 Noch was: Gunars spricht Englisch mit uns. Unsere Chorsprache ist dementsprechend Denglisch – also Deutsch und Englisch, gerne kombiniert: „Every day is „Zwerchfell-day“.
 
-Die WAYSies kommen aus ganz Berlin und Umgebung. Unser Probenraum ist die Bibliothek des Seniorenzentrum Pro Seniore in Charlottenburg. Da treffen wir uns jeden Montag von 18:45-21:45 Uhr.
+Die WAYSies kommen aus ganz Berlin und Umgebung. Unser Probenraum ist die Bibliothek des Seniorenzentrums Pro Seniore in Charlottenburg. Da treffen wir uns jeden Montag von 18:45-21:45 Uhr.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1582401355/20190223_posing_axgcj5.jpg)

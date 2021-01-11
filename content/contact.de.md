@@ -10,14 +10,14 @@ title = "Kontakt"
 type = "page"
 
 +++
-# Schreib uns!!
+# Schreib uns!
 
-Dich interessiert was der WAYS Chor so macht?
+Möchtest du Feedback, Kritik oder Wünsche loswerden? Wir sind dankbar für jede Anregung!
 
-Du willst zu unserem nächsten Konzert kommen?
+Du willst mehr über uns wissen? Wir beantworten dir sehr gerne deine Fragen über Repertoire, Konzerte, Probenablauf, Übungsmaterial, Kosten, Größe des Chores, freie Plätze usw.
 
-Du hast Wünsche, Vorschläge, was wir beim nächsten Konzert anders gestalten könnten? Oder willst uns einfach sagen, was dir gut gefallen hat?
+Du hast auch gehört oder wusstest schon immer, dass Singen gesund und eine Wohltat für Körper und Seele ist? Wir freuen uns über engagierte Mitsänger*innen! Bitte hab aber Verständnis, dass eventuell in deiner Stimmlage grade keine neuen Chormitglieder aufgenommen werden. Schreib uns und stimm einen Probenbesuch mit uns ab!
 
-Oder bist du eine leidenschaftliche Sänger\*in? Willst Gospel, Soul und Pop auf die Bühne bringen! Mit uns, voller Energie und Präzision!! Getragen von einem großartigen Musiker und Chorleiter, Gunars Kalnins !!!
+Du möchtest, dass wir auf deiner Veranstaltung auftreten und dich und deine Gäste mit allen Sinnen berühren – With All Your Senses? Wir überlegen gerne gemeinsam mit dir, was zu welchen Konditionen möglich ist.
 
-Wir freuen uns über deine Nachricht:
+Wir freuen uns über deine Nachricht!

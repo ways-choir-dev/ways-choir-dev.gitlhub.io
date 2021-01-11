@@ -7,6 +7,6 @@ title = "20161008 WAYS in Barcelona"
 type = "photoselection"
 
 +++
-2016 gab es ein Gemeinschaftsprojekt zwischen dem Chor WAYS aus Berlin und dem Chor Black i Blanc aus Barcelona.
+2016 gab es ein Gemeinschaftsprojekt zwischen dem Chor WAYS aus Berlin und dem Chor BlackiBlanc aus Barcelona.
 
-Im Juli 2016 war Black i Blanc in Berlin, und im Oktober 2016 war WAYS in Barcelona.
+Im Juli 2016 war BlackiBlanc in Berlin und im Oktober 2016 war WAYS in Barcelona.
