@@ -14,13 +14,13 @@
 
                 <!-- Content -->
                 <div class="content contact-message">
-                  <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                  <form class="contact-form" method="post" action="https://formspree.io/f/{{ .Site.Params.email }}">
                     <div class="row gtr-50">
                       <div class="col-6 col-12-mobile">
                         <input type="text" name="name" placeholder="{{ i18n "contactName" }}" id="name" required>
                       </div>
                       <div class="col-6 col-12-mobile">
-                        <input type="text" name="email" placeholder="{{ i18n "contactMail" }}" id="email" required>
+                        <input type="text" name="_replyto" placeholder="{{ i18n "contactMail" }}" id="_replyto" required>
                       </div>
                       <div class="col-12">
                         <input type="text" name="subject" placeholder="{{ i18n "subjectMail" }}" id="subject">
