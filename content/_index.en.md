@@ -21,9 +21,25 @@ With all your senses..
 
 ## News
 
+### May 2021
+
+Yay! The incidences are falling, more and more people of WAYS are vaccinated, too, and the regulations for choir singing in Berlin are loosening. Will the Zoom times end soon? Even when "tea time digital" is fun and much better than not seeing each other at all ...
+
+However, we long to sing "for real" again and put together the new songs we learned during the Zoom voice group rehearsals.
+
+Some of us took up their Sunday rehearsals in the park, as before (well distanced!).
+
+We hope we can sing for you again soon!
+
+If you would like to join us: simply call us on +49 178 2440085 or use the contact form.
+
+Your WAYSies
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1622640928/59650399-7D49-4B8F-A267-24C795EABF35.jpg)
+
 ### December 2020
 
-Yes, of course WAYS continues to sing all through the winter lockdown. And we don’t even wear masks – Zoom has made it possible for us to meet with Gunars each Monday and practice new songs diligently in three different voice groups. True, everyone is singing by themselves at home and we can’t hear each other, but we can see and hear Gunars at his piano, ask any questions we might have, and gaze into the dearly missed faces of fellow WAYSies. 
+Yes, of course WAYS continues to sing all through the winter lockdown. And we don’t even wear masks – Zoom has made it possible for us to meet with Gunars each Monday and practice new songs diligently in three different voice groups. True, everyone is singing by themselves at home and we can’t hear each other, but we can see and hear Gunars at his piano, ask any questions we might have, and gaze into the dearly missed faces of fellow WAYSies.
 
 Though, we are all very eager to hear how the new songs will sound when the patchwork someday comes together in “real-life” rehearsals. Surely, there will still be a lot to work on, you all know how we love all the details. We can’t wait to introduce you to our new repertoire delivered in rich WAYS sound, somewhere “on the other side”. We so miss our concerts and you!
 
