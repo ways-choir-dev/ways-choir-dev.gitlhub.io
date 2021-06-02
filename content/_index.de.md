@@ -20,6 +20,22 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Mai 2021
+
+Juhu! Die Inzidenzen sinken, auch bei WAYS sind immer mehr Menschen geimpft, und in Berlin lockern sich die Bestimmungen für's Chorsingen. Ob die Zoom-Zeiten bald ein Ende finden? Auch wenn "Tea-Time digital" lustig ist und natürlich viel besser, als sich gar nicht zu sehen ...
+
+Wie auch immer, wir sehnen uns danach, wieder "in echt" miteinander zu singen und die neuen Songs zusammenzusetzen, die wir während der Zoom-Stimmproben gelernt haben. 
+
+Die ersten von uns haben wieder mit Sonntagsproben im Park (mit Abstand!) angefangen.
+
+Hoffentlich können wir bald wieder für euch singen!
+
+Wenn du Lust hast, bei uns mitzumachen: melde dich einfach telefonisch unter +49 178 2440085 oder über das Kontaktformular.
+
+Eure WAYSies
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1622640928/59650399-7D49-4B8F-A267-24C795EABF35.jpg)
+
 ### Dezember 2020
 
 Auch im Winter-Lockdown singt WAYS natürlich weiter. Sogar ohne Maske. Zoom macht es möglich, dass wir uns montags mit Gunars zusammenschalten. In drei Stimmgruppen üben wir fleißig an NEUEN Songs. Zwar singt natürlich jeder und jede zuhause für sich allein, und wir können uns untereinander nicht hören, aber wir sehen und hören Gunars am Klavier, können Fragen stellen, und schauen in die vertrauten Gesichter der anderen WAYSies.
