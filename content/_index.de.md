@@ -20,11 +20,19 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Oktober 2021
+
+WAYS probt wieder analog
+
+Gute Neuigkeiten: Wir haben einen neuen, riesengroßen Probenraum mit S-Bahnanschluss in Lichterfelde-Süd. UND: Wir singen wieder in 3D, Farbe, mit echtem Sound und mit Gunars! Yeah! Es tut so gut, sich wieder als Chor zu erleben! Endlich! Freut euch auf Konzerte in 2022!
+
+Um fast wie früher Singen zu können, haben wir uns auf 2G und „mit Maske“ verständigt. Deswegen können leider noch nicht alle WAYSies wieder mitmachen! (Wir vermissen euch!) Aber ein Anfang ist gemacht. Es kann nur besser werden!
+
 ### Mai 2021
 
 Juhu! Die Inzidenzen sinken, auch bei WAYS sind immer mehr Menschen geimpft, und in Berlin lockern sich die Bestimmungen für's Chorsingen. Ob die Zoom-Zeiten bald ein Ende finden? Auch wenn "Tea-Time digital" lustig ist und natürlich viel besser, als sich gar nicht zu sehen ...
 
-Wie auch immer, wir sehnen uns danach, wieder "in echt" miteinander zu singen und die neuen Songs zusammenzusetzen, die wir während der Zoom-Stimmproben gelernt haben. 
+Wie auch immer, wir sehnen uns danach, wieder "in echt" miteinander zu singen und die neuen Songs zusammenzusetzen, die wir während der Zoom-Stimmproben gelernt haben.
 
 Die ersten von uns haben wieder mit Sonntagsproben im Park (mit Abstand!) angefangen.
 
