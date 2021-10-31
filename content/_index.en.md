@@ -21,6 +21,14 @@ With all your senses..
 
 ## News
 
+### October 2021
+
+WAYS rehearse analog again
+
+Good news: We found a new, huge rehearsal room with a close connection to S-Bahn in Lichterfelde-Süd. AND: We're singing again in 3D, color, with real sound, and with Gunars. Yeah! It's so good to meet as a choir again. Finally! You can look forward to concerts in 2022.
+
+For safety reasons we have agreed on 2G and masks. Therefore, unfortunately not all WAYSies can take part again. (We miss you!) But it's a start. And it will get better!
+
 ### May 2021
 
 Yay! The incidences are falling, more and more people of WAYS are vaccinated, too, and the regulations for choir singing in Berlin are loosening. Will the Zoom times end soon? Even when "tea time digital" is fun and much better than not seeing each other at all ...
