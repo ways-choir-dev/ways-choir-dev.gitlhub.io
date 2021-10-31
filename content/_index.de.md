@@ -24,7 +24,7 @@ Mit all deinen Sinnen...
 
 WAYS probt wieder analog
 
-Gute Neuigkeiten: Wir haben einen neuen, riesengroßen Probenraum mit S-Bahnanschluss in Lichterfelde-Süd. UND: Wir singen wieder in 3D, Farbe, mit echtem Sound und mit Gunars! Yeah! Es tut so gut, sich wieder als Chor zu erleben. Endlich! Freut euch auf Konzerte in 2022!
+Gute Neuigkeiten: Wir haben einen neuen, riesengroßen Probenraum mit S-Bahnanschluss in Lichterfelde-Süd. UND: Wir singen wieder in 3D, Farbe, mit echtem Sound und mit Gunars. Yeah! Es tut so gut, sich wieder als Chor zu erleben. Endlich! Freut euch auf Konzerte in 2022.
 
 Um fast wie früher singen zu können, haben wir uns auf 2G und „mit Maske“ verständigt. Deswegen können leider noch nicht alle WAYSies wieder mitmachen. (Wir vermissen euch!) Aber ein Anfang ist gemacht. Es kann nur besser werden!
 
