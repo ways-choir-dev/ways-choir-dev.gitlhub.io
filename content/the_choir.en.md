@@ -20,6 +20,6 @@ All this would not even be imaginable without our very artistic director Gunars 
 
 Gunars speaks English with us, thus the rehearsal language is a sort of Denglisch – in other words German and English, often in combination – a famous saying of Gunars’: „Every day is Zwerchfell-day“ (“Every day is diaphragm day”).
 
-The WAYSies come from all over Berlin and the surrounding area. Our rehearsal space is the library of the senior home Seniorenzentrum Pro Seniore in Charlottenburg. Here we meet every Monday at 6:45 – 9:45 p.m.
+The WAYSies come from all over Berlin and the surrounding area. Our rehearsal room is in the family center "Bus-Stop e.V." in Berlin-Lichterfelde. Here we meet every Monday at 7:00 – 10:00 p.m.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
