@@ -23,7 +23,7 @@ With all your senses..
 
 ### November 2021
 
-A few days ago we had a WAYS choir weekend in Bad Saarow. With our individual hygiene concept, of course. The last time we were at Scharmützelsee together was in 2019 - and Corona was still a beer ... It's still so beautiful there. The youth hostel is our home base. From Friday 6pm to Sunday 1pm that actually resulted in almost 15 hours of singing together. Thanks to vocal training and liters of ginger tea, nobody lost their voice. And then we still had to talk and dance and scrap secret santa and eat up all the goodies we had brought with us. And all this in beautiful golden October, a dream!
+A few days ago we had a WAYS choir weekend in Bad Saarow. With our individual hygiene concept, of course. The last time we were at Scharmützelsee together was in 2019 - and Corona was still a beer ... It's still so beautiful here. The youth hostel is our home base. Friday 6pm to Sunday 1pm actually resulted in almost 15 hours of singing together. Thanks to vocal training and liters of ginger tea, nobody lost their voice. After rehearsal we still had to talk and dance and scrap-secret-santa and eat up all the goodies we had brought with us. And all this in beautiful golden October, a dream!
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1636211805/211031_BadSaarow_Webseite.jpg)
 
