@@ -1,4 +1,5 @@
 +++
+draft = true
 page_sub_title = "with all your senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
 page_title = "WAYS"
 sidebar_content = "![](https://res.cloudinary.com/ways-choir/image/upload/v1583475753/E2301961-1BA9-44E6-87D1-82E97FBAE8B6_bo6fj3.jpg)\n\n![](https://res.cloudinary.com/ways-choir/image/upload/v1578645829/SingBerlinLogo.png)\nWAYS @ Sing Berlin! 2018\nGewinner in der Kathegorie „Modern – Jazz/Pop/Gospel”"
@@ -19,6 +20,12 @@ Mit all deinen Sinnen...
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
 
 ## Neuigkeiten
+
+### November 2021
+
+Vor wenigen Tagen war WAYS-Chorwochenende in Bad Saarow. Klar, mit Hygienekonzept etc. Das letzte Mal waren wir 2019 miteinander am Scharmützelsee - da war Corona noch ein Bier … Es ist immer noch so schön dort. Die Jugendherberge dort ist unser Stammquartier. Von Freitag 18 Uhr bis Sonntag 13 Uhr waren wir zusammen - das ergab tatsächlich fast 15 Stunden gemeinsames Singen. Dank Stimmbildung und literweise Ingwertee hat trotzdem niemand die Stimme verloren. Und dann mussten wir noch erzählen und tanzen und schrottwichteln und all die Leckereien aufessen, die wir mitgebracht hatten. Und dieser goldene Oktober, ein Traum!
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1636211805/211031_BadSaarow_Webseite.jpg)
 
 ### Oktober 2021
 
