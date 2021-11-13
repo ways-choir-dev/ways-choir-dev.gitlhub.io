@@ -131,3 +131,9 @@ listImageDefaultFile = "/images/ways-plakat-default.png"
 listImageDownloadSize = "w_240"
 logoImageDownloadSize = "w_1000"
 thumbDownloadSize = "w_300,h_200,c_fill"
+[params.SEO.de]
+description = "WAYS - With All Your Senses - Gospel-Soul-Pop-Chor aus Berlin unter der Leitung von Gunars Kalnins"
+keywords = "WAYS, gospel, soul, pop, chor, berlin, gunars, kalnins"
+[params.SEO.en]
+description = "WAYS - With All Your Senses - Gospel-Soul-Pop-Choir from Berlin led by Gunars Kalnins"
+keywords = "WAYS, gospel, soul, pop, choir, berlin, gunars, kalnins"

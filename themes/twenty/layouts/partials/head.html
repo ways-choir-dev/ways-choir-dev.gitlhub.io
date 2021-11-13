@@ -2,6 +2,11 @@
     <title>{{.Site.Title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    {{ if isset $.Site.Params.SEO .Site.Language.Lang }}
+    {{ $lang_SEO := index $.Site.Params.SEO .Site.Language.Lang }}
+    <meta name="description" content="{{$lang_SEO.description}}" />
+    <meta name="keywords" content="{{$lang_SEO.keywords}}">
+    {{ end }}
 
     <link href='{{ "css/main.css" | absURL }}' rel='stylesheet' type="text/css" />
 
