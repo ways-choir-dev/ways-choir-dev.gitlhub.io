@@ -1,12 +1,21 @@
 {{ if isset .Site.Params "latitude" }}
     {{ if isset .Site.Params "longitude" }}
 
+    {{ $link := printf "https://www.openstreetmap.org/?mlat=%s&amp;mlon=%s#map=19/%s/%s" .Site.Params.latitude.marker .Site.Params.longitude.marker .Site.Params.latitude.marker .Site.Params.longitude.marker  }}
+
+    {{ $box1 := .Site.Params.longitude.box_min  }}
+    {{ $box2 := .Site.Params.latitude.box_min  }}
+    {{ $box3 := .Site.Params.longitude.box_max  }}
+    {{ $box4 := .Site.Params.latitude.box_max  }}
+
+{{ $iframe_link := printf "https://www.openstreetmap.org/export/embed.html?bbox=%s%%2C%s%%2C%s%%2C%s&amp;layer=mapnik&amp;marker=%s%%2C%s" $box1 $box2 $box3 $box4 .Site.Params.latitude.marker .Site.Params.longitude.marker  }}
+
 <div id="open-streetmap-link">
-  <small><a href="https://www.openstreetmap.org/?mlat=52.49827&amp;mlon=13.29648#map=19/52.49827/13.29648">
+    <small><a href="{{ $link }}">
     {{ i18n "biggerMap" }}</a></small>
 </div>
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-        src="https://www.openstreetmap.org/export/embed.html?bbox=13.2807%2C52.4956%2C13.3217%2C52.5044&amp;layer=mapnik&amp;marker=52.49827%2C13.29648"
+        src="{{ $iframe_link }}"
         style="border: 1px solid black">
 </iframe>
 
