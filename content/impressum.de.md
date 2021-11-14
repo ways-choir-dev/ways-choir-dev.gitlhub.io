@@ -5,7 +5,7 @@ forestry_title = "Impressum"
 page_sub_title = ""
 page_title = "Impressum"
 publish_date = ""
-tags = []
+tags = [" Chor", "Berlin", "Gospel", "Ways", "Soul", "Gospelchor", "Soulchor", "Gunars Kalnins"]
 title = "Impressum"
 type = "page"
 
