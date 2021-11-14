@@ -110,7 +110,7 @@ longitude = "13.314500"
 time_format = "15:04"
 twitter = "https://twitter.com/WAYS_choir"
 [params.contact]
-address = "        <br>Bus-Stop e.V.\n        <br>Celsiusstr. 71-73\n        <br>12207 Berlin (Lichterfelde)\n        <br>Eine Rückkehr zu unserem vorherigen Probenort am Kudamm \n        <br>ist nach der Pandemie geplant, ein Termin noch nicht absehbar.\n        "
+address = "        <br>Bus-Stop e.V.\n        <br>Celsiusstr. 71-73\n        <br>12207 Berlin (Lichterfelde)\n        <br>\n        <br>Eine Rückkehr zu unserem \n        <br>vorherigen Probenort am Kudamm \n        <br>ist nach der Pandemie geplant, \n        <br>ein Termin noch nicht absehbar.\n        "
 email = "info@ways-choir.eu"
 name = "WAYS - With All Your Senses"
 phone = "+49 178-2440085 (Marion)"
