@@ -8,7 +8,7 @@ welcome_img = "/v1577994225/ways_filter_IC.jpg"
 +++
 # WAYS - With All Your Senses
 
-Manche nennen es Gospel, andere nennen es Soul, Rhythm&Blues oder auch Popmusik.
+Manche nennen es **Gospel**, andere nennen es **Soul**, **Rhythm&Blues** oder auch **Popmusik**.
 
 Wir wollen viele Wege in der Musik gehen.
 
