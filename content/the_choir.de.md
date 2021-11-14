@@ -20,6 +20,6 @@ Ohne unseren künstlerischen Leiter Gunars Kalnins wäre all das nicht denkbar. 
 
 Noch was: Gunars spricht Englisch mit uns. Unsere Chorsprache ist dementsprechend Denglisch – also Deutsch und Englisch, gerne kombiniert: „Every day is „Zwerchfell-day“.
 
-Die WAYSies kommen aus ganz Berlin und Umgebung. Unser Probenraum ist derzeit pandemiebedingt im Familienzentrum "Bus-Stop e.V." in **Lichterfelde**. Da treffen wir uns jeden Montag von 19:00-22:00 Uhr. Eine Rückkehr zu unserem vorherigen Probenort am **Kudamm** ist nach der Pandemie geplant, ein Termin dafür aber noch nicht absehbar.
+Die WAYSies kommen aus ganz Berlin und Umgebung. Unser Probenraum ist derzeit pandemiebedingt im Familienzentrum "Bus-Stop e.V." in **Lichterfelde**. Da treffen wir uns jeden Montag von 19:00-22:00 Uhr. Eine Rückkehr zu unserem vorherigen Probenort am **Kudamm** ist nach der Pandemie geplant, ein Termin dafür ist aber leider noch nicht absehbar.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1582401355/20190223_posing_axgcj5.jpg)
