@@ -1,7 +1,7 @@
 {{ if isset .Site.Params "latitude" }}
     {{ if isset .Site.Params "longitude" }}
 
-    {{ $link := printf "https://www.openstreetmap.org/?mlat=%s&amp;mlon=%s#map=19/%s/%s" .Site.Params.latitude.marker .Site.Params.longitude.marker .Site.Params.latitude.marker .Site.Params.longitude.marker  }}
+    {{ $link := printf "https://www.openstreetmap.org/?mlat=%s&mlon=%s#map=%s/%s/%s" .Site.Params.latitude.marker .Site.Params.longitude.marker .Site.Params.mapZoomFactor  .Site.Params.latitude.marker .Site.Params.longitude.marker  }}
 
     {{ $box1 := .Site.Params.longitude.box_min  }}
     {{ $box2 := .Site.Params.latitude.box_min  }}

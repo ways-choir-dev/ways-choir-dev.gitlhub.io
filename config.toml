@@ -107,6 +107,7 @@ instagram = "https://www.instagram.com/waysgospelsoulpopchoir/"
 logo = "/v1577487364/logo_bg_white.png"
 time_format = "15:04"
 twitter = "https://twitter.com/WAYS_choir"
+mapZoomFactor = "15"
 [params.latitude]
 marker = "52.411600"
 box_min = "52.4071"
