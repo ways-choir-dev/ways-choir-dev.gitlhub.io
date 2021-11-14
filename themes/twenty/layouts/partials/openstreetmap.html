@@ -8,7 +8,7 @@
     {{ $box3 := .Site.Params.longitude.box_max  }}
     {{ $box4 := .Site.Params.latitude.box_max  }}
 
-{{ $iframe_link := printf "https://www.openstreetmap.org/export/embed.html?bbox=%s%%2C%s%%2C%s%%2C%s&amp;layer=mapnik&amp;marker=%s%%2C%s" $box1 $box2 $box3 $box4 .Site.Params.latitude.marker .Site.Params.longitude.marker  }}
+{{ $iframe_link := printf "https://www.openstreetmap.org/export/embed.html?bbox=%s%%2C%s%%2C%s%%2C%s&layer=mapnik&marker=%s%%2C%s" $box1 $box2 $box3 $box4 .Site.Params.latitude.marker .Site.Params.longitude.marker  }}
 
 <div id="open-streetmap-link">
     <small><a href="{{ $link }}">
