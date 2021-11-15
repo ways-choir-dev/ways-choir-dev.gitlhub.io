@@ -43,6 +43,13 @@ fields:
   label: Suchworte
   name: tags
   description: Suchworte nach denen dieses Konzert später gesucht werden kann
+- name: disclaimer
+  type: text
+  config:
+    required: false
+  label: Disclaimer
+  description: This disclaimer is added under the address; leave it empty to not display
+    anything in addition to the address
 pages:
 - content/contact.de.md
 - content/contact.en.md
