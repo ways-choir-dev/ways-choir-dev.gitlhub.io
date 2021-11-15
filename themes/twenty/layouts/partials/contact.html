@@ -45,15 +45,24 @@
 
       <div class="col-5 col-12-mobile col-12-narrow col-12-normal">
 
-          {{ with .Site.Params.contact }}
+          {{ if isset .Site.Params "contact" }}
             <section class="wrapper style4 special medium">
+
+              {{ with .Site.Params.contact }}
 
               {{ partial "rehersal.html" . }}
               {{ partial "address.html" . }}
 
+              {{ end }}
+
+              {{ with .Params.disclaimer }}
+                <div class="contact_displaimer">
+                    {{ . }}
+                </div>
+              {{ end }}
+
             </section>
           {{ end }}
-
         </div>
 
     </div>

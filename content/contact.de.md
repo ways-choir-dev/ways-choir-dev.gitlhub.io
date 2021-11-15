@@ -7,6 +7,7 @@ page_title = "Kontakt"
 publish_date = ""
 tags = []
 title = "Kontakt"
+disclaimer = "Eine Rückkehr zu unserem vorherigen Probenort am Kudamm ist nach der Pandemie geplant, ein Termin aber noch nicht absehbar."
 type = "page"
 
 +++

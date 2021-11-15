@@ -7,6 +7,7 @@ page_title = "Contact"
 publish_date = ""
 tags = []
 title = "Contact"
+disclaimer = "A return to our previous rehearsal location on Kudamm is planned after the pandemic, but it is not yet clear when."
 type = "page"
 
 +++
