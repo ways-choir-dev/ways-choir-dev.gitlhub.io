@@ -1,6 +1,7 @@
 +++
 banner = ""
 description = ""
+disclaimer = ""
 forestry_title = "Impressum"
 page_sub_title = ""
 page_title = "Impressum"
@@ -18,15 +19,15 @@ WAYS - With All Your Senses
 
 Gospel-Soul-Pop-Choir
 
-Marion Kloß
+Gunars Kalnins
 
-Fichtestraße 3
+Hessenring 16
 
-16341 Panketal
+12101 Berlin
 
 ## Kontakt:
 
-Telefon: +49 178-2440085
+Telefon: +49 176-31331855 (Renata)
 
 E-Mail: info@ways-choir.eu
 
