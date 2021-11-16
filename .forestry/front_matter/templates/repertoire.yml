@@ -20,18 +20,6 @@ fields:
   type: boolean
   hidden: false
   default: true
-- type: file
-  name: csvfile
-  label: CSV-Datei
-  config:
-    maxSize: '50'
-  description: 'CSV Export Datei mit dem Chor-Repertoire mit Delimiter: ";" und folgenden
-    Überschriften in der ersten Zeile: song_num, song_title, release_date'
-- name: csv-file
-  type: file
-  config:
-    maxSize: 64
-  label: CSV-Export-Datei
 pages:
 - content/repertoire.de.md
 - content/repertoire.en.md
