@@ -32,7 +32,11 @@
                 {{ .Content }}
 
             </section>
-
+            {{ if isset .Params "layout" }}
+              {{ if eq .Params.layout "repertoire_table" }}
+                TABELLE....
+              {{ end }}
+            {{ end }}
           </div>
 
         </div>
