@@ -105,22 +105,20 @@ email = "info@ways-choir.eu"
 facebook = "https://www.facebook.com/WaysGospelSoulPopChoir"
 instagram = "https://www.instagram.com/waysgospelsoulpopchoir/"
 logo = "/v1577487364/logo_bg_white.png"
+mapZoomFactor = "15"
 time_format = "15:04"
 twitter = "https://twitter.com/WAYS_choir"
-mapZoomFactor = "15"
-[params.latitude]
-marker = "52.411600"
-box_min = "52.4071"
-box_max = "52.4161"
-[params.longitude]
-marker = "13.314500"
-box_min = "13.2945"
-box_max = "13.3345"
+[params.SEO.de]
+description = "WAYS - With All Your Senses - Gospel-Soul-Pop-Chor aus Berlin unter der Leitung von Gunars Kalnins"
+keywords = "WAYS, gospel, soul, pop, chor, berlin, gunars, kalnins"
+[params.SEO.en]
+description = "WAYS - With All Your Senses - Gospel-Soul-Pop-Choir from Berlin led by Gunars Kalnins"
+keywords = "WAYS, gospel, soul, pop, choir, berlin, gunars, kalnins"
 [params.contact]
 address = "        <br>Bus-Stop e.V.\n        <br>Celsiusstr. 71-73\n        <br>12207 Berlin (Lichterfelde)\n        "
 email = "info@ways-choir.eu"
 name = "WAYS - With All Your Senses"
-phone = "+49 178-2440085 (Marion)"
+phone = "+49 176-31331855 (Renata)"
 [params.contact.rehersal]
 end = "22:00"
 start = "19:00"
@@ -132,9 +130,11 @@ listImageDefaultFile = "/images/ways-plakat-default.png"
 listImageDownloadSize = "w_240"
 logoImageDownloadSize = "w_1000"
 thumbDownloadSize = "w_300,h_200,c_fill"
-[params.SEO.de]
-description = "WAYS - With All Your Senses - Gospel-Soul-Pop-Chor aus Berlin unter der Leitung von Gunars Kalnins"
-keywords = "WAYS, gospel, soul, pop, chor, berlin, gunars, kalnins"
-[params.SEO.en]
-description = "WAYS - With All Your Senses - Gospel-Soul-Pop-Choir from Berlin led by Gunars Kalnins"
-keywords = "WAYS, gospel, soul, pop, choir, berlin, gunars, kalnins"
+[params.latitude]
+box_max = "52.4161"
+box_min = "52.4071"
+marker = "52.411600"
+[params.longitude]
+box_max = "13.3345"
+box_min = "13.2945"
+marker = "13.314500"
