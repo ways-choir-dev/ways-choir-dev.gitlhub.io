@@ -1,0 +1,38 @@
+<div class="container" id="contact">
+
+    <div class="row">
+        <div class="col-7 col-12-mobile col-12-narrow col-12-normal">
+
+            <section class="style4 special medium">
+
+                <header class="special">
+                    <span class="icon fa-music"></span>
+                    {{ .Content }}
+
+                    <div class="table-resp">
+                        <table class="styled-table">
+                            <thead>
+                            <tr>
+                                <th>{{ i18n "songNumber" }}</th>
+                                <th>{{ i18n "songTitle" }}</th>
+                                <th>{{ i18n "releaseDate" }}</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            {{ $repertoire := site.Data.repertoire }}
+                            {{ range $repertoire }}
+                            <tr>
+                                <td>{{ .song_num }}</td>
+                                <td>{{ .song_title }}</td>
+                                <td>{{ .release_date }}</td>
+                            </tr>
+                            {{ end }}
+                            </tbody>
+                        </table>
+                    </div>
+                </header>
+            </section>
+
+        </div>
+    </div>
+</div>

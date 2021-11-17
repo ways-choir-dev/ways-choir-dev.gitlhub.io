@@ -162,3 +162,10 @@
 
 [X]
     other = "Y"
+
+[songNumber]
+other = "No."
+[songTitle]
+other = "Song Title"
+[releaseDate]
+other = "Released"

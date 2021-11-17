@@ -2,8 +2,7 @@
 page_title = "WAYS - Choir Repertoire"
 title = "WAYS - Choir Repertoire"
 type = "page"
-layout = "repertoire_table"
-csvfile = ""
+id = "repertoire-table"
 draft = "false"
 +++
 # WAYS Choir Repertoire
