@@ -17,148 +17,237 @@ Musik/Text:
 Arrangement: Gunars Kalnins
 
 **How Come, How Long**  
-Original gesungen von: Stevie Wonder & Babyface
+Original gesungen von: Stevie Wonder & Babyface  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **We'll Be Together**  
-Original gesungen von: Sting
+Original gesungen von: Sting  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **Stayin' Alive**  
-Original gesungen von: Bee Gees
+Original gesungen von: Bee Gees  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **Anthem of Praise**  
 Original gesungen von: Brooklyn Tabernacle Choir  
-Richard Smallwood
+Musik/Text: Richard Smallwood  
+Arrangement: Gunars Kalnins
 
 **Make It Happen**  
-Original gesungen von: Mariah Carey
+Original gesungen von: Mariah Carey  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **Jesus Is Right Here**  
-(trad. gospel)
+(trad. gospel)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **Freedom**  
-Original gesungen von: George Michael
+Original gesungen von: George Michael  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **Hero Medley**  
-Original gesungen von: Mariah Carey, M People
+Original gesungen von: Mariah Carey, M People  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-I Still Haven't Found What I'm Looking For  
-Original gesungen von: U2
+**I Still Haven't Found What I'm Looking For**  
+Original gesungen von: U2  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Let There Be Love  
+**Let There Be Love**  
 Original gesungen von: GGchoir  
-Gunars Kalnins
+Gunars Kalnins  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Keeps on Making a Way  
-Original gesungen von: Brooklyn Tabernacle Choir
+**Keeps on Making a Way**  
+Original gesungen von: Brooklyn Tabernacle Choir  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Celebration  
-Original gesungen von: Kool & the Gang
+**Celebration**  
+Original gesungen von: Kool & the Gang  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Superstition  
-Original gesungen von: Stevie Wonder
+**Superstition**  
+Original gesungen von: Stevie Wonder  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Zu Dir  
-Original gesungen von: Stefan Gwildis
+**Zu Dir**  
+Original gesungen von: Stefan Gwildis  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 You've Got a Friend  
-Original gesungen von: Carole King
+Original gesungen von: Carole King  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 You Gotta Be  
-Original gesungen von: Des'ree
+Original gesungen von: Des'ree  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Who Is Who  
 Original gesungen von:   
-Gunars Kalnins
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 It Can Move You Too  
-Original gesungen von: Ron Williams's "The Power of Love"
+Original gesungen von: Ron Williams's "The Power of Love"  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 I Wanna Be the Only One  
-Original gesungen von: Eternal
+Original gesungen von: Eternal  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 He's Comin'  
 Original gesungen von:   
-Gunars Kalnins
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Heal the World  
-Original gesungen von: Michael Jackson
+Original gesungen von: Michael Jackson  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Going to Another Level  
-Original gesungen von: Israel Houghton
+Original gesungen von: Israel Houghton  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Exhale  
-Original gesungen von: Babyface
+Original gesungen von: Babyface  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Do Lord  
-(trad. Gospel)
+(trad. Gospel)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Chain of Fools  
-Original gesungen von: Aretha Franklin
+Original gesungen von: Aretha Franklin  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 Bridge over Troubled Water  
-Original gesungen von: Simon & Garfunkel
+Original gesungen von: Simon & Garfunkel  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-September  
-Original gesungen von: Earth, Wind & Fire
+**September**  
+Original gesungen von: Earth, Wind & Fire  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Mercedes Benz  
-Original gesungen von: Janis Joplin
+**Mercedes Benz**  
+Original gesungen von: Janis Joplin  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Yes, I'm Alive  
+**Yes, I'm Alive**  
 Original gesungen von:   
-Gunars Kalnins
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Take Me to the Water  
-(trad. Gospel)
+**Take Me to the Water**  
+(trad. Gospel)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Ain't No Mountain High Enough  
-Original gesungen von: Diana Ross
+**Ain't No Mountain High Enough**  
+Original gesungen von: Diana Ross  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Handvoll Liebe  
-Original gesungen von: Stefan Gwildis
+**Handvoll Liebe**  
+Original gesungen von: Stefan Gwildis  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Hold On  
-(trad. Spiritual)
+**Hold On**  
+(trad. Spiritual)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Little Drummer Boy  
-(trad.)
+**Little Drummer Boy**  
+(trad.)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Lean on Him  
+**Lean on Him**  
 Original gesungen von:   
-Gunars Kalnins
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Blessing of Abraham  
-Original gesungen von: Donald Lawrence
+**Blessing of Abraham**  
+Original gesungen von: Donald Lawrence  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Believer  
-Original gesungen von: Tonex
+**Believer**  
+Original gesungen von: Tonex  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-You Are Good  
-Original gesungen von: Israel Houghton
+**You Are Good**  
+Original gesungen von: Israel Houghton  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Simply the Best  
-Original gesungen von: Tina Turner
+**Simply the Best**  
+Original gesungen von: Tina Turner  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Santa Claus Is Comin' to Town  
-(trad.)
+**Santa Claus Is Comin' to Town**  
+(trad.)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Christmas Medley   
-(trad.)
+**Christmas Medley**   
+(trad.)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-I Love the Lord  
-Original gesungen von: Whitney Houston
+**I Love the Lord**  
+Original gesungen von: Whitney Houston  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-You Raise Me Up  
-Original gesungen von: Secret Garden
+**You Raise Me Up**  
+Original gesungen von: Secret Garden  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-A Move of God  
-Original gesungen von: Norman Hutchins
+**A Move of God**  
+Original gesungen von: Norman Hutchins  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Stand By Me  
-Original gesungen von: Ben E. King
+**Stand By Me**  
+Original gesungen von: Ben E. King  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
-Alpha and Omega  
-Original gesungen von: Israel Houghton
+**Alpha and Omega**  
+Original gesungen von: Israel Houghton  
+Musik/Text:  
+Arrangement: Gunars Kalnins
 
 **Standing in the Need of Prayer**   
-(trad. Gospel)
+(trad. Gospel)  
+Musik/Text:  
+Arrangement: Gunars Kalnins
