@@ -163,9 +163,15 @@
 [X]
     other = "Y"
 
-[songNumber]
-    other = "Nr."
-[songTitle]
-    other = "Song-Titel"
-[releaseDate]
-    other = "Uraufführung"
+[song_title]
+other = "Song-Titel"
+[song_orig_interpret]
+other = "Original gesungen von"
+[song_music_text]
+other = "Musik/Text"
+[song_arranged]
+other = "Arrangement"
+[song_released]
+other = "Uraufführung"
+[song_num]
+other = "Nr."

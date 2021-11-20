@@ -163,9 +163,15 @@
 [X]
     other = "Y"
 
-[songNumber]
-other = "No."
-[songTitle]
+[song_title]
 other = "Song Title"
-[releaseDate]
+[song_orig_interpret]
+other = "Original Interpreter"
+[song_music_text]
+other = "Music/Text"
+[song_arranged]
+other = "Arrangement"
+[song_released]
 other = "Released"
+[song_num]
+other = "No."

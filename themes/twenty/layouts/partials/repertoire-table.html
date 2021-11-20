@@ -14,18 +14,20 @@
                         <table class="styled-table">
                             <thead>
                             <tr>
-                                <th>{{ i18n "songNumber" }}</th>
-                                <th>{{ i18n "songTitle" }}</th>
-                                <th>{{ i18n "releaseDate" }}</th>
+                                <th>{{ i18n "song_title" }}</th>
+                                <th>{{ i18n "song_orig_interpret" }}</th>
+                                <th>{{ i18n "song_music_text" }}</th>
+                                <th>{{ i18n "song_arranged" }}</th>
                             </tr>
                             </thead>
                             <tbody>
                             {{ $repertoire := site.Data.repertoire }}
-                            {{ range $repertoire }}
+                            {{ range sort $repertoire "song_num" "desc" }}
                             <tr>
-                                <td>{{ .song_num }}</td>
                                 <td>{{ .song_title }}</td>
-                                <td>{{ .release_date }}</td>
+                                <td>{{ .song_orig_interpret }}</td>
+                                <td>{{ .song_music_text }}</td>
+                                <td>{{ .song_arranged }}</td>
                             </tr>
                             {{ end }}
                             </tbody>
