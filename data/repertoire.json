@@ -1,242 +1,386 @@
 [
   {
-    "song_num": 1,
-    "song_title": "Alpha and Omega",
-    "release_date": 2014
+    "song_title": "**Medley III**",
+    "song_orig_interpret": "Original gesungen von: Bryan Adams, Phil Collins, Elton John, Sting/Puff Daddy, Prince",
+    "song_music_text": "Musik/Text: above original artists, Michael Karmen, Bernie Taupin, Faith Evans, and others",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2021 03 26",
+    "song_num": "48"
   },
   {
-    "song_num": 2,
-    "song_title": "Stand By Me",
-    "release_date": 2014
+    "song_title": "**How Come, How Long**",
+    "song_orig_interpret": "Original gesungen von: Stevie Wonder & Babyface",
+    "song_music_text": "\"Musik/Text: Stevie Wonder, Kenneth \"\"Babyface\"\" Edmonds\"",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2021 01 07",
+    "song_num": "47"
   },
   {
-    "song_num": 3,
-    "song_title": "Standing In The Need Of Prayer",
-    "release_date": 2014
+    "song_title": "**We'll Be Together**",
+    "song_orig_interpret": "Original gesungen von: Sting",
+    "song_music_text": "Musik/Text: Sting",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2020 11 26",
+    "song_num": "46"
   },
   {
-    "song_num": 4,
-    "song_title": "A Move of God",
-    "release_date": "2014 04 07"
+    "song_title": "**Stayin' Alive**",
+    "song_orig_interpret": "Original gesungen von: Bee Gees",
+    "song_music_text": "Musik/Text: Barry Gibb, Maurice Gibb, Robin Gibb",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2020 10 22",
+    "song_num": "45"
   },
   {
-    "song_num": 5,
-    "song_title": "You Raise Me Up",
-    "release_date": "2014 07 28"
+    "song_title": "**Anthem of Praise**",
+    "song_orig_interpret": "Original gesungen von: Richard Smallwood & Vision",
+    "song_music_text": "Musik/Text: Richard Smallwood",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2020 05 22",
+    "song_num": "44"
   },
   {
-    "song_num": 6,
-    "song_title": "Christmas Medley",
-    "release_date": "2014 12 01"
+    "song_title": "**Make It Happen**",
+    "song_orig_interpret": "Original gesungen von: Mariah Carey",
+    "song_music_text": "Musik/Text: Mariah Carey, Robert Civilles, David Cole",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2020 03 06",
+    "song_num": "43"
   },
   {
-    "song_num": 7,
-    "song_title": "I love the Lord",
-    "release_date": "2014 12 01"
+    "song_title": "**Jesus Is Right Here**",
+    "song_orig_interpret": "Original gesungen von: Anna Weister Anderson",
+    "song_music_text": "Musik/Text: Anna, Anna Bartlett Warner, William Batchelder",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2020 03 06",
+    "song_num": "42"
   },
   {
-    "song_num": 8,
-    "song_title": "Santa Claus Is Comin' To Town",
-    "release_date": "2014 12 01"
+    "song_title": "**Freedom**",
+    "song_orig_interpret": "Original gesungen von: George Michael",
+    "song_music_text": "Musik/Text: George Michael",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2020 01 03",
+    "song_num": "41"
   },
   {
-    "song_num": 9,
-    "song_title": "Simply The Best",
-    "release_date": "2014 12 01"
+    "song_title": "**Hero Medley**",
+    "song_orig_interpret": "Original gesungen von: Mariah Carey, M People, Enrique Iglesias",
+    "song_music_text": "Musik/Text: Walter Afanasieff, Mike Pickering, Paul Barry, and others",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2019 05 21",
+    "song_num": "40"
   },
   {
-    "song_num": 10,
-    "song_title": "You Are Good",
-    "release_date": "2014 12 01"
+    "song_title": "**I Still Haven't Found What I'm Looking For**",
+    "song_orig_interpret": "Original gesungen von: U2",
+    "song_music_text": "Musik/Text: Bono",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2019 05 09",
+    "song_num": "39"
   },
   {
-    "song_num": 11,
-    "song_title": "Believer",
-    "release_date": "2015 06 29"
+    "song_title": "**Let There Be Love**",
+    "song_orig_interpret": "Original gesungen von: GG Choir",
+    "song_music_text": "Musik/Text: Gunars Kalnins",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2019 03 14",
+    "song_num": "38"
   },
   {
-    "song_num": 12,
-    "song_title": "Blessing of Abraham",
-    "release_date": "2015 06 29"
+    "song_title": "**Keeps on Making a Way**",
+    "song_orig_interpret": "Original gesungen von: Brooklyn Tabernacle Choir",
+    "song_music_text": "Musik/Text: Percy Gray, Zigmars Liepins",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2019 02 21",
+    "song_num": "37"
   },
   {
-    "song_num": 13,
-    "song_title": "Lean On Him",
-    "release_date": "2015 06 29"
+    "song_title": "**Celebration**",
+    "song_orig_interpret": "Original gesungen von: Kool & the Gang",
+    "song_music_text": "Musik/Text: Ronald Bell, Claydes Smith, George Merrill, and others",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 09 16",
+    "song_num": "36"
   },
   {
-    "song_num": 14,
-    "song_title": "Little Drummer Boy",
-    "release_date": "2015 11 16"
+    "song_title": "**Superstition**",
+    "song_orig_interpret": "Original gesungen von: Stevie Wonder",
+    "song_music_text": "Musik/Text: Stevie Wonder",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 09 16",
+    "song_num": "35"
   },
   {
-    "song_num": 15,
-    "song_title": "Hold on",
-    "release_date": "2016 04 29"
+    "song_title": "**Zu Dir**",
+    "song_orig_interpret": "Original gesungen von: Stefan Gwildis",
+    "song_music_text": "Musik/Text: Stefan Gwildis",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 07 01",
+    "song_num": "34"
   },
   {
-    "song_num": 16,
-    "song_title": "Handvoll Liebe",
-    "release_date": "2017 05 13"
+    "song_title": "**Who Is Who**",
+    "song_orig_interpret": "Musik/Text: Gunars Kalnins",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2018 01 20",
+    "song_num": "33"
   },
   {
-    "song_num": 17,
-    "song_title": "Ain't no mountain high enough",
-    "release_date": "2017 07 02"
+    "song_title": "**You Gotta Be**",
+    "song_orig_interpret": "Original gesungen von: Des'ree",
+    "song_music_text": "Musik/Text: Des'ree, Ashley Ingram",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "32"
   },
   {
-    "song_num": 18,
-    "song_title": "Mercedes Benz",
-    "release_date": "2017 07 02"
+    "song_title": "**It Can Move You Too**",
+    "song_orig_interpret": "\"Original gesungen von: Ron Williams's \"\"The Power of Love\"\"\"",
+    "song_music_text": "Musik/Text: Michael Ruff, Ron Williams",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "31"
   },
   {
-    "song_num": 19,
-    "song_title": "September",
-    "release_date": "2017 07 02"
+    "song_title": "**Do Lord**",
+    "song_orig_interpret": "(trad. Gospel)",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2018 01 20",
+    "song_num": "30"
   },
   {
-    "song_num": 20,
-    "song_title": "Take me to the water",
-    "release_date": "2017 07 02"
+    "song_title": "**I Wanna Be the Only One**",
+    "song_orig_interpret": "Original gesungen von: Eternal",
+    "song_music_text": "Musik/Text: BeBe Winans, James Lawrence, Keith Hampton",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "29"
   },
   {
-    "song_num": 21,
-    "song_title": "Yes, I'm Alive",
-    "release_date": "2017 07 02"
+    "song_title": "**You've Got a Friend**",
+    "song_orig_interpret": "Original gesungen von: Carole King",
+    "song_music_text": "Musik/Text: Carole King",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "28"
   },
   {
-    "song_num": 22,
-    "song_title": "Bridge Over Troubled Water",
-    "release_date": "2018 01 20"
+    "song_title": "**He's Comin'**",
+    "song_orig_interpret": "Musik/Text: Gunars Kalnins",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2018 01 20",
+    "song_num": "27"
   },
   {
-    "song_num": 23,
-    "song_title": "Chain Of Fools",
-    "release_date": "2018 01 20"
+    "song_title": "**Bridge over Troubled Water**",
+    "song_orig_interpret": "Original gesungen von: Simon & Garfunkel",
+    "song_music_text": "Musik/Text: Paul Simon",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "26"
   },
   {
-    "song_num": 24,
-    "song_title": "Do Lord",
-    "release_date": "2018 01 20"
+    "song_title": "**Heal the World**",
+    "song_orig_interpret": "Original gesungen von: Michael Jackson",
+    "song_music_text": "Musik/Text: Michael Jackson",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "25"
   },
   {
-    "song_num": 25,
-    "song_title": "Exhale",
-    "release_date": "2018 01 20"
+    "song_title": "**Chain of Fools**",
+    "song_orig_interpret": "Original gesungen von: Aretha Franklin",
+    "song_music_text": "Musik/Text: Don Covay",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "24"
   },
   {
-    "song_num": 26,
-    "song_title": "Going To Another Level",
-    "release_date": "2018 01 20"
+    "song_title": "**Going to Another Level**",
+    "song_orig_interpret": "Original gesungen von: Israel & New Breed",
+    "song_music_text": "Musik/Text: Israel Houghton",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "23"
   },
   {
-    "song_num": 27,
-    "song_title": "Heal The World",
-    "release_date": "2018 01 20"
+    "song_title": "**Exhale**",
+    "song_orig_interpret": "Original gesungen von: Babyface",
+    "song_music_text": "\"Musik/Text: Kenneth \"\"Babyface\"\" Edmonds\"",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2018 01 20",
+    "song_num": "22"
   },
   {
-    "song_num": 28,
-    "song_title": "He's Comin'",
-    "release_date": "2018 01 20"
+    "song_title": "**September**",
+    "song_orig_interpret": "Original gesungen von: Earth, Wind & Fire",
+    "song_music_text": "Musik/Text: Maurice White, Al McKay, Alee Willis",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2017 07 02",
+    "song_num": "21"
   },
   {
-    "song_num": 29,
-    "song_title": "I Wanna Be The Only One",
-    "release_date": "2018 01 20"
+    "song_title": "**Mercedes Benz**",
+    "song_orig_interpret": "Original gesungen von: Janis Joplin",
+    "song_music_text": "Musik/Text: Janis Joplin, Michael McClure, Bob Neuwirth",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2017 07 02",
+    "song_num": "20"
   },
   {
-    "song_num": 30,
-    "song_title": "It Can Move You Too",
-    "release_date": "2018 01 20"
+    "song_title": "**Yes, I'm Alive**",
+    "song_orig_interpret": "Musik/Text: Gunars Kalnins",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2017 07 02",
+    "song_num": "19"
   },
   {
-    "song_num": 31,
-    "song_title": "Who is who",
-    "release_date": "2018 01 20"
+    "song_title": "**Take Me to the Water**",
+    "song_orig_interpret": "Original gesungen von: Happy Voices",
+    "song_music_text": "Musik/Text: Clarence Eggleton",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2017 07 02",
+    "song_num": "18"
   },
   {
-    "song_num": 32,
-    "song_title": "You gotta be",
-    "release_date": "2018 01 20"
+    "song_title": "**Ain't No Mountain High Enough**",
+    "song_orig_interpret": "Original gesungen von: Diana Ross",
+    "song_music_text": "Musik/Text: Nickolas Ahford, Valerie Simpson, Stefan Gwildis",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2017 07 02",
+    "song_num": "17"
   },
   {
-    "song_num": 33,
-    "song_title": "You've Got A Friend",
-    "release_date": "2018 01 20"
+    "song_title": "**Handvoll Liebe**",
+    "song_orig_interpret": "Original gesungen von: Stefan Gwildis",
+    "song_music_text": "Musik/Text: Stefan Gwildis",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2017 05 13",
+    "song_num": "16"
   },
   {
-    "song_num": 34,
-    "song_title": "Zu Dir",
-    "release_date": "2018 07 01"
+    "song_title": "**Hold On**",
+    "song_orig_interpret": "(trad. Spiritual)",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2016 04 29",
+    "song_num": "15"
   },
   {
-    "song_num": 35,
-    "song_title": "Superstition",
-    "release_date": "2018 09 16"
+    "song_title": "**Little Drummer Boy**",
+    "song_orig_interpret": "(inspired by Whitney Houston)",
+    "song_music_text": "Musik/Text: Katherine Davis, Henry Onorati, Harry Simeone",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2015 11 16",
+    "song_num": "14"
   },
   {
-    "song_num": 36,
-    "song_title": "Celebration",
-    "release_date": "2018 09 16"
+    "song_title": "**Lean on Him**",
+    "song_orig_interpret": "Musik/Text: Gunars Kalnins",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2015 06 29",
+    "song_num": "13"
   },
   {
-    "song_num": 37,
-    "song_title": "Keeps on making a way",
-    "release_date": "2019 02 21"
+    "song_title": "**Blessing of Abraham**",
+    "song_orig_interpret": "Original gesungen von: Donald Lawrence",
+    "song_music_text": "Musik/Text: Donald Lawrence",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2015 06 29",
+    "song_num": "12"
   },
   {
-    "song_num": 38,
-    "song_title": "Let there be love",
-    "release_date": "2019 03 14"
+    "song_title": "**Believer**",
+    "song_orig_interpret": "Original gesungen von: Tonex",
+    "song_music_text": "Musik/Text: Anthony C. Williams",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2015 06 29",
+    "song_num": "11"
   },
   {
-    "song_num": 39,
-    "song_title": "I Still Haven't Found What I'm Looking For",
-    "release_date": "2019 05 09"
+    "song_title": "**You Are Good**",
+    "song_orig_interpret": "Original gesungen von: Israel & New Breed",
+    "song_music_text": "Musik/Text: Israel Houghton",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 12 01",
+    "song_num": "10"
   },
   {
-    "song_num": 40,
-    "song_title": "Hero Medley",
-    "release_date": "2019 05 21"
+    "song_title": "**Simply the Best**",
+    "song_orig_interpret": "Original gesungen von: Tina Turner",
+    "song_music_text": "Musik/Text: Mike Chapman, Holly Knight",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 12 01",
+    "song_num": "9"
   },
   {
-    "song_num": 41,
-    "song_title": "Freedom",
-    "release_date": "2020 01 03"
+    "song_title": "**Lullaby/Santa Claus Is Comin' to Town**",
+    "song_orig_interpret": "(inspired by Mariah Carey)",
+    "song_music_text": "Musik/Text: Johannes Brahms, John Frederick Coots, Haven Gillespie",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 12 01",
+    "song_num": "8"
   },
   {
-    "song_num": 42,
-    "song_title": "Jesus Is Right Here",
-    "release_date": "2020 03 06"
+    "song_title": "**Christmas Medley**",
+    "song_orig_interpret": "(trad.)",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2014 12 01",
+    "song_num": "7"
   },
   {
-    "song_num": 43,
-    "song_title": "Make It Happen",
-    "release_date": "2020 03 06"
+    "song_title": "**I Love the Lord**",
+    "song_orig_interpret": "Original gesungen von: Whitney Houston",
+    "song_music_text": "Musik/Text: Richard Smallwood",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 12 01",
+    "song_num": "6"
   },
   {
-    "song_num": 44,
-    "song_title": "Anthem Of Praise",
-    "release_date": "2020 05 22"
+    "song_title": "**You Raise Me Up**",
+    "song_orig_interpret": "Original gesungen von: Secret Garden",
+    "song_music_text": "Musik/Text: Rolf Lovland, Brendan Graham",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 07 28",
+    "song_num": "5"
   },
   {
-    "song_num": 45,
-    "song_title": "Stayin' Alive",
-    "release_date": "2020 10 22"
+    "song_title": "**A Move of God Is on the Way**",
+    "song_orig_interpret": "Original gesungen von: Norman Hutchins",
+    "song_music_text": "Musik/Text: Norman Hutchins",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 04 07",
+    "song_num": "4"
   },
   {
-    "song_num": 46,
-    "song_title": "We'll Be Together",
-    "release_date": "2020 11 26"
+    "song_title": "**Stand By Me**",
+    "song_orig_interpret": "Original gesungen von: Ben E. King",
+    "song_music_text": "Musik/Text: Ben E. King",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 01 01",
+    "song_num": "3"
   },
   {
-    "song_num": 47,
-    "song_title": "How Come, How Long",
-    "release_date": "2021 01 07"
+    "song_title": "**Alpha and Omega**",
+    "song_orig_interpret": "Original gesungen von: Israel & New Breed",
+    "song_music_text": "Musik/Text: Erasmus Mutanbira, Israel Houghton",
+    "song_arranged": "Arrangement: Gunars Kalnins",
+    "release_date": "2014 01 01",
+    "song_num": "2"
   },
   {
-    "song_num": 48,
-    "song_title": "Medley III",
-    "release_date": "2021 03 26"
+    "song_title": "**Standing in the Need of Prayer**",
+    "song_orig_interpret": "(trad. Gospel)",
+    "song_music_text": "Arrangement: Gunars Kalnins",
+    "song_arranged": "0",
+    "release_date": "2014 01 01",
+    "song_num": "1"
   }
 ]
