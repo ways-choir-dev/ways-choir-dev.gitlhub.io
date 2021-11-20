@@ -87,8 +87,8 @@ Original gesungen von: Stefan Gwildis
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
-You've Got a Friend  
-Original gesungen von: Carole King  
+Who Is Who  
+Original gesungen von:   
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
@@ -97,13 +97,13 @@ Original gesungen von: Des'ree
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
-Who Is Who  
-Original gesungen von:   
+It Can Move You Too  
+Original gesungen von: Ron Williams's "The Power of Love"  
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
-It Can Move You Too  
-Original gesungen von: Ron Williams's "The Power of Love"  
+Do Lord  
+(trad. Gospel)  
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
@@ -112,13 +112,28 @@ Original gesungen von: Eternal
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
+You've Got a Friend  
+Original gesungen von: Carole King  
+Musik/Text:  
+Arrangement: Gunars Kalnins
+
 He's Comin'  
 Original gesungen von:   
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
+Bridge over Troubled Water  
+Original gesungen von: Simon & Garfunkel  
+Musik/Text:  
+Arrangement: Gunars Kalnins
+
 Heal the World  
 Original gesungen von: Michael Jackson  
+Musik/Text:  
+Arrangement: Gunars Kalnins
+
+Chain of Fools  
+Original gesungen von: Aretha Franklin  
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
@@ -132,109 +147,90 @@ Original gesungen von: Babyface
 Musik/Text:  
 Arrangement: Gunars Kalnins
 
-Do Lord  
-(trad. Gospel)  
-Musik/Text:  
-Arrangement: Gunars Kalnins
-
-Chain of Fools  
-Original gesungen von: Aretha Franklin  
-Musik/Text:  
-Arrangement: Gunars Kalnins
-
-Bridge over Troubled Water  
-Original gesungen von: Simon & Garfunkel  
-Musik/Text:  
-Arrangement: Gunars Kalnins
-
 **September**  
 Original gesungen von: Earth, Wind & Fire  
-Musik/Text:  
+Musik/Text: Maurice White, Al McKay, Alee Willis  
 Arrangement: Gunars Kalnins
 
 **Mercedes Benz**  
 Original gesungen von: Janis Joplin  
-Musik/Text:  
+Musik/Text: Janis Joplin, Michael McClure, Bob Neuwirth  
 Arrangement: Gunars Kalnins
 
 **Yes, I'm Alive**  
-Original gesungen von:   
-Musik/Text:  
+Musik/Text: Gunars Kalnins  
 Arrangement: Gunars Kalnins
 
 **Take Me to the Water**  
-(trad. Gospel)  
-Musik/Text:  
+Original gesungen von: Happy Voices  
+Musik/Text: Clarence Eggleton  
 Arrangement: Gunars Kalnins
 
 **Ain't No Mountain High Enough**  
 Original gesungen von: Diana Ross  
-Musik/Text:  
+Musik/Text: Nickolas Ahford, Valerie Simpson, Stefan Gwildis  
 Arrangement: Gunars Kalnins
 
 **Handvoll Liebe**  
 Original gesungen von: Stefan Gwildis  
-Musik/Text:  
+Musik/Text: Stefan Gwildis  
 Arrangement: Gunars Kalnins
 
 **Hold On**  
 (trad. Spiritual)  
-Musik/Text:  
 Arrangement: Gunars Kalnins
 
 **Little Drummer Boy**  
-(trad.)  
-Musik/Text:  
+(inspired by Whitney Houston)  
+Musik/Text: Katherine Davis, Henry Onorati, Harry Simeone  
 Arrangement: Gunars Kalnins
 
 **Lean on Him**  
-Original gesungen von:   
-Musik/Text:  
+Musik/Text: Gunars Kalnins  
 Arrangement: Gunars Kalnins
 
 **Blessing of Abraham**  
 Original gesungen von: Donald Lawrence  
-Musik/Text:  
+Musik/Text: Donald Lawrence  
 Arrangement: Gunars Kalnins
 
 **Believer**  
 Original gesungen von: Tonex  
-Musik/Text:  
+Musik/Text: Anthony C. Williams  
 Arrangement: Gunars Kalnins
 
 **You Are Good**  
-Original gesungen von: Israel Houghton  
-Musik/Text:  
+Original gesungen von: Israel & New Breed  
+Musik/Text: Israel Houghton  
 Arrangement: Gunars Kalnins
 
 **Simply the Best**  
 Original gesungen von: Tina Turner  
-Musik/Text:  
+Musik/Text: Mike Chapman, Holly Knight  
 Arrangement: Gunars Kalnins
 
-**Santa Claus Is Comin' to Town**  
-(trad.)  
-Musik/Text:  
+**Lullaby/Santa Claus Is Comin' to Town**  
+(inspired by Mariah Carey)  
+Musik/Text: Johannes Brahms, John Frederick Coots, Haven Gillespie  
 Arrangement: Gunars Kalnins
 
 **Christmas Medley**   
 (trad.)  
-Musik/Text:  
 Arrangement: Gunars Kalnins
 
 **I Love the Lord**  
 Original gesungen von: Whitney Houston  
-Musik/Text:  
+Musik/Text: Richard Smallwood  
 Arrangement: Gunars Kalnins
 
 **You Raise Me Up**  
 Original gesungen von: Secret Garden  
-Musik/Text:  
+Musik/Text: Rolf Lovland, Brendan Graham  
 Arrangement: Gunars Kalnins
 
-**A Move of God**  
+**A Move of God Is on the Way**  
 Original gesungen von: Norman Hutchins  
-Musik/Text:  
+Musik/Text: Norman Hutchins  
 Arrangement: Gunars Kalnins
 
 **Stand By Me**  
@@ -243,7 +239,7 @@ Musik/Text: Ben E. King
 Arrangement: Gunars Kalnins
 
 **Alpha and Omega**  
-Original gesungen von:   
+Original gesungen von: Israel & New Breed  
 Musik/Text: Erasmus Mutanbira, Israel Houghton  
 Arrangement: Gunars Kalnins
 
