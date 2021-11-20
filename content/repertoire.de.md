@@ -62,9 +62,8 @@ Musik/Text:
 Arrangement: Gunars Kalnins
 
 **Let There Be Love**  
-Original gesungen von: GGchoir  
-Gunars Kalnins  
-Musik/Text:  
+Original gesungen von: GG Choir  
+Musik/Text: Gunars Kalnins  
 Arrangement: Gunars Kalnins
 
 **Keeps on Making a Way**  
@@ -84,67 +83,64 @@ Arrangement: Gunars Kalnins
 
 **Zu Dir**  
 Original gesungen von: Stefan Gwildis  
-Musik/Text:  
+Musik/Text: Stefan Gwildis  
 Arrangement: Gunars Kalnins
 
-Who Is Who  
-Original gesungen von:   
-Musik/Text:  
+**Who Is Who**  
+Musik/Text: Gunars Kalnins  
 Arrangement: Gunars Kalnins
 
-You Gotta Be  
+**You Gotta Be**  
 Original gesungen von: Des'ree  
-Musik/Text:  
+Musik/Text: Des'ree, Ashley Ingram  
 Arrangement: Gunars Kalnins
 
-It Can Move You Too  
+**It Can Move You Too**  
 Original gesungen von: Ron Williams's "The Power of Love"  
-Musik/Text:  
+Musik/Text: Michael Ruff, Ron Williams  
 Arrangement: Gunars Kalnins
 
-Do Lord  
+**Do Lord**  
 (trad. Gospel)  
-Musik/Text:  
 Arrangement: Gunars Kalnins
 
-I Wanna Be the Only One  
+**I Wanna Be the Only One**  
 Original gesungen von: Eternal  
-Musik/Text:  
+Musik/Text: BeBe Winans, James Lawrence, Keith Hampton  
 Arrangement: Gunars Kalnins
 
-You've Got a Friend  
+**You've Got a Friend**  
 Original gesungen von: Carole King  
-Musik/Text:  
+Musik/Text: Carole King  
 Arrangement: Gunars Kalnins
 
-He's Comin'  
-Original gesungen von:   
-Musik/Text:  
+**He's Comin'**  
+Musik/Text: Gunars Kalnins  
 Arrangement: Gunars Kalnins
 
-Bridge over Troubled Water  
+**Bridge over Troubled Water**  
 Original gesungen von: Simon & Garfunkel  
-Musik/Text:  
+Musik/Text: Paul Simon  
 Arrangement: Gunars Kalnins
 
-Heal the World  
+**Heal the World**  
 Original gesungen von: Michael Jackson  
-Musik/Text:  
+Musik/Text: Michael Jackson  
 Arrangement: Gunars Kalnins
 
-Chain of Fools  
+**Chain of Fools**  
 Original gesungen von: Aretha Franklin  
-Musik/Text:  
+Musik/Text: Don Covay  
 Arrangement: Gunars Kalnins
 
-Going to Another Level  
-Original gesungen von: Israel Houghton  
-Musik/Text:  
+**Going to Another Level**  
+Original gesungen von: Israel & New Breed  
+Musik/Text: Israel Houghton  
 Arrangement: Gunars Kalnins
 
-Exhale  
+**Exhale**  
 Original gesungen von: Babyface  
-Musik/Text:  
+Musik/Text: Babyface  
 Arrangement: Gunars Kalnins
 
 **September**  
