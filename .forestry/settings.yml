@@ -74,6 +74,10 @@ sections:
   new_doc_ext: en.md
   templates:
   - video
+- type: document
+  path: data/repertoire.json
+  label: Repertoire Data
+  match: "**/*"
 - type: directory
   path: content
   label: Uncategorised Pages ( nicht kategorisierbare Seiten, Deutsch)
