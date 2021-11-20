@@ -13,52 +13,52 @@ Hier ist unser Gesamt-Repertoire:
 
 **Medley III**   
 Original gesungen von: Bryan Adams, Phil Collins, Elton John, Sting/Puff Daddy, Prince  
-Musik/Text:  
+Musik/Text: above original artists, Michael Karmen, Bernie Taupin, Faith Evans, and others  
 Arrangement: Gunars Kalnins
 
 **How Come, How Long**  
 Original gesungen von: Stevie Wonder & Babyface  
-Musik/Text:  
+Musik/Text: Stevie Wonder, Kenneth "Babyface" Edmonds  
 Arrangement: Gunars Kalnins
 
 **We'll Be Together**  
 Original gesungen von: Sting  
-Musik/Text:  
+Musik/Text: Sting  
 Arrangement: Gunars Kalnins
 
 **Stayin' Alive**  
 Original gesungen von: Bee Gees  
-Musik/Text:  
+Musik/Text: Barry Gibb, Maurice Gibb, Robin Gibb  
 Arrangement: Gunars Kalnins
 
 **Anthem of Praise**  
-Original gesungen von: Brooklyn Tabernacle Choir  
+Original gesungen von: Richard Smallwood & Vision  
 Musik/Text: Richard Smallwood  
 Arrangement: Gunars Kalnins
 
 **Make It Happen**  
 Original gesungen von: Mariah Carey  
-Musik/Text:  
+Musik/Text: Mariah Carey, Robert Civilles, David Cole  
 Arrangement: Gunars Kalnins
 
 **Jesus Is Right Here**  
-(trad. gospel)  
-Musik/Text:  
+Original gesungen von: Anna Weister Anderson  
+Musik/Text: Anna, Anna Bartlett Warner, William Batchelder  
 Arrangement: Gunars Kalnins
 
 **Freedom**  
 Original gesungen von: George Michael  
-Musik/Text:  
+Musik/Text: George Michael  
 Arrangement: Gunars Kalnins
 
 **Hero Medley**  
-Original gesungen von: Mariah Carey, M People  
-Musik/Text:  
+Original gesungen von: Mariah Carey, M People, Enrique Iglesias  
+Musik/Text: Walter Afanasieff, Mike Pickering, Paul Barry, and others  
 Arrangement: Gunars Kalnins
 
 **I Still Haven't Found What I'm Looking For**  
 Original gesungen von: U2  
-Musik/Text:  
+Musik/Text: Bono  
 Arrangement: Gunars Kalnins
 
 **Let There Be Love**  
@@ -68,17 +68,17 @@ Arrangement: Gunars Kalnins
 
 **Keeps on Making a Way**  
 Original gesungen von: Brooklyn Tabernacle Choir  
-Musik/Text:  
+Musik/Text: Percy Gray, Zigmars Liepins  
 Arrangement: Gunars Kalnins
 
 **Celebration**  
 Original gesungen von: Kool & the Gang  
-Musik/Text:  
+Musik/Text: Ronald Bell, Claydes Smith, George Merrill, and others  
 Arrangement: Gunars Kalnins
 
 **Superstition**  
 Original gesungen von: Stevie Wonder  
-Musik/Text:  
+Musik/Text: Stevie Wonder  
 Arrangement: Gunars Kalnins
 
 **Zu Dir**  
@@ -140,7 +140,7 @@ Arrangement: Gunars Kalnins
 
 **Exhale**  
 Original gesungen von: Babyface  
-Musik/Text: Babyface  
+Musik/Text: Kenneth "Babyface" Edmonds  
 Arrangement: Gunars Kalnins
 
 **September**  
