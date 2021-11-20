@@ -9,7 +9,7 @@ type = "page"
 +++
 # WAYS Chor-Repertoire
 
-Hier ist unser Gesamt-Repertoire:
+Hier ist unser bisheriges Gesamt-Repertoire:
 
 **Medley III**   
 Original gesungen von: Bryan Adams, Phil Collins, Elton John, Sting/Puff Daddy, Prince  
