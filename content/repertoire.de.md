@@ -239,15 +239,14 @@ Arrangement: Gunars Kalnins
 
 **Stand By Me**  
 Original gesungen von: Ben E. King  
-Musik/Text:  
+Musik/Text: Ben E. King  
 Arrangement: Gunars Kalnins
 
 **Alpha and Omega**  
-Original gesungen von: Israel Houghton  
-Musik/Text:  
+Original gesungen von:   
+Musik/Text: Erasmus Mutanbira, Israel Houghton  
 Arrangement: Gunars Kalnins
 
 **Standing in the Need of Prayer**   
 (trad. Gospel)  
-Musik/Text:  
 Arrangement: Gunars Kalnins
