@@ -30,7 +30,7 @@ Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
 * COVID-19 QR-Code
 * Negativtest vom selben Tag
 
-Achtung: Wir proben in Innenräumen. Die Proben finden auf "denglisch" statt, ein Gemisch aus deutsch und englisch.
+Achtung: Wir proben in Innenräumen. Die Proben finden auf "Denglisch" statt, ein Gemisch aus Deutsch und Englisch.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1644093441/31C8E728-CCF7-4FCD-A765-7725296A3DAF.jpg)
 
