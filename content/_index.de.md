@@ -29,7 +29,8 @@ Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
 * Maske (medizinisch ode FFP2)
 * COVID-19 QR-Code
 * Negativtest vom selben Tag
-* Achtung: wir proben in Innenräumen.
+
+Achtung: Wir proben in Innenräumen.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1644093441/31C8E728-CCF7-4FCD-A765-7725296A3DAF.jpg)
 
