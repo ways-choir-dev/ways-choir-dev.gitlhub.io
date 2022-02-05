@@ -26,7 +26,7 @@ Wenn du Lust hast, mit uns zu singen, laden wir dich ein, an einer Schnupperprob
 
 Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
 
-* Maske (medizinisch ode FFP2)
+* Maske (medizinisch oder FFP2)
 * COVID-19 QR-Code
 * Negativtest vom selben Tag
 
