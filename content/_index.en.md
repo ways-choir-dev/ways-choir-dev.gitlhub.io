@@ -21,6 +21,19 @@ With all your senses..
 
 ## News
 
+### February 2022
+
+If you are interested in singing with us we invite you to join our rehearsal on Monday, February 21st. Please contact us in advance (phone +49 1575 0984161 or mail info@ways-choir.eu) so that we can plan accordingly.
+
+Please note that we follow the mandatory COVID regulations for choirs:
+
+* mask required (medical or FFP2)
+* COVID-19 QR-code required
+* negative test of the same day required
+* event will be indoors
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1644093441/31C8E728-CCF7-4FCD-A765-7725296A3DAF.jpg)
+
 ### November 2021
 
 A few days ago we had a WAYS choir weekend in Bad Saarow. With our individual hygiene concept, of course. The last time we were at Scharmützelsee together was in 2019 - and Corona was still a beer ... It's still so beautiful here. The youth hostel is our home base. Friday 6pm to Sunday 1pm actually resulted in almost 15 hours of singing together. Thanks to vocal training and liters of ginger tea, nobody lost their voice. After rehearsal we still had to talk and dance and scrap-secret-santa and eat up all the goodies we had brought with us. And all this in beautiful golden October, a dream!
