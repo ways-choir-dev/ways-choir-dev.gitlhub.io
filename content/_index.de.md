@@ -20,6 +20,19 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Februar 2022
+
+Wenn du Lust hast, mit uns zu singen, laden wir dich ein, an einer Schnupperprobe teilzunehmen am Montag, 21. Februar von 18:45 bis 22.00 Uhr. Bitte melde dich vorher bei uns (Telefon +49 1575 0984161 oder Mail [info@ways-choir.eu](mailto:info@ways-choir.eu)), damit wir entsprechend planen können.
+
+Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
+
+* Maske (medizinisch ode FFP2)
+* COVID-19 QR-Code
+* Negativtest vom selben Tag
+* Achtung: wir proben in Innenräumen.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1644093441/31C8E728-CCF7-4FCD-A765-7725296A3DAF.jpg)
+
 ### November 2021
 
 Vor wenigen Tagen war WAYS-Chorwochenende in Bad Saarow. Klar, mit Hygienekonzept etc. Das letzte Mal waren wir 2019 miteinander am Scharmützelsee - da war Corona noch ein Bier … Es ist immer noch so schön dort. Die Jugendherberge dort ist unser Stammquartier. Von Freitag 18 Uhr bis Sonntag 13 Uhr waren wir zusammen - das ergab tatsächlich fast 15 Stunden gemeinsames Singen. Dank Stimmbildung und literweise Ingwertee hat trotzdem niemand die Stimme verloren. Und dann mussten wir noch erzählen und tanzen und schrottwichteln und all die Leckereien aufessen, die wir mitgebracht hatten. Und dieser goldene Oktober, ein Traum!
