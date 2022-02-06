@@ -30,9 +30,10 @@ Please note that we follow the mandatory COVID regulations for choirs:
 * mask required (medical or FFP2)
 * COVID-19 QR-code required
 * negative test of the same day required
-* event will be indoors
 
-![](https://res.cloudinary.com/ways-choir/image/upload/v1644093441/31C8E728-CCF7-4FCD-A765-7725296A3DAF.jpg)
+Attention: the event will be indoors.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1644186862/78140A42-27CD-45E1-A65C-6509460ADE5D.jpg)
 
 ### November 2021
 
