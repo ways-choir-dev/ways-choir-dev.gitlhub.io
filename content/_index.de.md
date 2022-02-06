@@ -32,7 +32,7 @@ Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
 
 Achtung: Wir proben in Innenräumen. Die Proben finden auf "Denglisch" statt, ein Gemisch aus Deutsch und Englisch.
 
-![](https://res.cloudinary.com/ways-choir/image/upload/v1644093441/31C8E728-CCF7-4FCD-A765-7725296A3DAF.jpg)
+![](https://res.cloudinary.com/ways-choir/image/upload/v1644186862/78140A42-27CD-45E1-A65C-6509460ADE5D.jpg)
 
 ### November 2021
 
