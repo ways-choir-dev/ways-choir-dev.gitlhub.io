@@ -26,4 +26,4 @@ The WAYSies come from all over Berlin and the surrounding area. Due to the pande
 
 On 8th February 2022 WAYS was featured on national radio Deutschlandfunk Kultur. The portrait was part of the series "Choir of the Week". The podcast can be found on the homepage of the radio station:
 
-[https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html](https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html "https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html")
+[https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html](https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html "Deutschlandfunk Kultur")
