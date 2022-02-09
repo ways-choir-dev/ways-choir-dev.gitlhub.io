@@ -1,5 +1,5 @@
 +++
-banner = "/v1644407503/Chor-der-Woche_n4ia3m.png"
+banner = "/v1644408285/Chor-der-Woche_tt5kwo.png"
 categories = ["concerts"]
 layout = "concert"
 listimg = "/v1644407503/Chor-der-Woche_n4ia3m.png"
