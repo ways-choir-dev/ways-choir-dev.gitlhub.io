@@ -13,7 +13,7 @@ date = "2022-02-08T00:00:00+01:00"
 [event.location]
 city = ""
 name = "Deutschlandradio Kultur"
-street = ""
+street = "Frequenz 89,6 MHz"
 
 +++
 [https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html](https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html "https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html")
