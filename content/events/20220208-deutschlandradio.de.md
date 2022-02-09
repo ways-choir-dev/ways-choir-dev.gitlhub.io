@@ -11,8 +11,11 @@ type = "event"
 [event]
 date = "2022-02-08T00:00:00+01:00"
 [event.location]
-city = "(dieser Link funktioniert voraussichtlich nur bis Februar 2023)"
+city = ""
 name = "Deutschlandradio Kultur"
-street = "https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html"
+street = ""
 
 +++
+[https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html](https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html "https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html")
+
+(dieser Link funktioniert voraussichtlich nur bis Februar 2023)
