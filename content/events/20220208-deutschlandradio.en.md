@@ -9,7 +9,7 @@ tags = []
 title = "20220208-deutschlandradio"
 type = "event"
 [event]
-date = "2022-02-08T00:00:00+01:00"
+date = "2022-02-08T11:38:00+01:00"
 [event.location]
 city = ""
 name = "Deutschlandradio Kultur"
