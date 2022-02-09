@@ -24,4 +24,6 @@ Die WAYSies kommen aus ganz Berlin und Umgebung. Unser Probenraum ist derzeit pa
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1582401355/20190223_posing_axgcj5.jpg)
 
-Ein Interview, das der Radiosender Deutschlandfunk Kultur im Rahmen seiner Serie "Chor der Woche" mit uns geführt hat, wurde am 8. Februar 2022 ausgestrahlt. Der Podcast dazu kann auf der Webseite des Senders angehr werden ([https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html](https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html "hier klicken"))
+Ein Interview, das der Radiosender Deutschlandfunk Kultur im Rahmen seiner Serie "Chor der Woche" mit uns geführt hat, wurde am 8. Februar 2022 ausgestrahlt. Der Podcast dazu kann auf der Webseite des Senders angehört werden:
+
+[https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html](https://www.deutschlandfunkkultur.de/chor-der-woche-ways-choir-dlf-kultur-2ef0f715-100.html "Deutschlandfunk")
