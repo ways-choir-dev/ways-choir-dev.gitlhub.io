@@ -1,9 +1,8 @@
 +++
-banner = ""
+banner = "/v1644407503/Chor-der-Woche_n4ia3m.png"
 categories = ["concerts"]
-draft = true
 layout = "concert"
-listimg = ""
+listimg = "/v1644407503/Chor-der-Woche_n4ia3m.png"
 page_title = "\"Chor der Woche\" im Deutschlandradio Kultur"
 publish_date = ""
 tags = []
