@@ -23,7 +23,7 @@ With all your senses..
 
 ### February 2022
 
-If you are interested in singing with us we invite you to join our rehearsal on Monday, February 21st, 18:45-22:00. Please contact us in advance (phone +49 1575 0984161 or mail info@ways-choir.eu) so that we can plan accordingly.
+If you are interested in singing with us we invite you to join our rehearsal on Monday, February 21st, February 28th, or March 7th 18:45-22:00. Please contact us in advance (phone +49 1575 0984161 or mail info@ways-choir.eu) so that we can plan accordingly.
 
 Please note that we follow the mandatory COVID regulations for choirs:
 
