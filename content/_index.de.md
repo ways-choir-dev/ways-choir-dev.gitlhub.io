@@ -22,7 +22,7 @@ Mit all deinen Sinnen...
 
 ### Februar 2022
 
-Wenn du Lust hast, mit uns zu singen, laden wir dich ein, an einer Schnupperprobe teilzunehmen am Montag, 21. Februar von 18:45 bis 22.00 Uhr. Bitte melde dich vorher bei uns (Telefon +49 1575 0984161 oder Mail [info@ways-choir.eu](mailto:info@ways-choir.eu)), damit wir entsprechend planen können.
+Wenn du Lust hast, mit uns zu singen, laden wir dich ein, an einer Schnupperprobe teilzunehmen am Montag, 21. Februar oder 28. Februar oder 7. März von 18:45 bis 22.00 Uhr. Bitte melde dich vorher bei uns (Telefon +49 1575 0984161 oder Mail [info@ways-choir.eu](mailto:info@ways-choir.eu)), damit wir entsprechend planen können.
 
 Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
 
