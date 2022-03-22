@@ -23,7 +23,7 @@ With all your senses..
 
 ### March 2022
 
-The time for open rehearsals continue: the first Monday of each month everyone interested can participate in a rehearsal. At every other rehearsal there is also the opportunity to listen silently, but unfortunately not to sing along.
+The time for open rehearsals continues: the first Monday of each month everyone interested can participate in a rehearsal. At every other rehearsal there also is the opportunity to listen silently, but unfortunately not to sing along.
 
 So next rehearsals for participation are Monday, 4th April 2022 and Monday, 2nd May 2022, from 6:45 p.m. to 10:00 p.m.
 
