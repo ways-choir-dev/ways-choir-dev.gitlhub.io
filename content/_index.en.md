@@ -21,13 +21,21 @@ With all your senses..
 
 ## News
 
+### March 2022
+
+The time for open rehearsals continue: the first Monday of each month everyone interested can participate in a rehearsal. At every other rehearsal there is also the opportunity to listen silently, but unfortunately not to sing along.
+
+So next rehearsals for participation are Monday, 4th April 2022 and Monday, 2nd May 2022, from 6:45 p.m. to 10:00 p.m.
+
+Anyone who would like to attend a rehearsal is cordially invited. Please make sure to contact us in advance (telephone +49 1575 0984161 or email info@ways-choir.eu).
+
 ### February 2022
 
 If you are interested in singing with us we invite you to join our rehearsal on Monday, February 21st, February 28th, or March 7th 18:45-22:00. Please contact us in advance (phone +49 1575 0984161 or mail info@ways-choir.eu) so that we can plan accordingly.
 
 Please note that we follow the mandatory COVID regulations for choirs:
 
-* mask required (medical or FFP2)
+* mask required (medical or preferably FFP2)
 * COVID-19 QR-code required
 * negative test of the same day required
 
