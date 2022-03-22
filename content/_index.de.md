@@ -24,7 +24,7 @@ Mit all deinen Sinnen...
 
 Die offenen Proben gehen weiter: Jeden ersten Montag im Monat können Interessierte aktiv an einer Probe teilnehmen. Bei jeder anderen Probe besteht außerdem die Möglichkeit zum stillen Zuhören, aber leider nicht zum Mitsingen.
 
-Die nächsten Proben zum Mitsingen sind demnach Montag der 4. April 2022 und der 2. Mai 2022, jeweils von 18:45 bis 22:00 Uhr. 
+Die nächsten Proben zum Mitsingen sind demnach Montag der 4. April 2022 und der 2. Mai 2022, jeweils von 18:45 bis 22:00 Uhr.
 
 Wer zu einer Probe kommen möchte, ist herzlich dazu eingeladen. Bitte melde dich unbedingt vorher bei uns (Telefon +49 1575 0984161 oder Mail [info@ways-choir.eu](mailto:info@ways-choir.eu)).
 
@@ -34,7 +34,7 @@ Wenn du Lust hast, mit uns zu singen, laden wir dich ein, an einer Schnupperprob
 
 Wir halten uns an die vorgeschriebenen G2+ COVID Regeln für Chöre:
 
-* Maske (medizinisch oder FFP2)
+* Maske (medizinisch oder besser FFP2)
 * COVID-19 QR-Code
 * Negativtest vom selben Tag
 
