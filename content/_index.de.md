@@ -20,6 +20,14 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### März 2022
+
+Die offenen Proben gehen weiter: Jeden ersten Montag im Monat können Interessierte aktiv an einer Probe teilnehmen. Bei jeder anderen Probe besteht außerdem die Möglichkeit zum stillen Zuhören, aber leider nicht zum Mitsingen.
+
+Die nächsten Proben zum Mitsingen sind demnach Montag der 4. April 2022 und der 2. Mai 2022, jeweils von 18:45 bis 22:00 Uhr. 
+
+Wer zu einer Probe kommen möchte, ist herzlich dazu eingeladen. Bitte melde dich unbedingt vorher bei uns (Telefon +49 1575 0984161 oder Mail [info@ways-choir.eu](mailto:info@ways-choir.eu)).
+
 ### Februar 2022
 
 Wenn du Lust hast, mit uns zu singen, laden wir dich ein, an einer Schnupperprobe teilzunehmen am Montag, 21. Februar oder 28. Februar oder 7. März von 18:45 bis 22.00 Uhr. Bitte melde dich vorher bei uns (Telefon +49 1575 0984161 oder Mail [info@ways-choir.eu](mailto:info@ways-choir.eu)), damit wir entsprechend planen können.
