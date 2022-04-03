@@ -1,7 +1,6 @@
 +++
 banner = ""
 categories = ["concerts"]
-draft = true
 layout = "concert"
 listimg = ""
 page_title = "Summer Concert \"Together Again\""
@@ -12,8 +11,9 @@ type = "event"
 [event]
 date = "2022-07-02T19:30:00+02:00"
 [event.location]
-city = ""
-name = ""
-street = ""
+city = "10963 Berlin"
+name = "St. Lukas Church"
+street = "Bernburger Str. 3-5"
 
 +++
+With the motto "Together Again" WAYS celebrates the first big concert since the pandemic.
