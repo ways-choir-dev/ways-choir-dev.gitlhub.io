@@ -11,13 +11,9 @@ type = "event"
 [event]
 date = "2022-06-26T17:00:00+02:00"
 [event.location]
-city = ""
-name = ""
-street = ""
+city = "12459 Berlin"
+name = "Foyer der Landesmusikakademie"
+street = "Strasse zum FEZ 2"
 
 +++
-**Strasse zum FEZ 2, 12459 Berlin**
-
-WAYS tritt beim Berliner Chortreff auf - nicht als Wettbewerbsteilnehmender Chor, sondern außer Konkurrenz
-
-Genauere Details zu der Veranstaltung folgen später
+WAYS tritt beim Berliner Chortreff auf - außer Konkurrenz der anderen Chöre, die am Wettbewerb teilnehmen.
