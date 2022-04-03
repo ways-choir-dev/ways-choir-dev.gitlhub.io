@@ -20,3 +20,5 @@ street = ""
 **Strasse zum FEZ 2, 12459 Berlin**
 
 WAYS tritt beim Berliner Chortreff auf - nicht als Wettbewerbsteilnehmender Chor, sondern außer Konkurrenz
+
+Genauere Details zu der Veranstaltung folgen später
