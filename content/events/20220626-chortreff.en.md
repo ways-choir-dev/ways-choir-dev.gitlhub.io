@@ -16,6 +16,6 @@ name = ""
 street = ""
 
 +++
-WAYS takes part in the Berlin Choir Festival "Berliner Chortreff". 
+WAYS takes part in the Berlin Choir Festival "Berliner Chortreff", outside formal competition.
 
 More details about the concert will follow later.
