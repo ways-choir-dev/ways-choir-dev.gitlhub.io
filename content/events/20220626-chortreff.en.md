@@ -11,11 +11,9 @@ type = "event"
 [event]
 date = "2022-06-26T17:00:00+02:00"
 [event.location]
-city = ""
-name = ""
-street = ""
+city = "12459 Berlin"
+name = "Foyer der Landesmusikakademie"
+street = "Strasse zum FEZ 2"
 
 +++
 WAYS takes part in the Berlin Choir Festival "Berliner Chortreff", outside formal competition.
-
-More details about the concert will follow later.
