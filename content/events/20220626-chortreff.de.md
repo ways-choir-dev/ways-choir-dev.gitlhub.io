@@ -16,4 +16,4 @@ name = "Foyer der Landesmusikakademie"
 street = "Strasse zum FEZ 2"
 
 +++
-WAYS tritt beim Berliner Chortreff auf - außer Konkurrenz der anderen Chöre, die am Wettbewerb teilnehmen.
+WAYS tritt beim Berliner Chortreff auf - ein Gastspiel außer Konkurrenz der anderen Chöre, die am Wettbewerb teilnehmen.
