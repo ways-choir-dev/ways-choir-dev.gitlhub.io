@@ -1,7 +1,6 @@
 +++
 banner = "/v1649003223/FBF1E448-0C61-440E-ACC7-624D81521526.jpg"
 categories = ["concerts"]
-draft = true
 layout = "concert"
 listimg = "/v1649003223/1AA858E3-DC46-4817-8B49-89DDA4DA2695.jpg"
 page_title = "Berliner Chortreff"
