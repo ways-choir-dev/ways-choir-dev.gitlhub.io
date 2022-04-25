@@ -20,6 +20,7 @@ With the motto "Together Again" WAYS celebrates the first big concert since begi
 
 The St. Luke's Church is near the Anhalter Bahnhof.
 
-Admission from 7:00 p.m.  The concert starts at 7:30 p.m. and is expected to last until around 9:00 p.m. without a break.
+Admission from 7:00 p.m.    
+The concert starts at 7:30 p.m. and is expected to last until around 9:00 p.m. without a break.
 
 Tickets at the box office €15, concessions €9
