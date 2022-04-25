@@ -16,8 +16,10 @@ name = "St. Lukaskirche"
 street = "Bernburger Str. 3-5"
 
 +++
-Mit dem Motto "Together Again » feiert WAYS das erste große Konzert seit der Pandemie.
+Mit dem Motto "Together Again" feiert WAYS das erste große Konzert seit der Pandemie.
 
 Die St. Lukaskirche ist in der Nähe des Anhalter Bahnhofs.
 
-Das Konzert beginnt um 19.30 Uhr (bis ca. 21 Uhr ohne Pause).
+Einlass ab 19:00 Uhr. Das Konzert beginnt um 19:30 Uhr (voraussichtlich bis ca. 21 Uhr ohne Pause).
+
+Tickets an der Abendkasse 15 €, ermäßigt 9 €
