@@ -22,9 +22,8 @@ Mit all deinen Sinnen...
 
 ### April 2022
 
-Nach 2 Jahren Corona Pause endlich wieder mit vollem Programm auf der Bühne: 
-
-!! [Together Again](https://www.ways-choir.eu/events/20220702-together-again/ "Infos zum Konzert") !!
+Nach 2 Jahren Corona Pause endlich wieder mit vollem Programm auf der Bühne:  
+**!! Together Again !!** ([Hier klicken](https://www.ways-choir.eu/events/20220702-together-again/ "Infos zum Konzert") für weitere Infos)
 
 Wir freuen uns darauf unser Publikum wiederzusehen. Mit neuen Songs und neuen Sänger(inne)n, aber gewohnt groovig und mit guter Laune, werden wir die St. Lukas Kirche am Anhalter Bahnhof zum Klingen bringen.
 
