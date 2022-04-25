@@ -16,7 +16,7 @@ name = "St. Lukaskirche"
 street = "Bernburger Str. 3-5"
 
 +++
-Mit dem Motto "Together Again" feiert WAYS das erste große Konzert seit der Pandemie.
+Mit dem Motto "Together Again" feiert WAYS das erste große Konzert seit Beginn der Pandemie.
 
 Die St. Lukaskirche ist in der Nähe des Anhalter Bahnhofs.
 
