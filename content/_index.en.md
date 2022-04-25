@@ -21,6 +21,15 @@ With all your senses..
 
 ## News
 
+### April 2022
+
+After a 2-year Corona break, we are finally back on stage with a full program:
+
+**Together Again**  
+([click here](https://www.ways-choir.eu/en/events/20220702-together-again/ "Infos about the concert") for more information)
+
+We look forward to seeing our audience again.  With new songs and new singers, but as groovy as usual and in a good mood, we will make the St. Lukaskirche at Anhalter Bahnhof ring out.
+
 ### March 2022
 
 The time for open rehearsals continues: the first Monday of each month everyone interested can participate in a rehearsal. At every other rehearsal there also is the opportunity to listen silently, but unfortunately not to sing along.
