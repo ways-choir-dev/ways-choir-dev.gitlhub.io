@@ -118,7 +118,7 @@ keywords = "WAYS, gospel, soul, pop, choir, berlin, gunars, kalnins"
 address = "        <br>Bus-Stop e.V.\n        <br>Celsiusstr. 71-73\n        <br>12207 Berlin (Lichterfelde)\n        "
 email = "info@ways-choir.eu"
 name = "WAYS - With All Your Senses"
-phone = [ "+49 176-31331855 (Renata)", "+49 0157-50984161 (Martina)" ]
+phone = [ "+49 176-31331855 (Renata)", "+49 157-50984161 (Martina)" ]
 [params.contact.rehersal]
 end = "22:00"
 start = "19:00"
