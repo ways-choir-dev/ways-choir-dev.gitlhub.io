@@ -50,8 +50,8 @@
 
               {{ with .Site.Params.contact }}
 
-              {{ partial "rehersal.html" . }}
-              {{ partial "address.html" . }}
+                {{ partial "rehersal.html" . }}
+                {{ partial "address.html" . }}
 
               {{ end }}
 
@@ -60,6 +60,11 @@
                     {{ . }}
                 </div>
               {{ end }}
+
+              {{ with .Site.Params.contact }}
+                <br>
+                {{ partial "contact-phone-mail.html" . }}
+            {{ end }}
 
             </section>
           {{ end }}
