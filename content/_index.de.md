@@ -29,6 +29,8 @@ Nach 2 Jahren Corona-Pause endlich wieder mit vollem Programm auf der Bühne:
 
 Wir freuen uns darauf unser Publikum wiederzusehen. Mit neuen Songs und neuen Sänger(inne)n, aber gewohnt groovig und mit guter Laune, werden wir die St. Lukaskirche am Anhalter Bahnhof zum Klingen bringen.
 
+![](https://res.cloudinary.com/ways-choir/image/upload/v1653245626/20220702-Concert_TogetherAgain.jpg)
+
 ### März 2022
 
 Die offenen Proben gehen weiter: Jeden ersten Montag im Monat können Interessierte aktiv an einer Probe teilnehmen. Bei jeder anderen Probe besteht außerdem die Möglichkeit zum stillen Zuhören, aber leider nicht zum Mitsingen.
