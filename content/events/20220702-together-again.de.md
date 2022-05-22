@@ -1,5 +1,5 @@
 +++
-banner = "/v1653246660/20220702-Concert_TogetherAgain-Banner.jpg"
+banner = "/v1653246881/20220702-Concert_TogetherAgain-Banner.jpg"
 categories = ["concerts"]
 layout = "concert"
 listimg = "/v1653245626/20220702-Concert_TogetherAgain.jpg"
