@@ -1,8 +1,8 @@
 +++
-banner = ""
+banner = "/v1653246660/20220702-Concert_TogetherAgain-Banner.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = ""
+listimg = "/v1653245626/20220702-Concert_TogetherAgain.jpg"
 page_title = "Sommerkonzert \"Together Again\""
 publish_date = ""
 tags = []
