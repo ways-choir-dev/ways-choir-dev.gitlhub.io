@@ -22,7 +22,7 @@ Gunars speaks English with us, thus the rehearsal language is a sort of Denglisc
 
 The WAYSies come from all over Berlin and the surrounding area. Due to the pandemic is our rehearsal room currently in the family center "Bus-Stop e.V." in Berlin-**Lichterfelde**. Here we meet every Monday at 7:00 – 10:00 p.m. After the pandemic we plan to return to our previous rehearsal room at **Kudamm** although it is not yet foreseeable when this will be.
 
-![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
+![](https://res.cloudinary.com/ways-choir/image/upload/v1653678016/220521_Choir-WE.jpg)
 
 On 8th February 2022 WAYS was featured on national radio Deutschlandfunk Kultur. The portrait was part of the series "Choir of the Week". The podcast can be found on the homepage of the radio station:
 
