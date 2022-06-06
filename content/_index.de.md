@@ -16,7 +16,7 @@ Wir wollen "Songs mit Bedeutung" singen, mitreißen, begeistern!
 
 Mit all deinen Sinnen...
 
-![](https://res.cloudinary.com/ways-choir/image/upload/v1555003937/WAYS-alle-20190223b.jpg)
+![](https://res.cloudinary.com/ways-choir/image/upload/v1654533000/WAYS-May-2022.jpg)
 
 ## Neuigkeiten
 
