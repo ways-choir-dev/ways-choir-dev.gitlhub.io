@@ -20,6 +20,12 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Juni 2022
+
+Unsere Teilnahme am Berliner Chortreff 2022 im FEZ Wuhlheide wurde von der Abendschau des RBB dokumentiert. Den Beitrag findet ihr eine Woche lang in der [Mediathek des ARD](https://www.ardmediathek.de/video/rbb24/landesmusikrat-berlin-laedt-zum-chortreff-in-die-wuhlheide/rbb-fernsehen/Y3JpZDovL3JiYi1vbmxpbmUuZGUvcmJiMjQvMjAyMi0wNi0yNlQyMTo0NTowMF82NjQ4ZjEyZi1hOTZlLTQxNWMtYjNlNy0yZTdlZDNlYzQ5ZTgvTGFuZGVzbXVzaWtyYXQtQmVybGluLUNob3J0cmVmZi1FbnNlbWJsZXMtTGFuZGVzbXVzaWtha2FkZW1pZS1XdWhsaGVpZGUtQ2hyaXN0dXNraXJjaGUtY2hvcndldHRiZXdlcmI "ARD-Mediathek - RBB24").
+
+Das Video, das wir selbst im Vorfeld zur Ankündigung des Spektakels eingereicht hatten, wurde von Jury und Zuschauern als das beste Video aller teilnehmenden Chöre gewertet. Das YouTube-Video findet ihr [hier](https://www.youtube.com/watch?v=58OQJZcX2m4 "YouTube - WAYS beim Berliner Chortreff 2022").
+
 ### April 2022
 
 Nach 2 Jahren Corona-Pause endlich wieder mit vollem Programm auf der Bühne:
