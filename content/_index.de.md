@@ -26,6 +26,8 @@ Unsere Teilnahme am **Berliner Chortreff 2022** im FEZ Wuhlheide wurde von der A
 
 Das Video, das wir selbst im Vorfeld zur Ankündigung des Spektakels eingereicht hatten, wurde von Jury und Zuschauern als das beste Video aller teilnehmenden Chöre gewertet. Das YouTube-Video findet ihr [hier](https://www.youtube.com/watch?v=58OQJZcX2m4 "YouTube - WAYS beim Berliner Chortreff 2022").
 
+![](https://res.cloudinary.com/ways-choir/image/upload/v1656326044/220626_Chortreff-Video.jpg)
+
 ### April 2022
 
 Nach 2 Jahren Corona-Pause endlich wieder mit vollem Programm auf der Bühne:
