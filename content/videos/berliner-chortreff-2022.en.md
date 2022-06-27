@@ -1,5 +1,5 @@
 +++
-description = "This video is our announcement of the festival \"Berliner Chortreff 2022\". Jury and audience voted it the best video of all participating choirs.."
+description = "This video is our announcement of the festival \"Berliner Chortreff 2022\". Jury and audience voted it the best video of all participating choirs."
 page_title = "Berliner Chortreff 2022"
 tags = []
 title = "Berliner Chortreff 2022"
