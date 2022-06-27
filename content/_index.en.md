@@ -27,6 +27,8 @@ Our performance at the festival "**Berliner Chortreff 2022**" in FEZ Wuhlheide w
 
 The short video, which we made in advance of the spectacle as official announcement, was rated by jury and audience as the best video of all participating choirs. You can find the YouTube video [here](https://www.youtube.com/watch?v=58OQJZcX2m4 "YouTube - WAYS beim Berliner Chortreff 2022").
 
+![](https://res.cloudinary.com/ways-choir/image/upload/v1656326044/220626_Chortreff-Video.jpg)
+
 ### April 2022
 
 After a 2-year Corona break, we are finally back on stage with a full program:
