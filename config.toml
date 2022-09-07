@@ -118,7 +118,7 @@ keywords = "WAYS, gospel, soul, pop, choir, berlin, gunars, kalnins"
 address = "        <br>Nachbarschaftstreffpunkt \"Berliner Bär\"\n        <br>Holzmannstraße 18\n        <br>12099 Berlin (Tempelhof)\n        "
 email = "info@ways-choir.eu"
 name = "WAYS - With All Your Senses"
-phone = "+49 176-31331855 (Renata)"
+phone = ["+49 176-31331855 (Renata)"]
 [params.contact.rehersal]
 end = "22:00"
 start = "19:00"
