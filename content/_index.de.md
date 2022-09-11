@@ -20,6 +20,12 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### September 2022
+
+Nach einem Jahr überaus freundlicher Aufnahme im Jugendtreff "Bus-Stop" in Lichterfelde haben wir nun ein neues Zuhause in Tempelhof gefunden. Wir haben die Sommerpause mit unserer ersten Probe im sehr schönen Raum des Nachbarschaftstreffs "Berliner Bär" beendet.
+
+Wir sind glücklich und auch stolz, dass unser Sommerkonzert so gut ankam, dass wir einen zweiten Termin anbieten können. Wer im Juli keine Zeit hatte, keine Karte mehr bekommen hat oder uns einfach noch einmal sehen und hören möchte, kann dies am Samstag, 12.11.2022 in der Gustav-Adolf-Kirche, Herschelstraße 14-15, 10589 Berlin tun. Für Kartenreservierungen bitte E-Mail an [concerts@ways-choir.eu](mailto:concerts@ways-choir.eu "E-Mail").
+
 ### Juni 2022
 
 Unsere Teilnahme am **Berliner Chortreff 2022** im FEZ Wuhlheide wurde von der Abendschau des RBB dokumentiert. Den Beitrag findet ihr eine Woche lang in der [Mediathek des ARD](https://www.ardmediathek.de/video/rbb24/landesmusikrat-berlin-laedt-zum-chortreff-in-die-wuhlheide/rbb-fernsehen/Y3JpZDovL3JiYi1vbmxpbmUuZGUvcmJiMjQvMjAyMi0wNi0yNlQyMTo0NTowMF82NjQ4ZjEyZi1hOTZlLTQxNWMtYjNlNy0yZTdlZDNlYzQ5ZTgvTGFuZGVzbXVzaWtyYXQtQmVybGluLUNob3J0cmVmZi1FbnNlbWJsZXMtTGFuZGVzbXVzaWtha2FkZW1pZS1XdWhsaGVpZGUtQ2hyaXN0dXNraXJjaGUtY2hvcndldHRiZXdlcmI "ARD-Mediathek - RBB24").
