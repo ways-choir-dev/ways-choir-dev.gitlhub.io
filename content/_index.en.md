@@ -21,9 +21,15 @@ With all your senses..
 
 ## News
 
+### September 2022
+
+After one year of friendly welcome at the youth club "Bus-Stop" in Lichterfelde, we have now found a new home in Tempelhof.  We ended the summer break with our first rehearsal in the very nice room of the neighborhood club "Berliner Bär".
+
+We are happy and also proud that our summer concert was so well received that we can offer a second date.  If you didn't have time in July, didn't get a ticket or just want to see and hear us again, you can do so on Saturday, November 12th, 2022 in the Gustav-Adolf-Kirche, Herschelstraße 14-15, 10589 Berlin.  For ticket reservations please email [concerts@ways-choir.eu](mailto:concerts@ways-choir.eu "E-Mail").
+
 ### June 2022
 
-Our performance at the festival "**Berliner Chortreff 2022**" in FEZ Wuhlheide was live documented by the RBB evening news show. You can find their summary in the [ARD media library](https://www.ardmediathek.de/video/rbb24/landesmusikrat-berlin-laedt-zum-chortreff-in-die-wuhlheide/rbb-fernsehen/Y3JpZDovL3JiYi1vbmxpbmUuZGUvcmJiMjQvMjAyMi0wNi0yNlQyMTo0NTowMF82NjQ4ZjEyZi1hOTZlLTQxNWMtYjNlNy0yZTdlZDNlYzQ5ZTgvTGFuZGVzbXVzaWtyYXQtQmVybGluLUNob3J0cmVmZi1FbnNlbWJsZXMtTGFuZGVzbXVzaWtha2FkZW1pZS1XdWhsaGVpZGUtQ2hyaXN0dXNraXJjaGUtY2hvcndldHRiZXdlcmI "ARD-Mediathek - RBB24") for a week. 
+Our performance at the festival "**Berliner Chortreff 2022**" in FEZ Wuhlheide was live documented by the RBB evening news show. You can find their summary in the [ARD media library](https://www.ardmediathek.de/video/rbb24/landesmusikrat-berlin-laedt-zum-chortreff-in-die-wuhlheide/rbb-fernsehen/Y3JpZDovL3JiYi1vbmxpbmUuZGUvcmJiMjQvMjAyMi0wNi0yNlQyMTo0NTowMF82NjQ4ZjEyZi1hOTZlLTQxNWMtYjNlNy0yZTdlZDNlYzQ5ZTgvTGFuZGVzbXVzaWtyYXQtQmVybGluLUNob3J0cmVmZi1FbnNlbWJsZXMtTGFuZGVzbXVzaWtha2FkZW1pZS1XdWhsaGVpZGUtQ2hyaXN0dXNraXJjaGUtY2hvcndldHRiZXdlcmI "ARD-Mediathek - RBB24") for a week.
 
 The short video, which we made in advance of the spectacle as official announcement, was rated by jury and audience as the best video of all participating choirs. You can find the YouTube video [here](https://www.youtube.com/watch?v=58OQJZcX2m4 "YouTube - WAYS beim Berliner Chortreff 2022").
 
