@@ -31,3 +31,5 @@ Preise:
 * normal 15,- €
 * ermässigt 9,- €
 * Berlin Pass 5,- €
+
+Wir freuen uns auf euch!
