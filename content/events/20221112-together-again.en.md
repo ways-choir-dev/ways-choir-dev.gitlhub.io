@@ -16,4 +16,22 @@ name = "Gustav-Adolf-Kirche"
 street = "Herschelstr. 14"
 
 +++
-So far this is just a save the date. More information to follow, even the starting time isn't sure yet.
+We are happy and also proud that our summer concert was so well received that we can offer a second date.:
+
+# Together Again
+
+Timetable:
+
+* box office opens 18:00 Uhr
+* admission from 18:30 Uhr
+* concert begins at 19:00 Uhr
+
+Prices:
+
+* normal 15,- €
+* reduced 9,- €
+* Berlin Pass 5,- €
+
+For ticket reservations please send your email to: concerts@ways-choir.eu
+
+We're looking forward to seeing you there!
