@@ -32,4 +32,6 @@ Preise:
 * ermässigt 9,- €
 * Berlin Pass 5,- €
 
+Für Kartenreservierungen sendet bitte eure E-Mail an: concerts@ways-choir.eu
+
 Wir freuen uns auf euch!
