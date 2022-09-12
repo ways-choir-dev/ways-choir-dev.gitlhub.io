@@ -16,4 +16,18 @@ name = "Gustav-Adolf-Kirche"
 street = "Herschelstraße 14"
 
 +++
-Bisher nur eine Vorankündigung, Details folgen später, auch die Uhrzeit kann sich noch ändern.
+Wir sind glücklich und auch stolz, dass unser Sommerkonzert so gut ankam, dass wir einen zweiten Termin anbieten können:
+
+# Together Again
+
+Zeitplan:
+
+* Abendkasse ab 18:00 Uhr
+* Einlass ab 18:30 Uhr
+* Beginn um 19:00 Uhr
+
+Preise:
+
+* normal 15,- €
+* ermässigt 9,- €
+* Berlin Pass 5,- €
