@@ -20,7 +20,7 @@ We are happy and also proud that our summer concert was so well received that we
 
 # Together Again
 
-Timetable:
+Timetable: 
 
 * box office opens 18:00 Uhr
 * admission from 18:30 Uhr

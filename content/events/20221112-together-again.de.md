@@ -20,7 +20,7 @@ Wir sind glücklich und auch stolz, dass unser Sommerkonzert so gut ankam, dass 
 
 # Together Again
 
-Zeitplan:
+Zeitplan: 
 
 * Abendkasse ab 18:00 Uhr
 * Einlass ab 18:30 Uhr
