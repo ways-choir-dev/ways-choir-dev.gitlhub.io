@@ -2,7 +2,7 @@
 banner = "/v1653246881/20220702-Concert_TogetherAgain-Banner.jpg"
 categories = ["concerts"]
 layout = "concert"
-listimg = ""
+listimg = "/v1663088610/221112_Together-Again_Plakat.jpg"
 page_title = "Together Again"
 publish_date = ""
 tags = []
