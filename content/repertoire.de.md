@@ -7,6 +7,6 @@ type = "page"
 +++
 # WAYS Chor-Repertoire
 
-Hier ist unser bisheriges Gesamt-Repertoire:
+Hier ist unser bisheriges Gesamt-Repertoire.
 
 Alle Titel wurden ausnahmslos für Chor arrangiert von unserem Chorleiter Gunars Kalnins.
