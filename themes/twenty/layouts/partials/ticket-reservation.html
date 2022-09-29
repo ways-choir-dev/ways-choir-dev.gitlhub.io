@@ -1,0 +1,77 @@
+<div class="container" id="contact">
+
+    <div class="row">
+      <div class="col-7 col-12-mobile col-12-narrow col-12-normal">
+
+          <section class="wrapper style4 special medium">
+
+            <header class="special">
+              <span class="icon fa-envelope"></span>
+              {{ .Content }}
+            </header>
+
+                {{ if isset .Site.Params "email" }}
+
+                <!-- Content -->
+                <div class="content contact-message">
+                  <form class="contact-form" method="post" action="https://formspree.io/f/{{ .Site.Params.email }}">
+                    <div class="row gtr-50">
+                      <div class="col-6 col-12-mobile">
+                        <input type="text" name="name" placeholder="{{ i18n "contactName" }}" id="name" required>
+                      </div>
+                      <div class="col-6 col-12-mobile">
+                        <input type="text" name="_replyto" placeholder="{{ i18n "contactMail" }}" id="_replyto" required>
+                      </div>
+                      <div class="col-12">
+                        <input type="text" name="subject" placeholder="{{ i18n "subjectMail" }}" id="subject">
+                      </div>
+                      <div class="col-12">
+                        <textarea name="message" placeholder="{{ i18n "contactMessage" }}" rows="7" id="message" required></textarea>
+                      </div>
+                      <div class="col-12">
+                        <ul class="buttons">
+                          <li><input type="submit" class="special" value="{{ i18n "contactSend" }}"></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+
+                {{ end }}
+
+            </section>
+
+        </div>
+
+      <div class="col-5 col-12-mobile col-12-narrow col-12-normal">
+
+          {{ if isset .Site.Params "contact" }}
+            <section class="wrapper style4 special medium">
+
+              {{ with .Site.Params.contact }}
+
+                {{ partial "rehersal.html" . }}
+                {{ partial "address.html" . }}
+
+              {{ end }}
+
+              {{ with .Params.disclaimer }}
+                <div class="contact_displaimer">
+                    {{ . }}
+                </div>
+              {{ end }}
+
+              {{ with .Site.Params.contact }}
+                <br>
+                {{ partial "contact-phone-mail.html" . }}
+            {{ end }}
+
+            </section>
+          {{ end }}
+        </div>
+
+    </div>
+    <!-- /.row -->
+</div>
+
+{{ partial "openstreetmap.html" . }}
