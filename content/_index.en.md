@@ -21,6 +21,12 @@ With all your senses..
 
 ## News
 
+### Addendum
+
+We proudly present the tv contribution from the **Late Evening Show of the RBB24** about the Berliner Chortreff 2022, which was kindly made available to us by the RBB. The article mainly reports on WAYS as an example for the participating choirs.
+
+You can find the article now here on the website in our video section.
+
 ### September 2022
 
 After one year of friendly welcome at the youth club "Bus-Stop" in Lichterfelde, we have now found a new home in Tempelhof.  We ended the summer break with our first rehearsal in the very nice room of the neighborhood club "Berliner Bär".
