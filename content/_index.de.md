@@ -20,6 +20,12 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+Nachtrag
+
+Stolz präsentieren wir den Beitrag des RBB aus der Berliner Spätabendschau über den Berliner Chortreff 2022, der uns freundlicherweise vom RBB zur verfügung gestellt wurde. Der Beitrag berichtet zum großen Teil über WAYS exemplarisch für die teilnehmenden Chöre.
+
+Das Video findet ihr hier.
+
 ### September 2022
 
 Nach einem Jahr überaus freundlicher Aufnahme im Jugendtreff "Bus-Stop" in Lichterfelde haben wir nun ein neues Zuhause in Tempelhof gefunden. Wir haben die Sommerpause mit unserer ersten Probe im sehr schönen Raum des Nachbarschaftstreffs "Berliner Bär" beendet.
