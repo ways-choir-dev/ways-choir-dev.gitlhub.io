@@ -20,11 +20,11 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
-Nachtrag
+### Nachtrag
 
-Stolz präsentieren wir den Beitrag des RBB aus der Berliner Spätabendschau über den Berliner Chortreff 2022, der uns freundlicherweise vom RBB zur verfügung gestellt wurde. Der Beitrag berichtet zum großen Teil über WAYS exemplarisch für die teilnehmenden Chöre.
+Stolz präsentieren wir den Beitrag des RBB24 aus der Berliner Spätabendschau über den Berliner Chortreff 2022, der uns freundlicherweise vom RBB zur Verfügung gestellt wurde. Der Beitrag berichtet zum großen Teil über WAYS exemplarisch für die teilnehmenden Chöre.
 
-Das Video findet ihr hier.
+Den Beitrag findet ihr hier auf der Seite in unseren Videos.
 
 ### September 2022
 
