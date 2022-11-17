@@ -18,4 +18,4 @@ street = "Fuldastr. 48-50"
 +++
 Save the date.
 
-More information is to follow. 
+More detailled information is to follow.
