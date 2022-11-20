@@ -20,6 +20,23 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### November 2022
+
+Was für ein Fest!
+
+Wegen grosser Nachfrage haben wir am Samstag den 12.11. unser Sommerkonzert «Together Again» noch einmal wiederholt. Das Ergebnis: volles Haus in der Gustav-Adolf-Kirche in Charlottenburg.
+
+Wir sind überglücklich wieder auf der Bühne zu stehen und so ein tolles Publikum zu haben!
+
+Einen ganz besonderen Dank sagen wir auch all denen, die unsere Spendenbox gefüllt haben: Es kamen 470 € zusammen, die wir an die Berliner Kältehilfe überwiesen haben!   
+  
+Nun breiten wir ein neues Programm für nächstes Jahr vor. Streicht Euch schon mal den 17. Juni 2023 dick in Euren Kalendern an für ein WAYS-Konzert in der Martin-Luther-Kirche in Neukölln. Bis dann!  
+![Sängerinnen laufen singend über einen roten Teppich zur Bühne](https://res.cloudinary.com/ways-choir/image/upload/v1668952696/05457C06-B93C-4B1B-89FD-085CAFFE99CD.tiff "Das Konzert geht los!")
+
+![Gruppenbild des Chores WAYS nach dem Konzert](https://res.cloudinary.com/ways-choir/image/upload/v1668952696/B56C9765-E73B-4D9C-874E-1A797BF398F0.tiff "WAYS")
+
+![Logos vom Chor und der Berliner Kältehilfe](https://res.cloudinary.com/ways-choir/image/upload/v1668952695/A1EC480E-FB0D-44F5-8FDB-3C05855FCE63.tiff "Spende an die Berliner Kältehilfe")
+
 ### Nachtrag
 
 Stolz präsentieren wir den Beitrag aus der **Berliner Spätabendschau des RBB24** über den Berliner Chortreff 2022, der uns freundlicherweise vom RBB zur Verfügung gestellt wurde. Der Beitrag berichtet zum großen Teil über WAYS exemplarisch für die teilnehmenden Chöre.
