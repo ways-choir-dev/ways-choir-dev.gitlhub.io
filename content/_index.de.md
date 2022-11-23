@@ -32,12 +32,11 @@ Einen ganz besonderen Dank sagen wir auch all denen, die unsere Spendenbox gefü
 
 Nun breiten wir ein neues Programm für nächstes Jahr vor. Streicht Euch schon mal den 17. Juni 2023 dick in Euren Kalendern an für ein WAYS-Konzert in der Martin-Luther-Kirche in Neukölln. Bis dann!
 
-  
-![Sängerinnen laufen singend über einen roten Teppich zur Bühne](https://res.cloudinary.com/ways-choir/image/upload/v1668952696/05457C06-B93C-4B1B-89FD-085CAFFE99CD.tiff "Das Konzert geht los!")
+![Sängerinnen laufen singend über einen roten Teppich zur Bühne](https://res.cloudinary.com/ways-choir/image/upload/v1669224507/221112_Konzertbeginn.jpg "Das Konzert geht los!")
 
-![Gruppenbild des Chores WAYS nach dem Konzert](https://res.cloudinary.com/ways-choir/image/upload/v1668952696/B56C9765-E73B-4D9C-874E-1A797BF398F0.tiff "WAYS")
+![Gruppenbild des Chores WAYS nach dem Konzert](https://res.cloudinary.com/ways-choir/image/upload/v1669224508/221112_WAYS.jpg "WAYS")
 
-![Logos vom Chor und der Berliner Kältehilfe](https://res.cloudinary.com/ways-choir/image/upload/v1668952695/A1EC480E-FB0D-44F5-8FDB-3C05855FCE63.tiff "Spende an die Berliner Kältehilfe")
+![Logos vom Chor und der Berliner Kältehilfe](https://res.cloudinary.com/ways-choir/image/upload/v1669224508/221112_Spendenbox.jpg "Spende an die Berliner Kältehilfe")
 
 ### Nachtrag
 
