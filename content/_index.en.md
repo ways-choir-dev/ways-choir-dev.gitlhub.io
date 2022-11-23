@@ -29,15 +29,15 @@ Due to high demand we repeated our summer concert "Together Again" on Saturday 1
 
 We are overjoyed to be back on stage and to have a great audience!
 
-We would also like to say a very special thank you to everyone who filled our donation box: we collected €470 which we transferred to the Berliner Kältehilfe! 
+We would also like to say a very special thank you to everyone who filled our donation box: we collected €470 which we transferred to the Berliner Kältehilfe!
 
 Now we are preparing a new program for next year. You can already mark 17th June 2023 in your diary for a WAYS concert in the Martin-Luther-Church in Neukölln. See you there!
 
-![singers walking the red carpet to the stage already singing](https://res.cloudinary.com/ways-choir/image/upload/v1668952696/05457C06-B93C-4B1B-89FD-085CAFFE99CD.tiff "Let the show begin!")
+![singers walking the red carpet to the stage](https://res.cloudinary.com/ways-choir/image/upload/v1669224507/221112_Konzertbeginn.jpg "Let the show begin!")
 
-![group picture after the concert](https://res.cloudinary.com/ways-choir/image/upload/v1668952696/B56C9765-E73B-4D9C-874E-1A797BF398F0.tiff "WAYS Choir Berlin")
+![group picture after the concert](https://res.cloudinary.com/ways-choir/image/upload/v1669224508/221112_WAYS.jpg "WAYS Choir Berlin")
 
-![logos of WAYS and Berliner Kältehilfe](https://res.cloudinary.com/ways-choir/image/upload/v1668952695/A1EC480E-FB0D-44F5-8FDB-3C05855FCE63.tiff "Donation")
+![logos of WAYS and Berliner Kältehilfe](https://res.cloudinary.com/ways-choir/image/upload/v1669224508/221112_Spendenbox.jpg "Donation")
 
 ### Addendum
 
