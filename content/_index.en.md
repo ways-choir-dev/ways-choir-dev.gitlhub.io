@@ -21,6 +21,14 @@ With all your senses..
 
 ## News
 
+### December 2022
+
+On 30th November 2022 we gave a little performance at our new rehearsal location, the neighborhood meeting point "Berliner Bär". As thank you to the hosts for the warm welcome of our choir, fourteen WAYSies performed a few songs.  
+
+Unfortunately, our choirmaster Gunars couldn't take part, so we had to sing along with a playback recording. We were worried that it would be awful. But surprisingly it worked out well and even was a lot of fun. And our audience absolutely loved it.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1669932361/C2041C8D-5EAB-4882-8A15-7E473EB37CDD.jpg)
+
 ### November 2022
 
 What a party!
