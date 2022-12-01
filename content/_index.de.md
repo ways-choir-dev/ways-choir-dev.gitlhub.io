@@ -20,6 +20,12 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Dezember 2022
+
+Am 30.11.2022 hatten wir einen kleinen Auftritt an unserem neuen Probenort, dem Nachbarschaftstreffpunkt "Berliner Bär". Als kleines Dankeschön für den herzlichen Empfang unseres Chores dort gaben vierzehn WAYSies ein paar Songs zum Besten. Leider konnte unser Chorleiter Gunars nicht daran teilnehmen, so dass wir zu einer Playbackaufnahme singen mussten. Wir hatten Sorgen, dass das fürchterlich werden würde. Aber erstaunlicherweise hat es gut geklappt und sogar richtig Spaß gemacht. Und unser Publikum war total begeistert.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1669932361/C2041C8D-5EAB-4882-8A15-7E473EB37CDD.jpg)
+
 ### November 2022
 
 Was für ein Fest!
