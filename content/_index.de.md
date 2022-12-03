@@ -22,7 +22,7 @@ Mit all deinen Sinnen...
 
 ### Dezember 2022
 
-Am 30.11.2022 hatten wir einen kleinen Auftritt an unserem neuen Probenort, dem Nachbarschaftstreffpunkt "Berliner Bär". Als kleines Dankeschön für den herzlichen Empfang unseres Chores dort gaben vierzehn WAYSies ein paar Songs zum Besten. 
+Am 30.11.2022 hatten wir einen kleinen Auftritt an unserem neuen Probenort, dem Nachbarschaftstreffpunkt "Berliner Bär". Als kleines Dankeschön für den herzlichen Empfang unseres Chores dort gaben vierzehn WAYSies ein paar Songs zum Besten.
 
 Leider konnte unser Chorleiter Gunars nicht daran teilnehmen, so dass wir zu einer Playbackaufnahme singen mussten. Wir hatten Sorgen, dass das fürchterlich werden würde. Aber erstaunlicherweise hat es gut geklappt und sogar richtig Spaß gemacht. Und unser Publikum war total begeistert.
 
@@ -38,7 +38,7 @@ Wir sind überglücklich wieder auf der Bühne zu stehen und so ein tolles Publi
 
 Einen ganz besonderen Dank sagen wir auch all denen, die unsere Spendenbox gefüllt haben: Es kamen 470 € zusammen, die wir an die Berliner Kältehilfe überwiesen haben!
 
-Nun breiten wir ein neues Programm für nächstes Jahr vor. Streicht Euch schon mal den 17. Juni 2023 dick in Euren Kalendern an für ein WAYS-Konzert in der Martin-Luther-Kirche in Neukölln. Bis dann!
+Nun bereiten wir ein neues Programm für nächstes Jahr vor. Streicht Euch schon mal den 17. Juni 2023 dick in Euren Kalendern an für ein WAYS-Konzert in der Martin-Luther-Kirche in Neukölln. Bis dann!
 
 ![Sängerinnen laufen singend über einen roten Teppich zur Bühne](https://res.cloudinary.com/ways-choir/image/upload/v1669224507/221112_Konzertbeginn.jpg "Das Konzert geht los!")
 
