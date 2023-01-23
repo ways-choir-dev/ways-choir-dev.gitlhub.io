@@ -1,7 +1,6 @@
 +++
-banner = ""
+banner = "/v1674479783/22D53289-D139-4EC0-932B-B9E4AB2006F8.jpg"
 categories = ["concerts"]
-draft = true
 layout = "concert"
 listimg = ""
 page_title = "Total Choral"
