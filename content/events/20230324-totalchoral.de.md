@@ -1,6 +1,7 @@
 +++
 banner = ""
 categories = ["concerts"]
+draft = true
 layout = "concert"
 listimg = ""
 page_title = "Total Choral"
