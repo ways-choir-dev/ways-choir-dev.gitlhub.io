@@ -22,7 +22,7 @@ Mit all deinen Sinnen...
 
 ### Januar 2023
 
-Das Jahr 2023 ist gestartet; Zeit für einen Rückblick: In 2022 tat der WAYS-Chor nach den eher inaktiven Corona-Jahren wieder das, was er sich vorgenommen hat: Live zusammen proben und Chorkonzerte singen. Das Konzert beim Berliner Chortreff im Juni und die zwei Konzerte unter dem Motto „Together Again“ im Sommer und Herbst waren für die Sängerinnen und Sänger ein schönes Erlebnis.
+Das Jahr 2023 ist gestartet - Zeit für einen Rückblick: In 2022 tat der Chor WAYS nach den eher inaktiven Corona-Jahren wieder das, was er sich vorgenommen hatte: Live zusammen zu proben und Chorkonzerte zu singen. Das Konzert beim Berliner Chortreff im Juni und die zwei Konzerte unter dem Motto „Together Again“ im Sommer und Herbst waren für die Sängerinnen und Sänger ein schönes Erlebnis.
 
 Zu Beginn des Herbstes sind wir aus unserem vormaligen Probenraum im Interkulturellen Jugendzentrum „Bus-Stop“ in der „Thermometersiedlung“ (Lichterfelde) in unseren aktuellen Probenraum in der Senioren-Freizeitstätte „Berliner Bär“ in Tempelhof umgezogen. Der Raum ist groß und modern und hat eine gute Akustik. Wir sind zufrieden. Leider ist die Anbindung mit den Öffentlichen nicht ganz so gut.
 
