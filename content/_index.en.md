@@ -21,9 +21,19 @@ With all your senses..
 
 ## News
 
+### January 2023
+
+The year 2023 has started - time to look back: in 2022 the choir WAYS once again started doing what it sees as its mission: to rehearse live and to sing choir concerts. The concert at the Berliner Chortreff event in June and two concerts under the motto “Together Again” in the summer and autumn were a wonderful experience for all singers.
+
+At the beginning of autumn, we moved from our former rehearsal room in the intercultural youth centre “Bus-Stop” in the “Thermometersiedlung” in Berlin- Lichterfelde to our current venue in the senior citizens’ leisure centre “Berliner Bär” in Berlin-Tempelhof. The room is spacious and modern, and the acoustics are good. Unfortunately, access by public transport is not terribly good.
+
+The number of members had decreased during the covid pandemic, which gave us some worries. We are therefore delighted that a number of new singers joined us during the summer and autumn. We are now confident for the future and are looking forward to our first concert in March at the “Total Choral” event.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1676214838/Berliner-Baer_2023-01-09.jpg)
+
 ### December 2022
 
-On 30th November 2022 we gave a little performance at our new rehearsal location, the neighborhood meeting point "Berliner Bär". As thank you to the hosts for the warm welcome of our choir, fourteen WAYSies performed a few songs.  
+On 30th November 2022 we gave a little performance at our new rehearsal location, the neighborhood meeting point "Berliner Bär". As thank you to the hosts for the warm welcome of our choir, fourteen WAYSies performed a few songs.
 
 Unfortunately, our choirmaster Gunars couldn't take part, so we had to sing along with a playback recording. We were worried that it would be awful. But surprisingly it worked out well and even was a lot of fun. And our audience absolutely loved it.
 
