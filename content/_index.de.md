@@ -20,6 +20,16 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Januar 2023
+
+Das Jahr 2023 ist gestartet; Zeit für einen Rückblick: In 2022 tat der WAYS-Chor nach den eher inaktiven Corona-Jahren wieder das, was er sich vorgenommen hat: Live zusammen proben und Chorkonzerte singen. Das Konzert beim Berliner Chortreff im Juni und die zwei Konzerte unter dem Motto „Together Again“ im Sommer und Herbst waren für die Sängerinnen und Sänger ein schönes Erlebnis.
+
+Zu Beginn des Herbstes sind wir aus unserem vormaligen Probenraum im Interkulturellen Jugendzentrum „Bus-Stop“ in der „Thermometersiedlung“ (Lichterfelde) in unseren aktuellen Probenraum in der Senioren-Freizeitstätte „Berliner Bär“ in Tempelhof umgezogen. Der Raum ist groß und modern und hat eine gute Akustik. Wir sind zufrieden. Leider ist die Anbindung mit den Öffentlichen nicht ganz so gut.
+
+Die Zahl der Mitglieder war in der Corona-Zeit zurückgegangen und machte uns schon Sorgen. Um so mehr freuen wir uns, dass im Lauf des Sommers und Herbstes einige neue Sängerinnen und auch Sänger zu uns gestoßen sind. Wir blicken nun zuversichtlich nach vorne und freuen uns auf ein erstes Konzert im März bei „Total Choral“.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1676214838/Berliner-Baer_2023-01-09.jpg)
+
 ### Dezember 2022
 
 Am 30.11.2022 hatten wir einen kleinen Auftritt an unserem neuen Probenort, dem Nachbarschaftstreffpunkt "Berliner Bär". Als kleines Dankeschön für den herzlichen Empfang unseres Chores dort gaben vierzehn WAYSies ein paar Songs zum Besten.
