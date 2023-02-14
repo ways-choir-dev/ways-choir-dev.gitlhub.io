@@ -2,3 +2,4 @@
 .idea/
 public/
 /themes/twenty/original_HTML5UP/
+/.hugo_build.lock

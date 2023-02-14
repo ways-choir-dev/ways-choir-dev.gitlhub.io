@@ -7,4 +7,6 @@ draft = "false"
 +++
 # WAYS Choir Repertoire
 
-Here you can find our entire repertoire:
+Here you can find our entire repertoire.
+
+All songs, without exception, were arranged for choir by our choir director Gunars Kalnins.

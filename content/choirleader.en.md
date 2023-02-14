@@ -6,7 +6,7 @@ title = "Gunars Kalnins - Director of WAYS - WithAllYourSenses"
 type = "page"
 
 +++
-# Gunars Kalnins - Choirdirector of WAYS - With All Your Senses
+# Gunars Kalnins - Choir Director of WAYS - With All Your Senses
 
 Though born in Riga, Latvia, Gunars has made sunny Barcelona in Spain his base since 2009, where he lives and works. In addition, he works in and around Berlin on a regular basis.
 

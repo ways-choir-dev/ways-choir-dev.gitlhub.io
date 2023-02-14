@@ -52,11 +52,11 @@ parent = "menu_about"
 url = "/events/archive/"
 weight = 150
 [[languages.de.menu.main]]
-identifier = "menu_about_concert_archive"
-name = "Concert Archive"
+identifier = "menu_about_repertoire"
+name = "Repertoire"
 parent = "menu_about"
-url = "/events/archive/"
-weight = 150
+url = "/repertoire/"
+weight = 180
 [languages.en]
 languageName = "English"
 weight = 2
@@ -99,6 +99,18 @@ name = "Videos"
 parent = "menu_about"
 url = "/videos/"
 weight = 100
+[[languages.en.menu.main]]
+identifier = "menu_about_concert_archive"
+name = "Concert Archive"
+parent = "menu_about"
+url = "/events/archive/"
+weight = 150
+[[languages.en.menu.main]]
+identifier = "menu_about_repertoire"
+name = "Repertoire"
+parent = "menu_about"
+url = "/repertoire/"
+weight = 180
 [params]
 date_format = "2. January, 2006"
 email = "info@ways-choir.eu"
