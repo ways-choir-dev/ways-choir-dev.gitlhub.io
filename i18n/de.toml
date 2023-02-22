@@ -175,3 +175,27 @@ other = "Arrangement"
 other = "Uraufführung"
 [song_num]
 other = "Nr."
+[newsletterRegistrationFailed]
+other = "Ihre Anmeldung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+[newsletterRegisterInfo]
+other = "Melden Sie sich zu unserem Newsletter an, um auf dem Laufenden zu bleiben."
+[newsletterInsertEmail]
+other = "Geben Sie Ihre E-Mail-Adresse ein, um sich anzumelden"
+[newsletterInsertEmailInfo]
+other = "Geben Sie bitte Ihre E-Mail-Adresse für die Anmeldung an, z. B. abc@xyz.com."
+[newsletterRegisterConsent]
+other = "Ich möchte Ihren Newsletter erhalten und akzeptiere die Datenschutzerklärung."
+[newsletterSignOffInfo]
+other = "Sie können den Newsletter jederzeit über den Link in unserem Newsletter abbestellen."
+[newsletterSendInBlueInfo1]
+other = "Wir verwenden Sendinblue als unsere Marketing-Plattform. Wenn Sie das Formular ausfüllen und absenden, bestätigen Sie, dass die von Ihnen angegebenen Informationen an Sendinblue zur Bearbeitung gemäß den "
+[newsletterSendInBlueInfo2]
+other = " übertragen werden."
+[newsletterSendInBlueInfoLinkLabel]
+other = "Nutzungsbedingungen"
+[newsletterSubmitRegistration]
+other = "ANMELDEN"
+[newsletterErrInputInvalid]
+other = "Die eingegebenen Informationen sind nicht gültig. Bitte überprüfen Sie das Feldformat und versuchen Sie es erneut."
+[newsletterErrFieldEmpty]
+other = "Dieses Feld darf nicht leer sein."

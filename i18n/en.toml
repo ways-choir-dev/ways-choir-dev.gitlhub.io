@@ -175,3 +175,27 @@ other = "Arrangement"
 other = "Released"
 [song_num]
 other = "No."
+[newsletterRegistrationFailed]
+other = "Your registration could not be saved. Please try again."
+[newsletterRegisterInfo]
+other = "Subscribe to our newsletter to stay up to date."
+[newsletterInsertEmail]
+other = "Enter your email address to sign up"
+[newsletterInsertEmailInfo]
+other = "Please enter your email address for registration, e.g. abc@xyz.com."
+[newsletterRegisterConsent]
+other = "I would like to receive your newsletter and accept the privacy policy."
+[newsletterSignOffInfo]
+other = "You can unsubscribe from the newsletter at any time via the link in our newsletter."
+[newsletterSendInBlueInfo1]
+other = "We use Sendinblue as our marketing platform. By completing and submitting the form, you acknowledge that the information you have provided will be transferred to Sendinblue for processing in accordance with the "
+[newsletterSendInBlueInfo2]
+other = "."
+[newsletterSendInBlueInfoLinkLabel]
+other = "Terms of Service"
+[newsletterSubmitRegistration]
+other = "REGISTER"
+[newsletterErrInputInvalid]
+other = "The information you entered is not valid. Please check the field format and try again."
+[newsletterErrFieldEmpty]
+other = "This field can not be empty."
