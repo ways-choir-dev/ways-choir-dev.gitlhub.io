@@ -175,6 +175,11 @@ other = "Arrangement"
 other = "Released"
 [song_num]
 other = "No."
+
+[newsletterTitle]
+other = "WAYS Newsletter"
+[newsletterRegistrationSuccess]
+other = "Your registration has been successful."
 [newsletterRegistrationFailed]
 other = "Your registration could not be saved. Please try again."
 [newsletterRegisterInfo]

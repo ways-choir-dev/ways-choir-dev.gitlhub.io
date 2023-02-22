@@ -175,6 +175,11 @@ other = "Arrangement"
 other = "Uraufführung"
 [song_num]
 other = "Nr."
+
+[newsletterTitle]
+other = "WAYS Newsletter"
+[newsletterRegistrationSuccess]
+other = "Ihre Anmeldung war erfolgreich."
 [newsletterRegistrationFailed]
 other = "Ihre Anmeldung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
 [newsletterRegisterInfo]
