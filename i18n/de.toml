@@ -204,3 +204,9 @@ other = "ANMELDEN"
 other = "Die eingegebenen Informationen sind nicht gültig. Bitte überprüfen Sie das Feldformat und versuchen Sie es erneut."
 [newsletterErrFieldEmpty]
 other = "Dieses Feld darf nicht leer sein."
+[newsletterSignupTitle]
+other = "WAYS Newsletter"
+[SignUpToNewsletterButLabel]
+other = "Zur Newsletter Anmeldung..."
+[SignUpToNewsletterInfo]
+other = "Bleibt informiert und meldet euch zu unserem Newletter an!"

@@ -204,3 +204,9 @@ other = "REGISTER"
 other = "The information you entered is not valid. Please check the field format and try again."
 [newsletterErrFieldEmpty]
 other = "This field can not be empty."
+[newsletterSignupTitle]
+other = "WAYS Newsletter"
+[SignUpToNewsletterButLabel]
+other = "To Newsletter Registration..."
+[SignUpToNewsletterInfo]
+other = "Keep in touch and subscribe to our newsletter!"

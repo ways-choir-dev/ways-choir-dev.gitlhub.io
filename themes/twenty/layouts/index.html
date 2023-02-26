@@ -21,8 +21,8 @@
 
 								</div>
 								<div class="col-4 col-12-narrower imp-narrower">
-
-                  {{ .Params.sidebar_content | markdownify }}
+                                  {{ partial "newsletter-sign-up.html" . }}
+                                  {{ .Params.sidebar_content | markdownify }}
 								</div>
 							</div>
 						</section>
@@ -82,7 +82,12 @@
 
 						</section>
 
-          <!-- Contact data and link to contact page -->
+        <!-- Newsletter registraion -->
+        <section class="wrapper style5 container special">
+                    {{ partial "newsletter-sign-up.html" . }}
+        </section>
+
+                    <!-- Contact data and link to contact page -->
           <section class="wrapper style5 container special">
             <div class="row aln-center"><h4>{{ i18n "contactTitle" }}</h4></div>
             {{ with .Site.Params.contact }}

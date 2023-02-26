@@ -40,13 +40,13 @@
                 {{ end }}
 
             </section>
-
-        </div>
+      </div>
 
       <div class="col-5 col-12-mobile col-12-narrow col-12-normal">
 
-          {{ if isset .Site.Params "contact" }}
             <section class="wrapper style4 special medium">
+              {{ partial "newsletter-sign-up.html" . }}
+              <p></p>
 
               {{ with .Site.Params.contact }}
 
@@ -65,12 +65,9 @@
                 <br>
                 {{ partial "contact-phone-mail.html" . }}
             {{ end }}
-
             </section>
-          {{ end }}
-        </div>
 
-    </div>
+      </div>
     <!-- /.row -->
 </div>
 
