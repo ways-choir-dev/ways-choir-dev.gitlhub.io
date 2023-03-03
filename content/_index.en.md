@@ -37,7 +37,7 @@ When I'm here I am in another world that enriches me and gives me moments of hap
 
 I am very grateful that we can rehearse under normal conditions again, because during the zoom period we not only missed the music, but also each other.
 
-A few words about the choreography: a challenge for the coordination of movement and music. Certainly not that easy for everyone, but by now even I think, yes great, that's good, trains the senses and the body. And it is fun.
+A few words about the choreography: a challenge for the coordination of movement and music. Certainly not that easy for everyone, but by now even I think, yes great, that's good, it trains the senses and the body. And it is fun.
 
 It is a gift for me to be able to be there, and I would like to take this opportunity to say THANK YOU to everyone for the great choir work. And I'm happy that on Sunday I don't think about the upcoming workday, but rather with great ANTICIPATION about REHEARSAL.
 
