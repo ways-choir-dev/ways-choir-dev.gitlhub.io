@@ -30,7 +30,7 @@ Unser Chor trifft sich jeden Montagabend für drei Stunden in einem schönen, ko
 
 Für mich sind diese Stunden des gemeinsamen Probens ein Highlight. Ich hätte nie gedacht, dass gemeinsames Musikmachen soviele Sinne anregt und Gefühle erweckt. Abgesehen davon werden aus müden, erschöpften, aus dem Montagsalltag kommenden Geschöpfen im Laufe der Chorprobe wache, hochkonzentrierte Menschen mit Glanz in den Augen und einem Lächeln im Gesicht.
 
-Das ist natürlich auch der großartigen, sensiblen Chorarbeit unseres Chorleiters Gunars zu verdanken, der uns alle mitreißt, unsere Konzentration pusht und das Feingefühl für die Musik einzigartig vermittelt. Außerdem ist seine virtuose Klavierbegleitung mit Improvisationen und seine Lebendigkeit ein Genuss. Faszinierend ist sein Aufspüren von Missklängen und wie er uns dabei hilft, Emotionen in die Songs zu packen, bis wir nicht nur mit der Technik sondern auch mit Herz und Seele dabei sind ... der Chorname "WAYS - With All Your Senses" - spricht für sich.
+Das ist natürlich auch der großartigen, sensiblen Chorarbeit unseres Chorleiters Gunars zu verdanken, der uns alle mitreißt, unsere Konzentration pusht und das Feingefühl für die Musik einzigartig vermittelt. Außerdem ist seine virtuose Klavierbegleitung mit Improvisationen und seine Lebendigkeit ein Genuss. Faszinierend ist sein Aufspüren von Missklängen und wie er uns dabei hilft, Emotionen in die Songs zu packen, bis wir nicht nur mit der Technik, sondern auch mit Herz und Seele dabei sind ... der Chorname "WAYS - With All Your Senses" - spricht für sich.
 
 Ich bin dort in einer anderen Welt, die mich bereichert und mir Glücksmomente verschafft.
 
