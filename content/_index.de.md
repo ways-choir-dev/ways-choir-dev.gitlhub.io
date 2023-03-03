@@ -36,7 +36,7 @@ Ich bin dort in einer anderen Welt, die mich bereichert und mir Glücksmomente v
 
 Ich bin sehr dankbar, dass wir wieder unter normalen Bedingungen proben können, weil wir in der Zoom-Zeit nicht nur die Musik, sondern auch uns vermisst haben.
 
-Nun zur Choreographie: eine Herausforderung für die Bewegungskoordination mit der Musike, sicherlich nicht für jeden so einfach, aber mittlerweile denke auch ich, ja prima, das tut gut, trainiert die Sinne und den Körper und macht Spaß.
+Nun zur Choreographie: eine Herausforderung für die Bewegungskoordination mit der Musike. Sicherlich nicht für jeden so einfach, aber mittlerweile denke auch ich, ja prima, das tut gut, trainiert die Sinne und den Körper und macht Spaß.
 
 Es ist für mich ein Geschenk, dabei sein zu können, und ich möchte an dieser Stelle DANKE sagen an alle für die tolle Chorarbeit. Und ich freue mich, dass ich sonntags nicht an die Arbeit am Montag, sondern mit großer VORFREUDE an die REHEARSAL denke.
 
