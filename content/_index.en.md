@@ -31,7 +31,7 @@ Our choir meets every Monday evening for three hours in a nice, comfortable rehe
 
 For me, these hours together are a highlight each week. I would never have thought that making music together stimulates so many senses and awakens all these feelings. In the course of the choir rehearsal, all these tired, exhausted creatures coming from everyday Monday life become awake, highly concentrated people with bright eyes and a smile on their faces.
 
-Of course, this is also largely due to the great, sensitive work of our choir director Gunars, who carries us all along, pushes our concentration and conveys a unique feeling for the music. In addition, his virtuosic piano accompaniment with improvisations and his liveliness is a sheer pleasure. His detection of discords is fascinating. He helps us to insert emotions into the songs until we are not only there with the technique but also with heart and soul ... the choir name "WAYS - With All Your Senses" speaks for itself.
+Of course, this is also largely due to the great, sensitive work of our choir director Gunars, who carries us all along, pushes our concentration and conveys a unique feeling for the music. In addition, his virtuosic piano accompaniment with improvisations and his liveliness is a sheer pleasure. His detection of discords is fascinating. He helps us to insert emotions into the songs until we are not only there with the technique but also with heart and soul ... the choir's name "WAYS - With All Your Senses" speaks for itself.
 
 When I'm here I am in another world that enriches me and gives me moments of happiness.
 
