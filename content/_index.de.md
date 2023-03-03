@@ -20,6 +20,28 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### Februar 2023
+
+Wie fühlt es sich an, Mitglied bei WAYS zu sein? Unser langjähriges Mitglied Petite lässt uns mit dieser persönlichen Innenansicht ein wenig an dem Chorleben teilhaben:
+
+#### Rehearsal – Chorprobe – "Rehörsel" (*denglisch)
+
+Unser Chor trifft sich jeden Montagabend für drei Stunden in einem schönen, komfortablen Probenraum. Die Proben finden in deutsch-englischer Sprache statt. Geprobt werden Lieder, die unser Chorleiter selbst komponiert oder arrangiert hat, und es gibt auch Stücke mit Choreographie.
+
+Für mich sind diese Stunden des gemeinsamen Probens ein Highlight. Ich hätte nie gedacht, dass gemeinsames Musikmachen soviel Sinne anregt und Gefühle erweckt. Abgesehen davon werden aus müden, erschöpften, aus dem Montagsalltag kommenden Geschöpfen im Laufe der Chorprobe wache, hochkonzentrierte Menschen mit Glanz in den Augen und einem Lächeln im Gesicht.
+
+Das ist natürlich auch der großartigen, sensiblen Chorarbeit unseres Chorleiters Gunars zu verdanken, der uns alle mitreißt, unsere Konzentration pusht und das Feingefühl für die Musik einzigartig vermittelt. Außerdem ist seine virtuose Klavierbegleitung mit Improvisationen und seine Lebendigkeit ein Genuss. Faszinierend ist sein Aufspüren von Missklängen und wie er uns dabei hilft, Emotionen in die Songs zu packen, bis wir nicht nur mit der Technik sondern auch mit Herz und Seele dabei sind ... der Chorname "WAYS - With All Your Senses" - spricht für sich.
+
+Ich bin dort in einer anderen Welt, die mich bereichert und mir Glücksmomente verschafft.
+
+Ich bin sehr dankbar, dass wir wieder unter normalen Bedingungen proben können, weil wir in der Zoom-Zeit nicht nur die Musik, sondern auch uns vermisst haben.
+
+Nun zur Choreographie: eine Herausforderung für die Bewegungskoordination mit der Musike, sicherlich nicht für jeden so einfach, aber mittlerweile denke auch ich, ja prima, das tut gut, trainiert die Sinne und den Körper und macht Spaß.
+
+Es ist für mich ein Geschenk, dabei sein zu können, und ich möchte an dieser Stelle DANKE sagen an alle für die tolle Chorarbeit. Und ich freue mich, dass ich sonntags nicht an die Arbeit am Montag, sondern mit großer VORFREUDE an die REHEARSAL denke.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1677860397/Rehoersal-Feb-2023.jpg)
+
 ### Januar 2023
 
 Das Jahr 2023 ist gestartet - Zeit für einen Rückblick: In 2022 tat der Chor WAYS nach den eher inaktiven Corona-Jahren wieder das, was er sich vorgenommen hatte: Live zusammen zu proben und Chorkonzerte zu singen. Das Konzert beim Berliner Chortreff im Juni und die zwei Konzerte unter dem Motto „Together Again“ im Sommer und Herbst waren für die Sängerinnen und Sänger ein schönes Erlebnis.
