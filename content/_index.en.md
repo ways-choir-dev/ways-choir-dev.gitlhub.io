@@ -21,6 +21,28 @@ With all your senses..
 
 ## News
 
+### February 2023
+
+How does it feel to be a member of WAYS? Our long-time member Petite lets us take part in the life of the choir with her personal inside view:
+
+#### Rehearsal – Chorprobe – “Rehörsel” (*Denglish)
+
+Our choir meets every Monday evening for three hours in a nice, comfortable rehearsal room. The rehearsals take part in a mix of German and English language. We sing songs which our choir director composed or arranged himself, and there are also songs with additional choreography.
+
+For me, these hours together are a highlight each week. I would never have thought that making music together stimulates so many senses and awakens all these feelings. In the course of the choir rehearsal, all these tired, exhausted creatures coming from everyday Monday life become awake, highly concentrated people with bright eyes and a smile on their faces.
+
+Of course, this is also largely due to the great, sensitive work of our choir director Gunars, who carries us all along, pushes our concentration and conveys a unique feeling for the music. In addition, his virtuosic piano accompaniment with improvisations and his liveliness is a sheer pleasure. His detection of discords is fascinating. He helps us to insert emotions into the songs until we are not only there with the technique but also with heart and soul ... the choir name "WAYS - With All Your Senses" speaks for itself.
+
+When I'm here I am in another world that enriches me and gives me moments of happiness.
+
+I am very grateful that we can rehearse under normal conditions again, because during the zoom period we not only missed the music, but also each other.
+
+A few words about the choreography: a challenge for the coordination of movement and music. Certainly not that easy for everyone, but by now even I think, yes great, that's good, trains the senses and the body. And it is fun.
+
+It is a gift for me to be able to be there, and I would like to take this opportunity to say THANK YOU to everyone for the great choir work. And I'm happy that on Sunday I don't think about the upcoming workday, but rather with great ANTICIPATION about REHEARSAL.
+
+![](https://res.cloudinary.com/ways-choir/image/upload/v1677860397/Rehoersal-Feb-2023.jpg)
+
 ### January 2023
 
 The year 2023 has started - time to look back: in 2022 the choir WAYS once again started doing what it sees as its mission: to rehearse live and to sing choir concerts. The concert at the Berliner Chortreff event in June and two concerts under the motto “Together Again” in the summer and autumn were a wonderful experience for all singers.
