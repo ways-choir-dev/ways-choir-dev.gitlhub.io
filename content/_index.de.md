@@ -22,7 +22,7 @@ Mit all deinen Sinnen...
 
 ### Februar 2023
 
-Wie fühlt es sich an, Mitglied bei WAYS zu sein? Unser langjähriges Mitglied Petite lässt uns mit dieser persönlichen Innenansicht ein wenig an dem Chorleben teilhaben:
+Wie fühlt es sich an, Mitglied bei WAYS zu sein? Unser langjähriges Mitglied Heike lässt uns mit dieser persönlichen Innenansicht ein wenig an dem Chorleben teilhaben:
 
 #### Rehearsal – Chorprobe – "Rehörsel" (*denglisch)
 
@@ -38,7 +38,7 @@ Ich bin sehr dankbar, dass wir wieder unter normalen Bedingungen proben können,
 
 Nun zur Choreographie: eine Herausforderung für die Bewegungskoordination mit der Musike. Sicherlich nicht für jeden so einfach, aber mittlerweile denke auch ich, ja prima, das tut gut, trainiert die Sinne und den Körper und macht Spaß.
 
-Es ist für mich ein Geschenk, dabei sein zu können, und ich möchte an dieser Stelle DANKE sagen an alle für die tolle Chorarbeit. Und ich freue mich, dass ich sonntags nicht an die Arbeit am Montag, sondern mit großer VORFREUDE an die REHEARSAL denke.
+Es ist für mich ein Geschenk, dabei sein zu können, und ich möchte an dieser Stelle DANKE sagen an alle für die tolle Chorarbeit. Und ich freue mich, dass ich sonntags nicht an die Arbeit am Montag, sondern mit großer VORFREUDE an die REHÖRSAL denke.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1677860397/Rehoersal-Feb-2023.jpg)
 
