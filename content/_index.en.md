@@ -23,7 +23,7 @@ With all your senses..
 
 ### February 2023
 
-How does it feel to be a member of WAYS? Our long-time member Petite lets us take part in the life of the choir with her personal inside view:
+How does it feel to be a member of WAYS? Our long-time member Heike lets us take part in the life of the choir with her personal inside view:
 
 #### Rehearsal – Chorprobe – “Rehörsel” (*Denglish)
 
@@ -39,7 +39,7 @@ I am very grateful that we can rehearse under normal conditions again, because d
 
 A few words about the choreography: a challenge for the coordination of movement and music. Certainly not that easy for everyone, but by now even I think, yes great, that's good, it trains the senses and the body. And it is fun.
 
-I consider it a gift for me to be able to be there, and I would like to take this opportunity to say THANK YOU to everyone for the great choir work. And I'm happy that on Sunday I don't think about the upcoming workday, but rather with great ANTICIPATION about REHEARSAL.
+I consider it a gift for me to be able to be there, and I would like to take this opportunity to say THANK YOU to everyone for the great choir work. And I'm happy that on Sunday I don't think about the upcoming workday, but rather with great ANTICIPATION about REHÖRSAL.
 
 ![](https://res.cloudinary.com/ways-choir/image/upload/v1677860397/Rehoersal-Feb-2023.jpg)
 
