@@ -23,7 +23,7 @@ With all your senses..
 
 ### February 2023
 
-How does it feel to be a member of WAYS? Our long-time member Petite lets us take part in the life of the choir with her personal inside view:
+How does it feel to be a member of WAYS? Our long-time member Heike lets us take part in the life of the choir with her personal inside view:
 
 #### Rehearsal – Chorprobe – “Rehörsel” (*Denglish)
 
