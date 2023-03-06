@@ -47,7 +47,7 @@ I consider it a gift for me to be able to be there, and I would like to take thi
 
 The year 2023 has started - time to look back: in 2022 the choir WAYS once again started doing what it sees as its mission: to rehearse live and to sing choir concerts. The concert at the Berliner Chortreff event in June and two concerts under the motto “Together Again” in the summer and autumn were a wonderful experience for all singers.
 
-At the beginning of autumn, we moved from our former rehearsal room in the intercultural youth centre “Bus-Stop” in the “Thermometersiedlung” in Berlin- Lichterfelde to our current venue in the senior citizens’ leisure centre “Berliner Bär” in Berlin-Tempelhof. The room is spacious and modern, and the acoustics are good. Unfortunately, access by public transport is not terribly good.
+At the beginning of autumn, we moved from our former rehearsal room in the intercultural youth centre “Bus-Stop” in the “Thermometersiedlung” in Berlin- Lichterfelde to our current venue in the senior citizens’ leisure centre “Berliner Bär” in Berlin-Tempelhof. The room is spacious and modern, and the acoustics are good. 
 
 The number of members had decreased during the covid pandemic, which gave us some worries. We are therefore delighted that a number of new singers joined us during the summer and autumn. We are now confident for the future and are looking forward to our first concert in March at the “Total Choral” event.
 
