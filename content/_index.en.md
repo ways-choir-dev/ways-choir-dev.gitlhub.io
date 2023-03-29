@@ -21,6 +21,22 @@ With all your senses..
 
 ## News
 
+### March 2023
+
+WAYS at Total Choral 2023
+
+It was sooo phantastic!
+
+After the long break due to the pandemic and two concerts last year, our choir finally took part again in the choir festival "Total Choral". Thanks to the good organization we could fully concentrate on singing.
+
+The house was full, the wonderful audience quickly turned enthusiastic, and we as a choir had a lot of fun singing.  For our choir members Sarah, Julia and Eiko it was the concert premiere with WAYS, which they mastered with flying colours. You are a real asset to this choir! In general, we are a great and colorful mix of music-loving people.  And if I ask friends, it's exactly this enthusiasm we convey when we sing which our fans appreciate so much.
+
+The partner choir _inspired!_ under direction of Rebecca Tjimbawe delighted the audience with their gospels. And so, in the end, everyone went home happy.
+
+A big thank you to the many volunteers from the Total Choral Festival and Cafe Schalotte. Thank you for the good sound, the great lighting and the good supply of drinks. You always make us feel welcome and we'd love to come back!
+
+And of course a huge thank you to Gunars Kalnins - our beloved choirmaster - who brought this choir to life and without whom we would not be WAYS.
+
 ### February 2023
 
 How does it feel to be a member of WAYS? Our long-time member Heike lets us take part in the life of the choir with her personal inside view:
@@ -47,7 +63,7 @@ I consider it a gift for me to be able to be there, and I would like to take thi
 
 The year 2023 has started - time to look back: in 2022 the choir WAYS once again started doing what it sees as its mission: to rehearse live and to sing choir concerts. The concert at the Berliner Chortreff event in June and two concerts under the motto “Together Again” in the summer and autumn were a wonderful experience for all singers.
 
-At the beginning of autumn, we moved from our former rehearsal room in the intercultural youth centre “Bus-Stop” in the “Thermometersiedlung” in Berlin- Lichterfelde to our current venue in the senior citizens’ leisure centre “Berliner Bär” in Berlin-Tempelhof. The room is spacious and modern, and the acoustics are good. 
+At the beginning of autumn, we moved from our former rehearsal room in the intercultural youth centre “Bus-Stop” in the “Thermometersiedlung” in Berlin- Lichterfelde to our current venue in the senior citizens’ leisure centre “Berliner Bär” in Berlin-Tempelhof. The room is spacious and modern, and the acoustics are good.
 
 The number of members had decreased during the covid pandemic, which gave us some worries. We are therefore delighted that a number of new singers joined us during the summer and autumn. We are now confident for the future and are looking forward to our first concert in March at the “Total Choral” event.
 
