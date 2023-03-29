@@ -20,6 +20,22 @@ Mit all deinen Sinnen...
 
 ## Neuigkeiten
 
+### März 2023
+
+WAYS bei Total Choral 2023
+
+Es war soooo schön!
+
+Nach der langen Corona-Pause und zwei Konzerten im vergangenen Jahr hat unser Chor dieses Jahr endlich mal wieder an dem wunderbaren Chor-Festival Total Choral teilgenommen. Aufgrund der guten Organisation konnten wir uns voll auf das Singen konzentrieren.
+
+Der Saal war voll, das wunderbare Publikum war schnell zu begeistern und so hatten wir als Chor sehr viel Freude beim Singen. Für unsere Chormitglieder Sarah, Julia und Eiko war es die Konzertpremiere mit WAYS, die sie mit Bravour gemeistert haben. Ihr seid eine echte Bereicherung für diesen Chor! Überhaupt sind wir einfach eine tolle und bunte Mischung musikbegeisterter Menschen. Und wenn ich Freunde frage, ist es genau diese Begeisterung, die wir beim Singen vermitteln, für die uns unsere Fans so schätzen.
+
+Auch der Chor inspired! unter der Leitung von Rebecca Tjimbawe konnte das Publikum mit seinen wunderbaren Gospels begeistern. Und so sind dann am Ende alle zufrieden nach Hause gegangen.
+
+Eine ganz herzlicher Dank gilt den vielen ehrenamtlichen Helfern vom Festival Total Choral und vom Cafe Schalotte. Vielen Dank für den guten Ton, die tolle Beleuchtung und die gute Versorgung mit Getränken. Bei euch fühlt man sich immer willkommen und wir kommen gerne wieder!
+
+Und natürlich Danke an Gunars Kalnins – unseren geliebten Chorleiter – der diesen Chor ins Leben gerufen hat und ohne den wir nicht WAYS wären.
+
 ### Februar 2023
 
 Wie fühlt es sich an, Mitglied bei WAYS zu sein? Unser langjähriges Mitglied Heike lässt uns mit dieser persönlichen Innenansicht ein wenig an dem Chorleben teilhaben:
