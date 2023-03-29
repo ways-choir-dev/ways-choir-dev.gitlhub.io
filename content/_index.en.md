@@ -23,11 +23,11 @@ With all your senses..
 
 ### March 2023
 
-WAYS at Total Choral 2023
+WAYS at _Total Choral 2023_
 
 It was sooo phantastic!
 
-After the long break due to the pandemic and two concerts last year, our choir finally took part again in the choir festival "Total Choral". Thanks to the good organization we could fully concentrate on singing.
+After the long break due to the pandemic and two concerts last year, our choir finally took part again in the choir festival _Total Choral_. Thanks to the good organization we could fully concentrate on singing.
 
 The house was full, the wonderful audience quickly turned enthusiastic, and we as a choir had a lot of fun singing.  For our choir members Sarah, Julia and Eiko it was the concert premiere with WAYS, which they mastered with flying colours. You are a real asset to this choir! In general, we are a great and colorful mix of music-loving people.  And if I ask friends, it's exactly this enthusiasm we convey when we sing which our fans appreciate so much.
 
