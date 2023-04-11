@@ -69,208 +69,208 @@ export default defineConfig({
           ...startseiteFields(),
         ],
       },
-      {
-        format: "md",
-        label: "Startpage (English)",
-        name: "startpage__english_",
-        path: "content",
-        match: {
-          include: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...startseiteFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Events (Konzert, Deutsch)",
-        name: "events__konzert__deutsch_",
-        path: "content/events",
-        match: {
-          include: "**/*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...concertFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Events (English)",
-        name: "events__english_",
-        path: "content/events",
-        match: {
-          include: "**/*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...concertFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Photos (Deutsch)",
-        name: "photos__deutsch_",
-        path: "content/photos",
-        match: {
-          include: "**/*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...photoselectionFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Photos (English)",
-        name: "photos__english_",
-        path: "content/photos",
-        match: {
-          include: "**/*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...photoselectionFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Videos (Deutsch)",
-        name: "videos__deutsch_",
-        path: "content/videos",
-        match: {
-          include: "**/*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...videoFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Videos (English)",
-        name: "videos__english_",
-        path: "content/videos",
-        match: {
-          include: "**/*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...videoFields(),
-        ],
-      },
-      {
-        format: "json",
-        label: "Repertoire Data",
-        name: "repertoire_data",
-        path: "data",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "repertoire",
-        },
-        fields: [
-          {
-            name: "dummy",
-            label: "Dummy field",
-            type: "string",
-            description:
-              "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
-          },
-        ],
-      },
-      {
-        format: "md",
-        label: "Uncategorised Pages ( nicht kategorisierbare Seiten, Deutsch)",
-        name: "uncategorised_pages___nicht_kategorisierbare_seiten__deutsch_",
-        path: "content",
-        match: {
-          include: "*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...simplepageFields(),
-        ],
-      },
-      {
-        format: "md",
-        label: "Uncategorised Pages (English)",
-        name: "uncategorised_pages__english_",
-        path: "content",
-        match: {
-          include: "*",
-          exclude: "_index",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...simplepageFields(),
-        ],
-      },
+      // {
+      //   format: "md",
+      //   label: "Startpage (English)",
+      //   name: "startpage__english_",
+      //   path: "content",
+      //   match: {
+      //     include: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...startseiteFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Events (Konzert, Deutsch)",
+      //   name: "events__konzert__deutsch_",
+      //   path: "content/events",
+      //   match: {
+      //     include: "**/*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...concertFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Events (English)",
+      //   name: "events__english_",
+      //   path: "content/events",
+      //   match: {
+      //     include: "**/*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...concertFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Photos (Deutsch)",
+      //   name: "photos__deutsch_",
+      //   path: "content/photos",
+      //   match: {
+      //     include: "**/*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...photoselectionFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Photos (English)",
+      //   name: "photos__english_",
+      //   path: "content/photos",
+      //   match: {
+      //     include: "**/*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...photoselectionFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Videos (Deutsch)",
+      //   name: "videos__deutsch_",
+      //   path: "content/videos",
+      //   match: {
+      //     include: "**/*",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...videoFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Videos (English)",
+      //   name: "videos__english_",
+      //   path: "content/videos",
+      //   match: {
+      //     include: "**/*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...videoFields(),
+      //   ],
+      // },
+      // {
+      //   format: "json",
+      //   label: "Repertoire Data",
+      //   name: "repertoire_data",
+      //   path: "data",
+      //   ui: {
+      //     allowedActions: {
+      //       create: false,
+      //       delete: false,
+      //     },
+      //   },
+      //   match: {
+      //     include: "repertoire",
+      //   },
+      //   fields: [
+      //     {
+      //       name: "dummy",
+      //       label: "Dummy field",
+      //       type: "string",
+      //       description:
+      //         "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
+      //     },
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Uncategorised Pages ( nicht kategorisierbare Seiten, Deutsch)",
+      //   name: "uncategorised_pages___nicht_kategorisierbare_seiten__deutsch_",
+      //   path: "content",
+      //   match: {
+      //     include: "*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...simplepageFields(),
+      //   ],
+      // },
+      // {
+      //   format: "md",
+      //   label: "Uncategorised Pages (English)",
+      //   name: "uncategorised_pages__english_",
+      //   path: "content",
+      //   match: {
+      //     include: "*",
+      //     exclude: "_index",
+      //   },
+      //   fields: [
+      //     {
+      //       type: "rich-text",
+      //       name: "body",
+      //       label: "Body of Document",
+      //       description: "This is the markdown body",
+      //       isBody: true,
+      //     },
+      //     ...simplepageFields(),
+      //   ],
+      // },
     ],
   },
 });
