@@ -1,3 +1,8 @@
+---
+_template: photoselection
+---
+
+
 +++
 page_title = "WAYS Meets inspired! - Konzert vom 30. November 2019"
 photo_collection = ["/v1581106455/DSC_5777_kzby64.jpg", "/v1581106455/DSC_5805_hmh2e5.jpg", "/v1581106455/DSC_5798_uctxub.jpg", "/v1581106455/DSC_5770_dgb3cv.jpg"]

@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = "WAYS beim „Sing Berlin“-Wettbewerb im Juli 2018"
 page_title = "Bridge Over Troubled Water - 2018"

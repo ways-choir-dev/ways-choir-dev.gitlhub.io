@@ -1,3 +1,8 @@
+---
+_template: startseite
+---
+
+
 +++
 page_sub_title = "with all your senses<br>Gospel-Soul-Pop-Choir<br>Berlin<br><br>"
 page_title = "WAYS"

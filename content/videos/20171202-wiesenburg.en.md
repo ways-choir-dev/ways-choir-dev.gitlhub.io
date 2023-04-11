@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = ""
 draft = true

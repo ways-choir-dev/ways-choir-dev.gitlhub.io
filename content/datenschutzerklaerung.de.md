@@ -1,3 +1,8 @@
+---
+_template: simplepage
+---
+
+
 +++
 forestry_title = "Datenschutzerklaerung"
 page_sub_title = ""

@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = "September - WAYS Meets inspired! - from the Concert at 30th of November, 2019"
 draft = true

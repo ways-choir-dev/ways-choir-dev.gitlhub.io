@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = "Ausschnitt aus dem WAYS-Sommerkonzert 2017"
 page_title = "Chain of Fools - Juli 2017"

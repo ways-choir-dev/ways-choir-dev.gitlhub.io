@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = "Zusammenschnitt aus dem WAYS-Konzert \"It Can Move You, Too\", Juli 2017"
 page_title = "It can move you, too - 2017"

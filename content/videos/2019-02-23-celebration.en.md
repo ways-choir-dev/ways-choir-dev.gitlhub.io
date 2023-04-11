@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = "opening song of the WAYS celebration concert 2019"
 page_title = "Celebration - February 2019"

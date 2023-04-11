@@ -1,3 +1,8 @@
+---
+_template: video
+---
+
+
 +++
 description = "one title of the WAYS summer concert 2017"
 page_title = "Chain of Fools - July 2017"

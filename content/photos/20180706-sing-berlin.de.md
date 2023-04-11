@@ -1,3 +1,8 @@
+---
+_template: photoselection
+---
+
+
 +++
 page_title = "WAYS beim SingBerlin Chorwettbewerb 2018"
 photo_collection = ["/v1581117489/SingBerlin-Urkunde_xzhezm.jpg", "/v1581117489/SingBerlin-Pokal_wctggr.jpg", "/v1581117490/Chorauftritt-13_lwtajb.jpg", "/v1581117492/Chor-Siegerbild2_kc8al7.jpg", "/v1581117492/Preisverleihung-2_slbs2u.jpg", "/v1581117492/Preisverleihung_xkk7nz.jpg"]

@@ -1,3 +1,8 @@
+---
+_template: repertoire
+---
+
+
 +++
 id = "repertoire-table"
 page_title = "WAYS - Chor-Repertoire"

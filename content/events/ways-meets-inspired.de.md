@@ -1,3 +1,8 @@
+---
+_template: concert
+---
+
+
 +++
 banner = "/v1578226760/WAYS_meets_inspired_Banner.png"
 categories = ["concerts"]

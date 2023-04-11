@@ -1,3 +1,8 @@
+---
+_template: concert
+---
+
+
 +++
 banner = "/v1644408285/Chor-der-Woche_tt5kwo.png"
 categories = ["concerts"]

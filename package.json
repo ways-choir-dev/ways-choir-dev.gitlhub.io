@@ -1,0 +1,24 @@
+{
+  "name": "ways-website",
+  "version": "1.0.0",
+  "description": "Neue Website des Gospel-Soul-Pop-Chors WAYS - WithAllYourSenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ways-choir-dev/ways-choir-dev.gitlhub.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ways-choir-dev/ways-choir-dev.gitlhub.io/issues"
+  },
+  "homepage": "https://github.com/ways-choir-dev/ways-choir-dev.gitlhub.io#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.5",
+    "tinacms": "^1.4.5"
+  }
+}

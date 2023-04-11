@@ -1,3 +1,8 @@
+---
+_template: repertoire
+---
+
+
 +++
 page_title = "WAYS - Choir Repertoire"
 title = "WAYS - Choir Repertoire"

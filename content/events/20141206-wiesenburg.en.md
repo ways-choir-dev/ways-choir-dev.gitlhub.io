@@ -1,3 +1,8 @@
+---
+_template: concert
+---
+
+
 +++
 banner = "/v1582373849/20141206_banner_wv6lo5.jpg"
 categories = ["concerts"]

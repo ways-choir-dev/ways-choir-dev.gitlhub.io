@@ -1,3 +1,8 @@
+---
+_template: concert
+---
+
+
 +++
 banner = "/v1582376817/20150905_banner_czatpp.jpg"
 categories = ["concerts"]

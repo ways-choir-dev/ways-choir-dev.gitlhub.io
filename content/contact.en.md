@@ -1,3 +1,8 @@
+---
+_template: simplepage
+---
+
+
 +++
 banner = ""
 date = "2018-04-02T21:59:33+00:00"
